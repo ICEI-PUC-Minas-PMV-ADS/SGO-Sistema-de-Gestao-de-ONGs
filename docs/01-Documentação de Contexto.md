@@ -1,18 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os reflexos da exclusão social são sentidos por uma parcela da sociedade, a fome e as pessoas em situação de rua aumentaram, significativamente, entre 2020 e 2022, o levantamento feito pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede Penssan) (2022) trouxe dados cruéis: cerca de 33 milhões de pessoas estão passando fome no Brasil. O país, que desde 2018 se encontra no Mapa da Fome das Nações Unidas, sofre com os cortes constantes no Sistema Único de Assistência Social (SUAS). 
+
+Como resultado do enfraquecimento das políticas públicas e desmonte do Estado, temos o crescimento das Organizações Não Governamentais (ONGs). É inegável o papel solidário que essas organizações desempenham, pois elas tentam suprir as necessidades básicas de sobrevivência das pessoas, mas, infelizmente, são insuficientes porque não atacam a causa do problema. 
+
+Alguns autores, como Argiles (2012) e Silva (2015), destacam o aumento da pobreza e das pessoas em situação de rua devido à precarização das relações de trabalho, o desemprego e as transformações econômicas. O que fica em evidência é que a cada avanço no processo de globalização temos, também, grupos sociais excluídos e esquecidos por grande parte da sociedade.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme o exposto, busca-se minimizar os reflexos da exclusão social e da pobreza – como a fome – vivenciados por uma parcela, muitas vezes, “invisível” aos olhos da sociedade.
 
 ## Objetivos
 
@@ -25,22 +21,20 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com a Constituição Federal (CF) de 1988 a assistência social é um direito de todos os cidadãos, para acessá-la não é necessário ter contribuído, ou seja, é uma política não contributiva e é dever do Estado atender a todos os cidadãos que dela necessitar. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Vale destacar que a política de assistência social se realiza de forma articulada entre a iniciativa pública, privada e da sociedade civil, garantindo assim a proteção social à família, à infância, à adolescência, à velhice; amparo a crianças e adolescentes carentes; à promoção da integração ao mercado de trabalho e à reabilitação e promoção de integração à comunidade para as pessoas com deficiência e o pagamento de benefícios aos idosos e as pessoas com deficiência. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A iniciativa pública também é chamada de primeiro setor onde temos o papel do Governo, já a iniciativa privada é conhecida como segundo setor e temos as empresas privadas em seu cerne. É no terceiro setor que temos as associações sem fins lucrativos, várias organizações fazem parte dele, trata-se das ONGs (Organizações Não Governamentais) e OSCIPs (Organizações da Sociedade Civil de Interesse Público). 
+
+Segundo Perez (2009), os primeiros registros de atuação das ONGs datam durante o período militar (1964 – 1985) em busca da defesa dos direitos sociais. E, para Landim (2002), seu crescimento acelerado se dá, sobretudo, pelas décadas de 80 e 90 onde foram consolidando seu espaço de atuação. 
+
+Em suma, o terceiro setor atua em locais onde o Estado “não consegue chegar” e é por conta disso que exerce um papel tão significativo na sociedade, pois seu objetivo principal é melhorar a qualidade de vida das pessoas que se encontram em vulnerabilidade social e excluídas da sociedade.  
+
+Desde os primórdios da humanidade o homem se organizava em grupos e/ou associações para ações solidárias e, para Salamon (1988), as atividades voluntárias tem crescido em nível global tanto em países de primeiro mundo, quanto nos em desenvolvimento. As pessoas se unem para trabalhar em prol de um objetivo em comum e não são remuneradas para isso, ou seja, quem atua nos projetos das ONGs são voluntários, pessoas comuns da sociedade. 
+
+O estudo realizado pelo Ipea (2002) corrobora sobre os trabalhos realizados nas ONGs, a pesquisa mostrou que 77% delas são de pequeno porte e dependem do apoio dos voluntários quase que integralmente. Assim sendo, percebe-se a necessidade de organização e fluidez na gestão das mesmas por conta da demanda altíssima de trabalho e, também, para melhor aproveitamento do tempo.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Este projeto é direcionado aos gestores da ONG Domingo Solidário que necessitam de um melhor planejamento para a organização dos voluntários da mesma.
