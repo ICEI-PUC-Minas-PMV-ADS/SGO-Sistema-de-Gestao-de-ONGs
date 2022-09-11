@@ -8,16 +8,22 @@ Alguns autores, como Argiles (2012) e Silva (2015), destacam o aumento da pobrez
 
 ## Problema
 
-Conforme o exposto, busca-se minimizar os reflexos da exclusão social e da pobreza – como a fome – vivenciados por uma parcela, muitas vezes, “invisível” aos olhos da sociedade.
+Conforme o exposto, busca-se, por meio da tecnologia, contribuir para minimizar os reflexos da exclusão social e da pobreza – como a fome – vivenciados por uma parcela, muitas vezes, “invisível” aos olhos da sociedade.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Gerir, através de um sistema interno, o cadastro de voluntários e doadores da ONG Domingo Solidário. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+#### Como objetivos específicos, podemos ressaltar: 
+
+- Desenvolver a funcionalidade de Login, por parte do Gestor, no sistema interno;
+- Desenvolver a funcionalidade de cadastro de voluntários;
+- Desenvolver a funcionalidade de listagem dos voluntários cadastrados;
+- Desenvolver a funcionalidade de cadastro de doadores;
+- Desenvolver a funcionalidade de listagem dos doadores;
+- Visualizar a quantidade de voluntários cadastrados no sistema. 
+ 
 
 ## Justificativa
 
@@ -37,4 +43,4 @@ O estudo realizado pelo Ipea (2002) corrobora sobre os trabalhos realizados nas 
 
 ## Público-Alvo
 
-Este projeto é direcionado aos gestores da ONG Domingo Solidário que necessitam de um melhor planejamento para a organização dos voluntários da mesma.
+Este projeto é direcionado aos gestores da ONG Domingo Solidário que necessitam de um melhor planejamento para a organização dos voluntários e doadores da mesma.
