@@ -100,3 +100,5 @@ Os diagramas são utilizados na documentação e modelagem dos sistemas e de sua
 Em linhas gerais, o diagrama de casos de uso documenta o que o sistema deve fazer do ponto de vista de quem o utiliza, dessa forma, ele apresenta as principais funcionalidades do sistema e a interação dessas com os usuários. 
 
 O diagrama a seguir diz respeito ao projeto em questão:
+
+![Diagrama de Caso de Uso](img/diagrama_gestor.jpeg)
