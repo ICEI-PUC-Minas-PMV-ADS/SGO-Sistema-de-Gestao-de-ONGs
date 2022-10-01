@@ -34,13 +34,16 @@ Com a observação do cotidiano das personas e a compreensão de suas necessidad
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |José                | Cadastrar os voluntários no sistema| Ter uma melhor organização no dia da ação. |
-|Maria               | Ter a opção de colocar a função do voluntário na hora do cadastro| Distribuir e localizar mais facilmente as pessoas no dia da ação. |
+|Maria               | Ter a opção de colocar a função do voluntário na hora do cadastro| facilitar a gestão dos voluntários no planejamento das ações da ONG. |
 |José                | Cadastrar os doadores no sistema | Fazer contato com os doadores antes da ação.  |
 |Maria                | Visualizar, em forma de lista, os voluntários com as suas respectivas informações de contato | Facilitar a gestão dos voluntários no planejamento das ações da ONG. |
-|José                | Visualizar na home uma opção de contato com o suporte | Poder entrar em contato no caso de algum problema com o sistema. |
+|José                | Ter uma opção de contato com o suporte | Poder entrar em contato no caso de algum problema com o sistema. |
 |José                | Editar a função do voluntário | Para caso alguém queira trocar de função. |
-|Maria                | Habilitar ou desabilitar o voluntário de acordo com o mês vigente | Nem todos voluntários tem disponibilidade todos os meses. |
-|José                | Visualizar a quantidade de voluntários cadastrados na home | Melhorar a gestão da ONG. |
+|Maria                | Editar a disponibilidade do voluntário de acordo com o mês vigente.   | Nem todos voluntários tem disponibilidade todos os meses. |
+|José                | Editar as informações de cadastro de doadores e voluntários |  Caso a pessoa mude de telefone ou E-mail, por exemplo. |
+|Maria               | Excluir voluntários ou doadores do sistema  |  Caso a pessoa não queira mais contribuir com a ONG.  |
+|José                | Visualizar, em forma de lista, os doadores com as suas respectivas informações de contato  | fazer contato com os doadores antes da ação.  |
+|José                | Visualizar a quantidade de voluntários e doadores cadastrados na home | Melhorar a gestão da ONG. |
 
 
 ## Requisitos do Projeto
@@ -58,19 +61,19 @@ Os requisitos funcionais do projeto e seus respectivos níveis de prioridade de 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve ter uma tela para o gestor logar | ALTA | 
-|RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários | ALTA |
-|RF-03| A tela de home deve ter um botão para acessar os voluntários cadastrados   | ALTA |
-|RF-04| O site deve conter, no momento do cadastro, os campos para preenchimento: Nome, Telefone, E-mail e a função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
-|RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários.    | MÉDIA |
-|RF-06| O sistema deve permitir ao gestor alterar a função do voluntário.    | BAIXA |
-|RF-07| A lista com o nome de cada voluntário deve ter a opção de habilitar ou desabilitar para o mês vigente.    | MÉDIA |
-|RF-08| A home do sistema deve ter a opção de cadastro de doadores com os seguintes campos: Nome, Telefone e E-mail.     | ALTA |
-|RF-09| A tela home deve ter um botão para acessar a lista de doadores cadastrados.    | ALTA |
-|RF-10| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores.     | MÉDIA |
-|RF-11| O site deve ter uma opção de contato com o suporte.    | BAIXA |
-|RF-12| O site deve ter em sua home a quantidade de voluntários cadastrados.     | MÉDIA |
-
+|RF-01| O sistema deve ter uma tela para o gestor realizar login, com os seguintes campos de preenchimento: E-mail e senha.  | ALTA | 
+|RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores | ALTA |
+|RF-03| A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados.    | ALTA |
+|RF-04| O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
+|RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição dos dados cadastrados.    | MÉDIA |
+|RF-06| O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário.     | BAIXA |
+|RF-07| O sistema deve permitir ao gestor excluir o voluntário cadastrado.     | BAIXA |
+|RF-08| A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail.      | ALTA |
+|RF-09| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição dos dados cadastrados.     | MÉDIA |
+|RF-10| O sistema deve permitir ao gestor alterar os dados cadastrais do doador.      | BAIXA |
+|RF-11| O sistema deve permitir ao gestor excluir o doador cadastrado.     | BAIXA |
+|RF-12| O sistema deve ter uma tela com opções para contactar o suporte técnico.       | BAIXA |
+|RF-13| O site deve ter em sua home a quantidade de voluntários e doadores cadastrados.     | MÉDIA |
 ### Requisitos não Funcionais
 
 Os requisitos não funcionais que a equipe deverá seguir durante o desenvolvimento, como também seus respectivos níveis de prioridade de entrega são apresentados na tabela a seguir.
@@ -102,3 +105,5 @@ Em linhas gerais, o diagrama de casos de uso documenta o que o sistema deve faze
 O diagrama a seguir diz respeito ao projeto em questão:
 
 ![Diagrama de Caso de Uso](img/diagrama_gestor.jpeg)
+
+*alterar imagem*
