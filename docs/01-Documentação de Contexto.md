@@ -22,7 +22,8 @@ Gerir, através de um sistema interno, o cadastro de voluntários e doadores da 
 - Desenvolver a funcionalidade de listagem dos voluntários cadastrados;
 - Desenvolver a funcionalidade de cadastro de doadores;
 - Desenvolver a funcionalidade de listagem dos doadores;
-- Visualizar a quantidade de voluntários cadastrados no sistema. 
+- Desenvolver a funcionalidade de edição e exclusão do cadastro de voluntários e doadores; 
+- Visualizar a quantidade de voluntários e de doadores cadastrados no sistema. 
  
 
 ## Justificativa
