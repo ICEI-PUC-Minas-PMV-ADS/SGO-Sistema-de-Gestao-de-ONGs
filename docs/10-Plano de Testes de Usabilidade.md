@@ -8,4 +8,30 @@ Serão selecionados 5 participantes, sendo eles voluntários que se encaixam no 
 
 Os testes serão realizados de forma online. Os voluntários serão orientados a acessar a aplicação em um computador ou dispositivo móvel e executar as tarefas descritas a seguir e darão um feedback sobre as dificuldades encontradas e sua satisfação com o produto.
 
-*finalizar*
+|CASO DE TESTE| CT-01 – Prevenir erros |
+| :--------------------: | :------------------------------------ |
+| Requisitos Associados | RNF-04 - A interface deve ser agradável, intuitiva e de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados.  |
+| Objetivo do Teste | Verificar a existência de caixas de confirmação de ação.  |
+| Passos | Ao clicar em "Excluir” apresentar ao usuário uma mensagem para validar a remoção. |
+| Critérios de Êxito | "Você tem certeza que deseja excluir o cadastro?" com as opções de escolha: “Sim” ou “Não”.  |
+
+|CASO DE TESTE| CT-02 – Fornecer feedbacks informativos e marcar o final dos diálogos |
+| :--------------------: | :------------------------------------ |
+| Requisitos Associados | RNF-06 - O sistema deverá retornar ao usuário mensagem ao término de uma tarefa.  |
+| Objetivo do Teste | Verificar a existência de caixas de mensagens de fim.  |
+| Passos | Na ação do usuário a aplicação deve prover uma resposta informativa e deixar claro quando uma ação foi concluída com êxito. |
+| Critérios de Êxito | "Cadastro realizado com sucesso!" |
+
+|CASO DE TESTE| CT-03 – Usuário reconhecer, diagnosticar e recuperar seus erros  |
+| :--------------------: | :------------------------------------ |
+| Requisitos Associados | RNF-07 - Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  |
+| Objetivo do Teste | Ajudar o usuário a reparar um erro.  |
+| Passos | Informar ao usuário os campos obrigatórios, apresentar aviso de formulários. |
+| Critérios de Êxito | (*) Campo de preenchimento obrigatório; Mensagem informando o tipo do campo que deve ser preenchido, por exemplo no campo Telefone mostrar o texto “Insira seu número de Telefone”. |
+
+|CASO DE TESTE| CT-04 – Reconhecer, em vez de recordar  |
+| :--------------------: | :------------------------------------ |
+| Requisitos Associados | RNF-08 - Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.  |
+| Objetivo do Teste | Verificar se a aplicação possui ícones que apenas olhando o símbolo já reconhece o que significa.  |
+| Passos | Prover interação por meio da imagem que significa o item que pretende representar. |
+| Critérios de Êxito | "Editar" com o ícone de um lápis. |
