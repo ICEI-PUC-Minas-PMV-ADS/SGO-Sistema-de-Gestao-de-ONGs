@@ -20,7 +20,7 @@ Todas as telas do sistema possuem uma estrutura padrão comum. Nesta estrutura, 
 
 ![Estrutura do Site](img/estrutura-do-site.png)
 
-### Login
+- Login
 
 A tela de login contém, no bloco de Cabeçalho, a logo do sistema e a logo da ONG Domingo Solidário.
 
@@ -30,7 +30,7 @@ E finalmente, no bloco de Rodapé, possuí o botão “Suporte”.
 
 ![Login](img/wireframes/login.png)
 
-### Home
+- Home
 
 A tela home contém, no bloco de Conteúdo, as informações de quantidade total de voluntários e quantidade total de doadores cadastrados no sistema. Além disso, possui os botões de acesso ao “Cadastro de Voluntário”, “Cadastro de Doador”, “Listagem de Voluntários” e a “Listagem de Doadores”.
 
@@ -40,7 +40,7 @@ Já no bloco de Rodapé, constam as informações sobre a equipe e a logo da PUC
 
 ![Home](img/wireframes/home.png)
 
-### Cadastro de Voluntários
+- Cadastro de Voluntários
 
 A tela de Cadastro de Voluntários contém, no bloco de Conteúdo, os campos de preenchimento “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”). Após o preenchimento de todas as informações obrigatórias o botão “Cadastrar” ficará ativo.
 
@@ -48,7 +48,7 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Cadastro de Voluntários](img/wireframes/cadastro-de-voluntario.png)
 
-### Lista de Voluntários
+- Lista de Voluntários
 
 A tela da Lista de Voluntários contém, no bloco de Conteúdo, uma tabela com cada um dos voluntários cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone”, “E-mail”, “Função” e “Disponível esse Mês”, separados em colunas. Além disso, cada cadastro terá a opção “Editar”.
 
@@ -58,7 +58,7 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Cadastro de Voluntários](img/wireframes/listagem-de-voluntario.png)
 
-### Cadastro de Doadores
+- Cadastro de Doadores
 
 A tela de Cadastro de Doadores contém, no Bloco de Conteúdo, os campos de preenchimento “Nome”, “E-mail”, “Telefone”. Após o preenchimento de todas as informações obrigatórias o botão “Cadastrar” ficará ativo.
 
@@ -66,7 +66,7 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Cadastro de Doadores](img/wireframes/cadastro-de-doadores.png)
 
-### Lista de Doadores
+- Lista de Doadores
 
 A tela da Lista de Doadores contém, no bloco de Conteúdo, uma tabela com cada um dos doadores cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone” e “E-mail” separados em colunas. Além disso, cada cadastro terá a opção “Editar”.
 
@@ -76,7 +76,7 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Lista de Doadores](img/wireframes/listagem-de-doador.png)
 
-### Suporte
+- Suporte
 
 A tela de Suporte possui, no bloco de Cabeçalho, somente a logo do sistema. No bloco de Conteúdo constam as informações de contato “Telefone”, “WhatsApp” e “E-mail” do Suporte Técnico.
 
