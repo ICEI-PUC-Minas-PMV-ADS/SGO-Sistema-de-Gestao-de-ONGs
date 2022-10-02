@@ -57,7 +57,7 @@ Os requisitos funcionais do projeto e seus respectivos níveis de prioridade de 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| O sistema deve ter uma tela para o gestor realizar login, com os seguintes campos de preenchimento: E-mail e senha.  | ALTA |
-|RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores | ALTA |
+|RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. | ALTA |
 |RF-03| A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados.    | ALTA |
 |RF-04| O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
 |RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição dos dados cadastrados.    | MÉDIA |
@@ -79,7 +79,7 @@ Os requisitos não funcionais que a equipe deverá seguir durante o desenvolvime
 |RNF-01| O site será responsivo, permitindo seu acesso e visualização em desktop e celulares. | ALTA |
 |RNF-02| O site deverá ter uma disponibilidade 24/7. | ALTA |
 |RNF-03| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Opera). | ALTA |
-|RNF-04| A interface deve ser agradável, intuitiva,de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados. | MÉDIA |
+|RNF-04| A interface deve ser agradável, intuitiva, de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados. | MÉDIA |
 |RNF-05| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages). | ALTA |
 |RNF-06| O sistema deverá retornar ao usuário mensagem ao término de uma tarefa. | MÉDIA |
 |RNF-07| Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  | MÉDIA |
