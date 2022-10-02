@@ -1,7 +1,7 @@
 
 # Metodologia
 
-A metodologia adotada neste projeto busca seguir uma ordem para sua eficiência e organização, a qual é detalhada nos tópicos seguintes. 
+A metodologia adotada neste projeto busca seguir uma ordem para sua eficiência e organização, a qual é detalhada nos tópicos seguintes.
 
 ## Controle de Versão
 
@@ -16,7 +16,7 @@ Assim sendo, o projeto segue a seguinte convenção para o nome de branches:
 - `develop`: versão de desenvolvimento do software;
 - `feature`: uma nova funcionalidade do site ou atualização da documentação que precisa ser introduzida.
 
-*inserir figura do fluxo*
+![Fluxo de controle de Versão](img/fluxo-de-controle-de-vers%C3%A3o.png)
 
 ## Gerenciamento de Projeto
 
@@ -37,7 +37,6 @@ A equipe segue a ferramenta Scrum, uma metodologia Agile responsável por auxili
 O time ágil é organizado de forma que pessoas fiquem responsáveis por garantir a qualidade, eficácia e eficiência do projeto. Isso é alcançado através dos pequenos ciclos de atividades e reuniões constantes para que a equipe possa alinhar o que vem fazendo e pensar formas de melhorar o processo com agilidade.
 Inicialmente, o P.O reuniu a equipe e apresentou o pacote de funcionalidades do projeto (o product backlog). A partir disso, as Sprints (os ciclos) foram definidas para a realização das tarefas. A Daily Scrum do grupo acontecia às 20:30 e, no início de cada sprint, acontecia a Sprint Planning Meeting para o planejamento e priorização dos itens do Product Backlog para aquele período.
 
-
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
@@ -47,17 +46,17 @@ O editor de código escolhido foi o Visual Studio Code porque ele possui uma int
 
 - Ferramentas de comunicação: Teams
 A ferramenta de comunicação utilizada entre o grupo é o Microsoft Teams, disponibilizado pela PUC Minas, para reuniões de planejamento do projeto.
- 
+
 - Ferramentas de desenho de tela (wireframing) e prototipação: Figma
 O projeto em Wireframe foi criado na plataforma de prototipagem Figma, e a mesma ferramenta será utilizada para o protótipo de baixa fidelidade do projeto. O mesmo pode ser [acessado aqui](https://www.figma.com/file/0OKbr2snkURSE7kFsZv5cV/SGO---Sistema-de-Gest%C3%A3o-de-ONGs?node-id=0%3A1).
- 
+
 - Ferramenta de backup dos documentos: OneDrive
 O backup dos documentos está sendo feito no OneDrive para facilitar o compartilhamento dos arquivos entre a equipe. O mesmo pode ser [acessado aqui](https://sgapucminasbr-my.sharepoint.com/personal/1400513_sga_pucminas_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1400513%5Fsga%5Fpucminas%5Fbr%2FDocuments%2FEIXO%202&ga=1).
- 
+
 - Ferramenta de gerenciamento de projeto: GitHub
 O quadro Kanban do grupo no GitHub Classroom foi organizado e distribuído com as tarefas conforme a Figura W. A definição desta estrutura se baseou na proposta feita por Littlefield (2016) e a mesma está [disponível aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/106).
 
-*adicionar imagem do quadro kanban*
+![Quadro Kanban](img/quadro-kanban.png)
 
 - **Meeting**: esta coluna apresenta os dias que aconteceram as reuniões da equipe, assim como os principais tópicos tratados.
 - **Backlog**: esta coluna apresenta as atividades a serem desenvolvidas, ou seja, o Product Backlog. Todas as atividades que acontecerão no projeto estarão dispostas nessa coluna.
