@@ -4,7 +4,7 @@ O detalhamento da interface do sistema levou em consideração questões como ac
 
 ## Diagrama de Fluxo
 
-O diagrama de fluxo apresentado a seguir, demonstramos com detalhes o fluxo para cada ação desejada pelo gestor após realizar o login.
+No diagrama de fluxo apresentado a seguir, demonstramos com detalhes o fluxo para cada ação desejada pelo gestor após realizar o login no sistema.
 
 ![Diagrama de Fluxo](img/diagrama-de-fluxo.png)
 
