@@ -6,7 +6,7 @@ O objetivo, portanto, é verificar se o usuário enfrenta dificuldades no fluxo 
 
 Serão selecionados 5 participantes, sendo eles voluntários que se encaixam no perfil de persona apresentados neste documento.
 
-Os testes serão realizados de forma online. Os voluntários serão orientados a acessar a aplicação em um computador ou dispositivo móvel e executar as tarefas descritas a seguir e darão um feedback sobre as dificuldades encontradas e sua satisfação com o produto.
+Os testes serão realizados de forma online. Os voluntários serão orientados a acessar a aplicação em um computador ou dispositivo móvel e executar as tarefas descritas nos casos de testes a seguir e darão um feedback sobre as dificuldades encontradas e sua satisfação com o produto.
 
 |CASO DE TESTE| CT-01 – Prevenir erros |
 | :--------------------: | :------------------------------------ |
