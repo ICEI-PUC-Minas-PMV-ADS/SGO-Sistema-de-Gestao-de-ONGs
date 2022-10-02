@@ -84,6 +84,7 @@ Os requisitos não funcionais que a equipe deverá seguir durante o desenvolvime
 |RNF-06| O sistema deverá retornar ao usuário mensagem ao término de uma tarefa. | MÉDIA |
 |RNF-07| Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  | MÉDIA |
 |RNF-08| Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.  | MÉDIA |
+|RNF-09| A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.  | ALTA |
 
 ## Restrições
 

@@ -35,3 +35,10 @@ Os testes serão realizados de forma online. Os voluntários serão orientados a
 | Objetivo do Teste | Verificar se a aplicação possui ícones que apenas olhando o símbolo já reconhece o que significa.  |
 | Passos | Prover interação por meio da imagem que significa o item que pretende representar. |
 | Critérios de Êxito | "Editar" com o ícone de um lápis. |
+
+|CASO DE TESTE| CT-05 – Acessibilidade  |
+| :--------------------: | :------------------------------------ |
+| Requisitos Associados | RNF-09 - A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.  |
+| Objetivo do Teste | Verificar se todas as imagens apresentam informação de descrição.  |
+| Passos | Conferir se em todas as imagens, foi atribuído um texto alternativo, para que se por algum motivo a imagem não for carregada ou o usuário esteja utilizando leitor de tela ele consiga entender do que se trata. |
+| Critérios de Êxito | O atributo “alt” do HTML deve apresentar texto referente a exibição. |
