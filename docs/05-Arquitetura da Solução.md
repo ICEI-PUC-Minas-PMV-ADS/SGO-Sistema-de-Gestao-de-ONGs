@@ -1,33 +1,20 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A arquitetura de solução é responsável por construir e implementar soluções com base nas necessidades do negócio. Pensando nisso, esta seção é composta dos detalhes técnicos, dos componentes e do ambiente de hospedagem que serão utilizados no projeto.
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+Os diagramas de classes estão entre os tipos mais úteis de diagramas UML, pois mapeiam de forma clara e ilustrada a estrutura de um determinado sistema ao modelar suas classes, atributos, operações e relações entre objetos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+No caso do projeto SGO - Domingo Solidário, com base no diagrama de fluxo, criaremos 4 classes: Gestor, Público, Voluntários e Doadores. A classe Gestor terá como atributos o login e senha, e a classe verificará os valores de entrada para validação e ter acesso ao sistema. Utilizaremos herança, e temos como superclasse Público, e como subclasses Voluntários e Doadores. A subclasse Voluntários irá herdar todos os atributos e métodos da classe pai e também terá seus próprios atributos e métodos, assim como a subclasse Doadores, mas possuindo apenas todos os atributos e métodos da classe pai, definindo o seu comportamento. O gestor poderá ter nenhum ou muitos voluntários e doares, e os voluntários e doares terão apena um gestor. Dessa forma, iremos reduzir consideravelmente a quantidade de códigos e tornar a manutenção dos mesmos mais eficaz. 
 
 ## Modelo ER (Projeto Conceitual)
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
-
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+O modelo ER proposto representa através de um diagrama como as entidades Gestor e Pessoa (voluntário ou doador) se relacionam entre si na aplicação interativa. Assim através do diagrama é possível observar que a entidade Gestor possui os atributos login e senha, e tem a função de cadastrar as instâncias da entidade Pessoa, sendo essa uma superclasse que possui os atributos e métodos em comum das classes Voluntário e Doador em uma relação de compartilhamento total. Vale ressaltar que a entidade Voluntário possui dois atributos a mais em relação a Doador, sendo estes a disponibilidade e a função. Além disso a cardinalidade do sistema entre as entidades principais é um para zero ou muitos, ou seja, um Gestor pode cadastrar nenhuma ou muitas Pessoas. 
 
 ## Projeto da Base de Dados
 
-O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
-
-Para mais informações, consulte o microfundamento "Modelagem de Dados".
+Para o projeto da base de dados foram representadas todas as tabelas que serão armazenadas no banco, bem como suas respectivas colunas e tipo de dados, baseando-se nas entidades e relacionamentos identificados no Modelo ER. Para o modelo proposto não foi identificado a necessidade do uso de chaves primárias e estrangeiras, considerando que cada tabela contém todas as informações referentes a determinada entidade, assim não seria necessário referenciar outras tabelas como complemento de informações.  
 
 ## Tecnologias Utilizadas
 
