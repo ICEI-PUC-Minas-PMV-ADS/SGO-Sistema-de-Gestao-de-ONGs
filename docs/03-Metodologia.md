@@ -6,6 +6,7 @@ A metodologia adotada neste projeto busca seguir uma ordem para sua eficiência 
 ## Controle de Versão
 
 O controle de versão torna possível rastrear e gerenciar as alterações em um código de software. As ferramentas de controle de versão auxiliam, portanto, o gerenciamento das equipes por conta das alterações ao código-fonte ao longo do tempo. O controle de versão e a ferramenta adotados no projeto são, respectivamente, o Git e o GitHub.
+
 Os sistemas de SCM - Source Control Management (ou Gerenciamento de controle do código-fonte) disponibilizam um histórico de execuções e manutenções de desenvolvimento no código, assim como ajudam a resolver conflitos durante a mesclagem de contribuições de várias origens.  
 
 Assim sendo, o projeto segue a seguinte convenção para o nome de branches:
@@ -33,9 +34,11 @@ A equipe está organizada da seguinte forma:
 
 ### Processo
 
-A equipe segue a ferramenta Scrum, uma metodologia Agile responsável por auxiliar a gestão de projetos. O Scrum, se diferencia porque promove a junção de profissionais com diferentes papéis em um único time, dessa forma todos participam do desenvolvimento do projeto, sendo, de fato, uma só equipe.  
+A equipe segue a ferramenta Scrum, uma metodologia Agile responsável por auxiliar a gestão de projetos. O Scrum, se diferencia porque promove a junção de profissionais com diferentes papéis em um único time, dessa forma todos participam do desenvolvimento do projeto, sendo, de fato, uma só equipe.
+
 O time ágil é organizado de forma que pessoas fiquem responsáveis por garantir a qualidade, eficácia e eficiência do projeto. Isso é alcançado através dos pequenos ciclos de atividades e reuniões constantes para que a equipe possa alinhar o que vem fazendo e pensar formas de melhorar o processo com agilidade.
-Inicialmente, o P.O reuniu a equipe e apresentou o pacote de funcionalidades do projeto (o product backlog). A partir disso, as Sprints (os ciclos) foram definidas para a realização das tarefas. A Daily Scrum do grupo acontecia às 20:30 e, no início de cada sprint, acontecia a Sprint Planning Meeting para o planejamento e priorização dos itens do Product Backlog para aquele período.
+
+Inicialmente, o P.O reuniu a equipe e apresentou o pacote de funcionalidades do projeto (o product backlog). A partir disso, as Sprints (os ciclos) foram definidas para a realização das tarefas. A Daily Scrum do grupo acontecia às 21:30 e, no início de cada sprint, acontecia a Sprint Planning Meeting para o planejamento e priorização dos itens do Product Backlog para aquele período.
 
 ### Ferramentas
 
