@@ -15,7 +15,9 @@ Cada uma das telas representadas nos fluxos será detalhada nos itens que seguem
 Todas as telas do sistema possuem uma estrutura padrão comum. Nesta estrutura, existem três grandes blocos descritos a seguir:
 
 **Cabeçalho:** local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu “hamburguer”);
+
 **Conteúdo:** apresenta o conteúdo da tela em questão;
+
 **Rodapé:** apresenta informações sobre a equipe de desenvolvimento.
 
 ![Estrutura do Site](img/estrutura-do-site.png)
