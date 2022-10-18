@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+:root {
+    --rosa: #F23053;
+    --azulEscuro: #000326;
+    --rosa-hover: #C8203E;
+    --azulEscuro-hover: #464A6F;
+    --bg-header: #F9F9F9;
+    --input-texto: #292929;
+    --input-placeholder: #A3A3A3;
+    --input-borda: #DBDBDB;
+    --input-borda-focus: #000326;
+}

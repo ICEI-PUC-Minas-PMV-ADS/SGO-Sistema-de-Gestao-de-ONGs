@@ -14,7 +14,7 @@ Conforme o exposto, busca-se, por meio da tecnologia, contribuir para minimizar 
 
 Gerir, através de um sistema interno, o cadastro de voluntários e doadores da ONG Domingo Solidário.
 
-#### Como objetivos específicos, podemos ressaltar:
+### Como objetivos específicos, podemos ressaltar:
 
 - Desenvolver a funcionalidade de Login, por parte do Gestor, no sistema interno;
 - Desenvolver a funcionalidade de cadastro de voluntários;

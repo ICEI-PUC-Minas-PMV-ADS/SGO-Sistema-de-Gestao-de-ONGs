@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SGO - Sistema de Gestão de ONGs/1.0.0": {
+        "runtime": {
+          "SGO - Sistema de Gestão de ONGs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SGO - Sistema de Gestão de ONGs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
