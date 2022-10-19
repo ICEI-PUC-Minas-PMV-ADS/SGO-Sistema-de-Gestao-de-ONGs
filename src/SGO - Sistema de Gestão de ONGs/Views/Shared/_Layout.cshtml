@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="~/css/base.css">
     <link rel="stylesheet" href="~/css/cabecalho.css">
     <link rel="stylesheet" href="~/css/navbar.css">
+    <link rel="stylesheet" href="~/css/rodape.css">
 
     <link rel="stylesheet" href="~/SGO___Sistema_de_Gestão_de_ONGs.styles.css" asp-append-version="true" />
 </head>
@@ -34,22 +35,22 @@
                     <img src="~/img/logo-navbar-domSolidário.png" alt="">
                 </li>
                 <li>
-                    <a href=""><img src="~/img/home-navbar.png" alt="">Home</a>
+                    <a asp-controller="Home" asp-action="Home"><img src="~/img/home-navbar.png" alt="">Home</a>
                 </li>
                 <li>
-                    <a href=""><img src="~/img/cadastro-voluntário-navbar.png" alt="">Cadastrar Voluntário</a>
+                    <a asp-controller="Home" asp-action="CadastroVoluntario"><img src="~/img/cadastro-voluntário-navbar.png" alt="">Cadastrar Voluntário</a>
                 </li>
                 <li>
-                    <a href=""><img src="~/img/listas-navbar.png" alt="">Lista de Voluntários</a>
+                    <a asp-controller="Home" asp-action="ListaVoluntario"><img src="~/img/listas-navbar.png" alt="">Lista de Voluntários</a>
                 </li>
                 <li>
-                    <a href=""><img src="~/img/cadastro-doador-navbar.png" alt="">Cadastrar Doadores</a>
+                    <a asp-controller="Home" asp-action="CadastroDoador"><img src="~/img/cadastro-doador-navbar.png" alt="">Cadastrar Doadores</a>
                 </li>
                 <li>
-                    <a href=""><img src="~/img/listas-navbar.png" alt="">Lista de Doadores</a>
+                    <a asp-controller="Home" asp-action="ListaDoador"><img src="~/img/listas-navbar.png" alt="">Lista de Doadores</a>
                 </li>
                 <li>
-                    <a href=""><img src="~/img/suporte-navbar.png" alt="">Suporte</a>
+                    <a asp-controller="Home" asp-action="Suporte"><img src="~/img/suporte-navbar.png" alt="">Suporte</a>
                 </li>
                 <li>
                     <button class="navbar__btn-sair">
@@ -59,11 +60,19 @@
             </ul>
         </nav>
     </dialog>
-    <div class="container">
-        <main role="main" class="pb-3">
+        <main>
             @RenderBody()
         </main>
-    </div>
+
+    <footer class="rodape">
+        <div>
+            <p class="rodape__texto">
+                <strong>Desenvolvido pela Equipe 6</strong><br />
+                Análise e Desenvolvimento de Sistemas - Eixo 2 | PUC Minas
+            </p>
+            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="">
+        </div>
+    </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

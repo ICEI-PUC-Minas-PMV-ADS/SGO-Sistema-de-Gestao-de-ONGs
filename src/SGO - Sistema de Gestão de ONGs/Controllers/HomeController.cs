@@ -18,10 +18,35 @@ namespace SGO___Sistema_de_Gestão_de_ONGs.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Home()
         {
             return View();
         }
+
+        public IActionResult Suporte()
+        {
+            return View();
+        }
+        public IActionResult CadastroVoluntario()
+        {
+            return View();
+        }
+
+        public IActionResult ListaVoluntario()
+        {
+            return View();
+        }
+
+        public IActionResult CadastroDoador()
+        {
+            return View();
+        }
+
+        public IActionResult ListaDoador()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

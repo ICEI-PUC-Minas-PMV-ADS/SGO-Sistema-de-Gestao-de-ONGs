@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\2° Semestre\\Projeto\\Teste ASP.NET\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj": {}
+    "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\2° Semestre\\Projeto\\Teste ASP.NET\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj": {
+    "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\2° Semestre\\Projeto\\Teste ASP.NET\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj",
+        "projectUniqueName": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj",
         "projectName": "SGO - Sistema de Gestão de ONGs",
-        "projectPath": "D:\\Faculdade\\2° Semestre\\Projeto\\Teste ASP.NET\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj",
+        "projectPath": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs.csproj",
         "packagesPath": "C:\\Users\\Thiago Terra\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\2° Semestre\\Projeto\\Teste ASP.NET\\SGO - Sistema de Gestão de ONGs\\SGO - Sistema de Gestão de ONGs\\obj\\",
+        "outputPath": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
