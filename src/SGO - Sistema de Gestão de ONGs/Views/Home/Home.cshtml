@@ -2,4 +2,38 @@
     ViewData["Title"] = "Home";
 }
 
-<h1>Home</h1>
+<div class="menu-bg">
+    <div class="menu">
+        <section class="menu-dashboard">
+            <h1>Domingo Solidário</h1>
+            <div>
+                <img src="/img/total-voluntários.png" />
+                <p>Voluntários</p>
+                <p>37</p>
+            </div>
+            <div>
+                <img src="/img/total-doadores.png" />
+                <p>Doadores</p>
+                <p>26</p>
+            </div>
+        </section>
+        <section class="menu-links">
+            <a asp-controller="Home" asp-action="CadastroVoluntario">
+                <img src="/img/cadastro-voluntário-home.png" />
+                Cadastrar Voluntário
+            </a>
+            <a asp-controller="Home" asp-action="ListaVoluntario">
+                <img src="/img/listas-home.png" />
+                Listagem de Voluntários
+            </a>
+            <a asp-controller="Home" asp-action="CadastroDoador">
+                <img src="/img/cadastro-voluntário-home.png" />
+                Cadastrar Doador
+            </a>
+            <a asp-controller="Home" asp-action="ListaDoador">
+                <img src="/img/listas-home.png" />
+                Listagem de Doadores
+            </a>
+        </section>
+    </div>
+</div>

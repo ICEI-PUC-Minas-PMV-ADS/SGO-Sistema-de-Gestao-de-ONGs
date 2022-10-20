@@ -4,10 +4,6 @@ body {
     font-family: "Inter", sans-serif;
 }
 
-main {
-    padding: 0px 80px;
-}
-
 :root {
     --rosa: #F23053;
     --azulEscuro: #000326;

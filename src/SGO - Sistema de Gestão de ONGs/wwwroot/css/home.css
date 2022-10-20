@@ -1,0 +1,7 @@
+﻿.menu-bg {
+    background: var(--bg-header);
+}
+
+.menu {
+    padding: 0px 80px;
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BOP10Nb5U3U1yZhpRGTJb34C8i+qFiCor3Q6BV/0NDg=",
+  "Hash": "xOwQ4bmRpeSz7i0FWv1FKsYaE4Qd4F6OPGo8yP3ldzY=",
   "Source": "SGO - Sistema de Gestão de ONGs",
   "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\cabecalho.css"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\home.css",
+      "SourceId": "SGO - Sistema de Gestão de ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\",
+      "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Novo Rep\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\navbar.css",
