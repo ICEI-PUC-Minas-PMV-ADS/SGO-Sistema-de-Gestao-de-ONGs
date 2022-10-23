@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SGO___Sistema_de_Gestão_de_ONGs
 build_property.RootNamespace = SGO___Sistema_de_Gestão_de_ONGs
-build_property.ProjectDir = D:\Faculdade\2° Semestre\Projeto\Novo Rep\src\SGO - Sistema de Gestão de ONGs\
+build_property.ProjectDir = C:\Users\Asus\Desktop\sgoRepo\src\SGO - Sistema de Gestão de ONGs\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Faculdade\2° Semestre\Projeto\Novo Rep\src\SGO - Sistema de Gestão de ONGs
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\sgoRepo\src\SGO - Sistema de Gestão de ONGs
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/CadastroDoador.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/CadastroDoador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb0RvYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/CadastroVoluntario.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/CadastroVoluntario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb1ZvbHVudGFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/Home.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/Index.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/ListaDoador.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/ListaDoador.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YURvYWRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/ListaVoluntario.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/ListaVoluntario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YVZvbHVudGFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Home/Suporte.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Home/Suporte.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXBvcnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Shared/Error.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/_ViewImports.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/_ViewStart.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Novo Rep/src/SGO - Sistema de Gestão de ONGs/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/Desktop/sgoRepo/src/SGO - Sistema de Gestão de ONGs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mgo3jguikc
