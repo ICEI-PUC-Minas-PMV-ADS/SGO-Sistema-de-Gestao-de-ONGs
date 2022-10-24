@@ -4,36 +4,46 @@
 
 <div class="menu-bg">
     <div class="menu">
-        <section class="menu-dashboard">
-            <h1>Domingo Solidário</h1>
-            <div>
-                <img src="/img/total-voluntários.png" />
-                <p>Voluntários</p>
-                <p>37</p>
-            </div>
-            <div>
-                <img src="/img/total-doadores.png" />
-                <p>Doadores</p>
-                <p>26</p>
+        <section>
+            <h1 class="titulo-ong">Domingo Solidário</h1>
+            <div class ="menu-dashboard">
+                <div class="dashboard">
+                    <img src="/img/total-voluntários.png" />
+                    <div>
+                        <p class="pessoas">Voluntários</p>
+                        <p class="total-pessoas">37</p>
+                    </div>
+                </div>
+                <div class="dashboard">
+                    <img src="/img/total-doadores.png" />
+                    <div>
+                        <p class="pessoas">Doadores</p>
+                        <p class="total-pessoas">26</p>
+                    </div>
+                </div>
             </div>
         </section>
         <section class="menu-links">
-            <a asp-controller="Home" asp-action="CadastroVoluntario">
-                <img src="/img/cadastro-voluntário-home.png" />
-                Cadastrar Voluntário
-            </a>
-            <a asp-controller="Home" asp-action="ListaVoluntario">
-                <img src="/img/listas-home.png" />
-                Listagem de Voluntários
-            </a>
-            <a asp-controller="Home" asp-action="CadastroDoador">
-                <img src="/img/cadastro-voluntário-home.png" />
-                Cadastrar Doador
-            </a>
-            <a asp-controller="Home" asp-action="ListaDoador">
-                <img src="/img/listas-home.png" />
-                Listagem de Doadores
-            </a>
+            <div>
+                <a class="botao-menu cadastrar-menu" asp-controller="Home" asp-action="CadastroVoluntario">
+                    <img src="/img/cadastro-voluntário-home.png" />
+                    Cadastrar Voluntário
+                </a>
+                <a class="botao-menu lista-menu" asp-controller="Home" asp-action="ListaVoluntario">
+                    <img src="/img/listas-home.png" />
+                    Listagem de Voluntários
+                </a>
+            </div>
+            <div>
+                <a class="botao-menu cadastrar-menu" asp-controller="Home" asp-action="CadastroDoador">
+                    <img src="/img/cadastro-voluntário-home.png" />
+                    Cadastrar Doador
+                </a>
+                <a class="botao-menu lista-menu" asp-controller="Home" asp-action="ListaDoador">
+                    <img src="/img/listas-home.png" />
+                    Listagem de Doadores
+                </a>
+            </div>
         </section>
     </div>
 </div>

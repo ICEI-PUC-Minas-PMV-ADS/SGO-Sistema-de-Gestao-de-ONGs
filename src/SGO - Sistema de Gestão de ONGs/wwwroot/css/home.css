@@ -4,4 +4,68 @@
 
 .menu {
     padding: 0px 80px;
+    display: flex
+}
+
+.menu-dashboard{
+    display:flex
+}
+
+.titulo-ong {
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--rosa);
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    padding-right: 45px;
+}
+
+.dashboard img {
+    padding-right: 12px;
+}
+
+.pessoas {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+}
+
+.total-pessoas {
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--azulEscuro);
+}
+
+.menu-links {
+    display: flex;
+}
+
+.menu-links a img {
+    padding-right: 13px;
+}
+
+.botao-menu {
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.cadastrar-menu {
+    background: var(--rosa);
+    color: white;
+}
+
+.lista-menu {
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    color: var(--azulEscuro);
 }
