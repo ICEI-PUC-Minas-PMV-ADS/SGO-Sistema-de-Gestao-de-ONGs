@@ -1,8 +1,74 @@
 ﻿body {
+    font-family: "Inter", sans-serif;
+}
+
+
+
+.titulo {
+    font-size: 36px;
+    font-weight:700;
+    line-height: 45px;
+    text-align: center;
+    color: #000326;
+ }
+
+.formulario {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #000326;
+}
+
+#preenchimento-obrigatorio {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    padding: 10px 25px;
+}
+
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    border-radius: 6px;
+    border-color: #DBDBDB;
+
 
 }
 
-h1 {
-    font-size:xx-large;
-    color:brown;
+#seletores {
+    justify-content: center;
+}
+
+fieldset  {
+    display: inline;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    border-radius: 6px;
+    border-color: #DBDBDB;
+}
+
+    fieldset .seletor {
+        margin: 0 0 20px;
+        padding: 10px 25px;
+        border-radius: 6px;
+        border-color: #DBDBDB;
+    }
+
+
+.cadastrar {
+    background-color: #F23053;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    color: #FFFFFF;
+    width: 207px;
+    height: 50px;
+    left: 617px;
+    top: 726px;
+    border-radius: 50px;
+    padding: 10px 25px;
 }

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\SGO - Sistema de Gestão de ONGs",
+    "\\src\\SGO - Sistema de Gestão de ONGs\\Views",
+    "\\src\\SGO - Sistema de Gestão de ONGs\\Views\\Shared"
   ],
-  "SelectedNode": "\\C:\\Users\\Asus\\Desktop\\sgoRepo",
   "PreviewInSolutionExplorer": false
 }

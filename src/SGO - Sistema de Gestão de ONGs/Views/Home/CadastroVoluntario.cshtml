@@ -4,9 +4,9 @@
 
 
 
-	<h1>Cadastro de Voluntário</h1>
+	<h1 class="titulo">Cadastro de Voluntário</h1>
 
-	<form>
+	<form class="formulario">
 				<label for="nome">Nome*</label>
 				<input type="text" id="nome" class="input-padrao" required>
 
@@ -16,29 +16,37 @@
 				<label for="telefone">Telefone</label>
 				<input type="tel" id="telefone" class="input-padrao" required placeholder="(99) 99999-9999">
 
+				<div id="seletores">
 
-				<fieldset>
-					<legend>Função *</legend>
-					<select>
-						<option>Voluntário</option>
-						<option>Doador</option>
-					</select>
-				</fieldset>
+					<fieldset>
+						<legend>Função *</legend>
+						<select required class="seletor">
+							<option value="" disabled selected>Selecionar</option>
+							<option>Voluntário</option>
+							<option>Doador</option>
+						</select>
+					</fieldset>
 
 
-				<fieldset>
-					<legend>Disponível esse mês *</legend>
-					<select>
-						<option>Sim</option>
-						<option>Não</option>
-					</select>
-				</fieldset>
+					<fieldset>
+						<legend>Disponível esse mês *</legend>
+						<select required class="seletor">
+							<option value="" disabled selected>Selecionar</option>
+							<option>Sim</option>
+							<option>Não</option>
+						</select>
+					</fieldset>
+
+				</div>
 
 				
 
-				<h2>* Campos de preenchimento obrigatório</h2>
+				<h2 id="preenchimento-obrigatorio">* Campos de preenchimento obrigatório</h2>
 
-				<input type="submit" value="Cadastrar" class="cadastrar">
+				<div>
+					<input type="submit" value="Cadastrar"  class="cadastrar">
+					<!-- resolver esse problema da imagem no input -->
+				</div>
 
 			</form>
 
