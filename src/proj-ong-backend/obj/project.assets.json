@@ -6640,24 +6640,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thiago Terra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\proj-ong-backend\\SGO - Sistema de Gestão de ONGs.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\ong backend 2410\\src\\proj-ong-backend\\SGO - Sistema de Gestão de ONGs.csproj",
       "projectName": "SGO - Sistema de Gestão de ONGs",
-      "projectPath": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\proj-ong-backend\\SGO - Sistema de Gestão de ONGs.csproj",
-      "packagesPath": "C:\\Users\\Thiago Terra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\proj-ong-backend\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\ong backend 2410\\src\\proj-ong-backend\\SGO - Sistema de Gestão de ONGs.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\ong backend 2410\\src\\proj-ong-backend\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Thiago Terra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6665,7 +6660,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6714,6 +6708,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
