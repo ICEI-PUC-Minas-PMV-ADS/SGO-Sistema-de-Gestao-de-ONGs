@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a2UfWgESdCzRvcbfxxMbYc71uLLQ5gdGUjBo8qgb7Qw=",
+  "Hash": "By26TV0/gF4fVmnIwgIT1Ks9xwEEuYWXUkxxU0GBme8=",
   "Source": "SGO - Sistema de Gestão de ONGs",
   "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\css\\cabecalho.css"
     },
     {
-      "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\cadastrovoluntario.css",
+      "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\cadastro-doador.css",
       "SourceId": "SGO - Sistema de Gestão de ONGs",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\",
       "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
-      "RelativePath": "css/cadastrovoluntario.css",
+      "RelativePath": "css/cadastro-doador.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\cadastrovoluntario.css"
+      "OriginalItemSpec": "wwwroot\\css\\cadastro-doador.css"
+    },
+    {
+      "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\cadastro-voluntario.css",
+      "SourceId": "SGO - Sistema de Gestão de ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\",
+      "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
+      "RelativePath": "css/cadastro-voluntario.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cadastro-voluntario.css"
     },
     {
       "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\home.css",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\lista-voluntarios.css",
+      "SourceId": "SGO - Sistema de Gestão de ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\",
+      "BasePath": "_content/SGO - Sistema de Gestão de ONGs",
+      "RelativePath": "css/lista-voluntarios.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\lista-voluntarios.css"
     },
     {
       "Identity": "C:\\Users\\Thiago Terra\\Source\\Repos\\SGO-Sistema-de-Gestao-de-ONGs\\src\\SGO - Sistema de Gestão de ONGs\\wwwroot\\css\\navbar.css",

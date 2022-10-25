@@ -1,0 +1,55 @@
+﻿namespace SGO___Sistema_de_Gestão_de_ONGs.wwwroot.css
+{
+}
+
+.lista-voluntario__titulo {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--azulEscuro);
+    padding: 60px 0 45px 0;
+}
+
+.lista-voluntario-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 80px;
+    border: solid 1px var(--input-borda);
+    padding-bottom: 150px;
+    border-radius: 6px;
+}
+
+.voluntario__tabela {
+    width: 100%;
+}
+
+    .voluntario__tabela .voluntarios-cadastradas td {
+        padding: 20px;
+        border-bottom: solid 1px var(--input-borda);
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--input-borda-focus);
+    }
+
+.voluntario__tabela-header td {
+    padding: 20px;
+    border-bottom: solid 1px var(--input-borda);
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--rosa)
+}
+
+.voluntario__botao-editar {
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: var(--input-borda-focus);
+    font-weight: 600;
+    cursor:pointer;
+}
+
+.voluntario__botao-editar img {
+    padding-right: 9px;
+}

@@ -2,4 +2,31 @@
     ViewData["Title"] = "Listagem de Voluntários";
 }
 
-<h1>Listagem de Voluntários</h1>
+<h1 class="lista-voluntario__titulo">Listagem de Voluntários</h1>
+
+<section class="lista-voluntario-container">
+    <table class="voluntario__tabela">
+        <tr class="voluntario__tabela-header">
+            <td>Nome</td>
+            <td>Telefone</td>
+            <td>E-mail</td>
+            <td>Função</td>
+            <td>Disponível esse Mês</td>
+            <td></td>
+        </tr>
+        <tr class="voluntarios-cadastradas">
+            <td>Maria Clara Terra</td>
+            <td>(35) 96681-6353</td>
+            <td>maria.clara.terra@gmail.com</td>
+            <td>Montagem</td>
+            <td>Sim</td>
+            <td>
+                <button class="voluntario__botao-editar">
+                    <img src="~/img/botão-editar.png" />
+                    Editar
+                </button>
+            </td>
+        </tr>
+    </table>
+
+</section>
