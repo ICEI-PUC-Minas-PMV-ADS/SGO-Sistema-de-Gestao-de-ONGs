@@ -1,9 +1,7 @@
 ﻿.rodape {
     background: white;
-    position: absolute;
-    width: 100%;
     bottom: 0;
-    white-space: nowrap;
+    margin-top: auto;
 }
 
 .rodape div {

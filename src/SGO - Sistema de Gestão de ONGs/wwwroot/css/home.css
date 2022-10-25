@@ -1,20 +1,25 @@
 ﻿.menu-bg {
     background: var(--bg-header);
+    height: 65vh;
 }
 
 .menu {
-    padding: 0px 80px;
-    display: flex
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    height: 56vh;
 }
 
 .menu-dashboard{
-    display:flex
+    display:flex;
 }
 
 .titulo-ong {
     font-size: 36px;
     font-weight: 700;
     color: var(--rosa);
+    padding-bottom: 40px;
 }
 
 .dashboard {
@@ -43,6 +48,10 @@
     display: flex;
 }
 
+.menu-links div {
+    padding-left: 25px;
+}
+
 .menu-links a img {
     padding-right: 13px;
 }
@@ -62,6 +71,7 @@
 .cadastrar-menu {
     background: var(--rosa);
     color: white;
+    margin-bottom: 18px;
 }
 
 .lista-menu {

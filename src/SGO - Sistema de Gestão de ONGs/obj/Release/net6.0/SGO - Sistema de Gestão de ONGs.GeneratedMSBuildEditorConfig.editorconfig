@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SGO___Sistema_de_Gestão_de_ONGs
 build_property.RootNamespace = SGO___Sistema_de_Gestão_de_ONGs
-build_property.ProjectDir = C:\Users\Thiago Terra\source\repos\SGO-Sistema-de-Gestao-de-ONGs\src\SGO - Sistema de Gestão de ONGs\
+build_property.ProjectDir = C:\Users\Thiago Terra\Source\Repos\SGO-Sistema-de-Gestao-de-ONGs\src\SGO - Sistema de Gestão de ONGs\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Thiago Terra\source\repos\SGO-Sistema-de-Gestao-de-ONGs\src\SGO - Sistema de Gestão de ONGs
+build_property.MSBuildProjectDirectory = C:\Users\Thiago Terra\Source\Repos\SGO-Sistema-de-Gestao-de-ONGs\src\SGO - Sistema de Gestão de ONGs
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Thiago Terra/source/repos/SGO-Sistema-de-Gestao-de-ONGs/src/SGO - Sistema de Gestão de ONGs/Views/Home/CadastroDoador.cshtml]
