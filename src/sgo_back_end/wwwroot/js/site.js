@@ -1,4 +1,12 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿const navbar = document.querySelector('#navbar-modal')
+const abrirNavbar = document.querySelector('.cabecalho__btn-abrir-navbar')
+const fecharNavbar = document.querySelector('.navbar__btn-fechar-navbar')
 
-// Write your JavaScript code.
+
+abrirNavbar.addEventListener('click', function () {
+    navbar.showModal();
+});
+
+fecharNavbar.addEventListener('click', function () {
+    navbar.close();
+});

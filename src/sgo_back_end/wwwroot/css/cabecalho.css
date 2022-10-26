@@ -1,0 +1,38 @@
+.cabecalho {
+    padding: 50px 80px;
+    background: var(--bg-header);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho__menu {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__btn-abrir-navbar {
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+.cabecalho__logo-sgo {
+    padding-left: 60px;
+}
+
+.cabecalho__btn-sair {
+    display: flex;
+    align-items: center;
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--azulEscuro);
+    cursor: pointer;
+    padding: 0;
+}
+
+.cabecalho__btn-sair-icone {
+    padding-right: 10px;
+}

@@ -3,45 +3,81 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - sgo_back_end</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <title>@ViewData["Title"] - SGO</title>
+
     <link rel="stylesheet" href="~/sgo_back_end.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/reset.css">
+    <link rel="stylesheet" href="~/css/base.css">
+    <link rel="stylesheet" href="~/css/cabecalho.css">
+    <link rel="stylesheet" href="~/css/navbar.css">
+    <link rel="stylesheet" href="~/css/rodape.css">
+    <link rel="stylesheet" href="~/css/home.css">
+    <link rel="stylesheet" href="~/css/cadastro-voluntario.css" />
+    <link rel="stylesheet" href="~/css/cadastro-doador.css" />
+    <link rel="stylesheet" href="~/css/lista-voluntarios.css" />
+
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">sgo_back_end</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Doadores" asp-action="Index">Doadores</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Voluntarios" asp-action="Index">Voluntários</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+    <header class="cabecalho">
+        <div class="cabecalho__menu">
+            <button class="cabecalho__btn-abrir-navbar">
+                <img src="~/img/abrir-navbar.png" alt="">
+            </button>
+            <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="">
+        </div>
+        <button class="cabecalho__btn-sair">
+            <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="">Sair
+        </button>
     </header>
+    <dialog id="navbar-modal">
+        <nav class="navbar">
+            <button class="navbar__btn-fechar-navbar">
+                <img src="~/img/fechar-navbar.png" alt="">
+            </button>
+            <ul class="navbar__lista">
+                <li>
+                    <img src="~/img/logo-navbar-domSolidário.png" alt="">
+                </li>
+                <li>
+                    <a asp-controller="Home" asp-action="Index"><img src="~/img/home-navbar.png" alt="">Home</a>
+                </li>
+                <li>
+                    <a asp-controller="Voluntarios" asp-action="Create"><img src="~/img/cadastro-voluntário-navbar.png" alt="">Cadastrar Voluntário</a>
+                </li>
+                <li>
+                    <a asp-controller="Voluntarios" asp-action="Index"><img src="~/img/listas-navbar.png" alt="">Lista de Voluntários</a>
+                </li>
+                <li>
+                    <a asp-controller="Doadores" asp-action="Create"><img src="~/img/cadastro-doador-navbar.png" alt="">Cadastrar Doadores</a>
+                </li>
+                <li>
+                    <a asp-controller="Doadores" asp-action="Index"><img src="~/img/listas-navbar.png" alt="">Lista de Doadores</a>
+                </li>
+                <li>
+                    <a asp-controller="" asp-action=""><img src="~/img/suporte-navbar.png" alt="">Suporte</a>
+                </li>
+                <li>
+                    <button class="navbar__btn-sair">
+                        <img class="navbar__btn-sair-icone" src="./img/sair-navbar.png" alt="">Sair
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </dialog>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - sgo_back_end - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="rodape">
+        <div>
+            <p class="rodape__texto">
+                <strong>Desenvolvido pela Equipe 6</strong><br />
+                Análise e Desenvolvimento de Sistemas - Eixo 2 | PUC Minas
+            </p>
+            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="">
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
