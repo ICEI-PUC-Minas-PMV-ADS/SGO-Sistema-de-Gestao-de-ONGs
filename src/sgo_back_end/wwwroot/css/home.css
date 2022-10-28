@@ -79,3 +79,19 @@
     border: solid 2px var(--azulEscuro);
     color: var(--azulEscuro);
 }
+
+.botão-rosa_hover {
+    transition: 0.2s ease-in;
+}
+
+    .botão-rosa_hover:hover {
+        background: var(--rosa-hover);
+    }
+
+.botão-azul_hover {
+    transition: 0.2s ease-in;
+}
+
+    .botão-azul_hover:hover {
+        background: var(--azulEscuro-hover);
+    }

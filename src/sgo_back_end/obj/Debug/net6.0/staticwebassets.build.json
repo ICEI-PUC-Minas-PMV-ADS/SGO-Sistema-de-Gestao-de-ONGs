@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3axDVqp7mvqmYNEvWrUmFa3cVipkkmcN8nV58UU7DcM=",
+  "Hash": "HqXiJB9WBsUd4DQ81470sGZfnNnk9fC5pXq8ICVWLmk=",
   "Source": "SGO_Sistema_de_Gestao_ONGs",
   "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\lista-doadores.css",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "css/lista-doadores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\lista-doadores.css"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\lista-voluntarios.css",
@@ -289,6 +306,23 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-cadastrar.png"
     },
     {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-detalhes-lista.png",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "img/botão-detalhes-lista.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\botão-detalhes-lista.png"
+    },
+    {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-editar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
@@ -306,6 +340,23 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-editar.png"
     },
     {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-editar-detalhes.png",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "img/botão-editar-detalhes.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\botão-editar-detalhes.png"
+    },
+    {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
@@ -321,6 +372,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\botão-excluir.png"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir-lista.png",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "img/botão-excluir-lista.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\botão-excluir-lista.png"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-salvar.png",
@@ -440,6 +508,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\email-suporte.png"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\favicon.png",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "img/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\fechar-edição-cadastro.png",

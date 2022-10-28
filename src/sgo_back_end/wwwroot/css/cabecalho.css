@@ -17,6 +17,12 @@
     border: none;
 }
 
+    .cabecalho__btn-abrir-navbar:hover {
+        transform: scale(1.06);
+        transition: all 0.5s;
+        opacity: 0.9
+    }
+
 .cabecalho__logo-sgo {
     padding-left: 60px;
 }
@@ -32,6 +38,12 @@
     cursor: pointer;
     padding: 0;
 }
+
+    .cabecalho__btn-sair:hover {
+        transform: scale(1.06);
+        transition: all 0.5s;
+        opacity: 0.9
+    }
 
 .cabecalho__btn-sair-icone {
     padding-right: 10px;

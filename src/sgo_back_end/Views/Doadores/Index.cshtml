@@ -1,47 +1,58 @@
 ﻿@model IEnumerable<sgo_back_end.Models.Doador>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Listagem de Doadores";
 }
 
-<h1>Index</h1>
+<h1 class="lista-doador__titulo">Listagem de Doadores</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nome)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Telefone)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Email)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
+<section class="lista-doador-container">
+    <table class="doador__tabela">
+        <tr class="doador__tabela-header">
             <td>
+                @Html.DisplayNameFor(model => model.Nome)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.Email)
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+@foreach (var item in Model) {
+        <tr class="doador-cadastradas">
+            <td class="item">
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
-            <td>
+            <td class="item">
                 @Html.DisplayFor(modelItem => item.Telefone)
             </td>
-            <td>
+            <td class="item">
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="doador__botao-editar">
+                    <img src="~/img/botão-editar.png" />
+                    Editar
+                </a>
             </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id" class="doador__botao-editar">
+                    <img src="~/img/botão-detalhes-lista.png" />
+                    Detalhes
+                </a>
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="doador__botao-editar">
+                    <img src="~/img/botão-excluir-lista.png" />
+                    Deletar
+                </a>
+            </td>
+
         </tr>
-}
-    </tbody>
-</table>
+        }
+    </table>
+</section>

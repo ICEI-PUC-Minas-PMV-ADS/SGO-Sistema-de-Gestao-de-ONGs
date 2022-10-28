@@ -13,7 +13,7 @@ namespace sgo_back_end.Models
         [Display(Name = "Função")]
         public tipoFuncao Funcao { get; set; }
 
-        [Display(Name = "Disponível")]
+        [Display(Name = "Disponível esse Mês")]
         public estaDisponivel Disponivel { get; set; }
 
     }
@@ -21,11 +21,11 @@ namespace sgo_back_end.Models
     public enum tipoFuncao
     {
         Montagem,
-        Distribuicao
+        Distribuição
     }
     public enum estaDisponivel
     {
         Sim,
-        Nao
+        Não
     }
 }

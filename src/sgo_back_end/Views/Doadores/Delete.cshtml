@@ -1,39 +1,42 @@
 ﻿@model sgo_back_end.Models.Doador
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Excluir";
 }
 
-<h1>Delete</h1>
+<h1 class="cadastro-doador__titulo">Excluir cadastro</h1>
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>Doador</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
+<section class="detalhes-doador">
+    <dl>
+        <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Telefone)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Telefone)
-        </dd>
-        <dt class = "col-sm-2">
+        <dt>
             @Html.DisplayNameFor(model => model.Email)
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Email)
         </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
     </dl>
-    
-    <form asp-action="Delete">
+
+    <form asp-action="Delete" class="doador__botões-flex">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <a asp-action="Index" class="doador__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <button type="submit" class="doador__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-excluir.png" />
+            Deletar
+        </button>
     </form>
-</div>
+</section>
+

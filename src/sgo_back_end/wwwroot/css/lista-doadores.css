@@ -1,8 +1,7 @@
-﻿namespace SGO___Sistema_de_Gestão_de_ONGs.wwwroot.css
+﻿namespace SGO_Sistema_de_Gestao_ONGs.wwwroot.css
 {
 }
-
-.lista-voluntario__titulo {
+.lista-doador__titulo {
     font-size: 36px;
     font-weight: 700;
     text-align: center;
@@ -10,7 +9,7 @@
     padding: 60px 0 45px 0;
 }
 
-.lista-voluntario-container {
+.lista-doador-container {
     display: flex;
     justify-content: center;
     margin: 0 80px;
@@ -19,22 +18,22 @@
     border-radius: 6px;
 }
 
-.voluntario__tabela {
+.doador__tabela {
     width: 100%;
 }
 
-.voluntarios-cadastradas {
+.doador-cadastradas {
     border-bottom: solid 1px var(--input-borda);
 }
 
-.voluntario__tabela .voluntarios-cadastradas .item {
+.doador__tabela .doador-cadastradas .item {
     padding: 20px;
     font-size: 14px;
     font-weight: 500;
     color: var(--input-borda-focus);
 }
 
-.voluntario__tabela-header td {
+.doador__tabela-header td {
     padding: 20px;
     border-bottom: solid 1px var(--input-borda);
     font-size: 15px;
@@ -42,7 +41,7 @@
     color: var(--rosa)
 }
 
-.voluntario__botao-editar {
+.doador__botao-editar {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -56,11 +55,11 @@
     padding: 20px 8px;
 }
 
-    .voluntario__botao-editar:hover {
+    .doador__botao-editar:hover {
         transform: scale(1.06);
         transition: all 0.5s;
     }
 
-.voluntario__botao-editar img {
-    padding-right: 8px;
-}
+    .doador__botao-editar img {
+        padding-right: 8px;
+    }

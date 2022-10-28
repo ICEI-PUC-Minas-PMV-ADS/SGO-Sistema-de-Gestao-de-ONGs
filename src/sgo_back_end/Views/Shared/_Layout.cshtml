@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - SGO</title>
+    <link rel="shortcut icon" href=/img/favicon.png />
 
     <link rel="stylesheet" href="~/sgo_back_end.styles.css" asp-append-version="true" />
 
@@ -16,6 +17,7 @@
     <link rel="stylesheet" href="~/css/cadastro-voluntario.css" />
     <link rel="stylesheet" href="~/css/cadastro-doador.css" />
     <link rel="stylesheet" href="~/css/lista-voluntarios.css" />
+    <link rel="stylesheet" href="~/css/lista-doadores.css"/>
 
 </head>
 <body>
@@ -24,7 +26,9 @@
             <button class="cabecalho__btn-abrir-navbar">
                 <img src="~/img/abrir-navbar.png" alt="">
             </button>
-            <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="">
+            <a asp-controller ="Home" asp-action="Index">
+                <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="">
+            </a>
         </div>
         <button class="cabecalho__btn-sair">
             <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="">Sair
@@ -59,7 +63,7 @@
                 </li>
                 <li>
                     <button class="navbar__btn-sair">
-                        <img class="navbar__btn-sair-icone" src="./img/sair-navbar.png" alt="">Sair
+                        <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="">Sair
                     </button>
                 </li>
             </ul>

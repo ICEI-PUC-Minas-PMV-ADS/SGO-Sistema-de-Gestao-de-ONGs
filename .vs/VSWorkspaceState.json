@@ -3,8 +3,10 @@
     "",
     "\\src",
     "\\src\\sgo_back_end",
-    "\\src\\sgo_back_end\\Controllers"
+    "\\src\\sgo_back_end\\Controllers",
+    "\\src\\sgo_back_end\\Views",
+    "\\src\\sgo_back_end\\Views\\Voluntarios"
   ],
-  "SelectedNode": "\\src\\sgo_back_end\\Controllers\\VoluntariosController.cs",
+  "SelectedNode": "\\src\\sgo_back_end\\Views\\Voluntarios\\Edit.cshtml",
   "PreviewInSolutionExplorer": false
 }

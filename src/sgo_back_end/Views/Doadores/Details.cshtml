@@ -1,36 +1,40 @@
 ﻿@model sgo_back_end.Models.Doador
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detalhes";
 }
 
-<h1>Details</h1>
+<h1 class="cadastro-doador__titulo">Detalhes</h1>
 
-<div>
-    <h4>Doador</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
+<section class="detalhes-voluntario">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome):
         </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Telefone)
+        <dt>
+            @Html.DisplayNameFor(model => model.Email):
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Telefone)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Email)
-        </dt>
-        <dd class = "col-sm-10">
+        <dd>
             @Html.DisplayFor(model => model.Email)
         </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
     </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+
+    <div class="doador__botões-flex">
+        <a asp-action="Index" class="doador__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="doador__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-editar-detalhes.png" />
+            Editar
+        </a>
+    </div>
+</section>

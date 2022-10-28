@@ -39,6 +39,7 @@
 }
 
 .doador__cadastrar {
+    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,4 +59,52 @@
 
     .doador__cadastrar img {
         padding-right: 13px;
+    }
+
+.doador__botões-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.doador__voltar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 30px 0;
+    box-sizing: border-box;
+}
+
+.detalhes-doador {
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    margin: 0 auto
+}
+
+    .detalhes-doador dl dt {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--azulEscuro);
+        padding-bottom: 7px;
+    }
+
+    .detalhes-doador dl dd {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--azulEscuro);
+        padding-bottom: 30px;
     }
