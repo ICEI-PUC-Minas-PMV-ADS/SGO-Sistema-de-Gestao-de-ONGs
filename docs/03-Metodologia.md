@@ -27,9 +27,9 @@ Para o gerenciamento do projeto, a equipe optou pelo Scrum, metodologia ágil na
 
 A equipe está organizada da seguinte forma:
 
-- Scrum Master: Alana Vasconcelos
-- Product Owner: Lion Simon
-- Equipe de Desenvolvimento: Isabela Oliveira, João Paulo e Mariano Teixeira
+- Scrum Master: Isabela Oliveira
+- Product Owner: João Paulo
+- Equipe de Desenvolvimento: Mariano Teixeira
 - Equipe de Design: Thiago Terra
 
 ### Processo
@@ -38,14 +38,14 @@ A equipe segue a ferramenta Scrum, uma metodologia Agile responsável por auxili
 
 O time ágil é organizado de forma que pessoas fiquem responsáveis por garantir a qualidade, eficácia e eficiência do projeto. Isso é alcançado através dos pequenos ciclos de atividades e reuniões constantes para que a equipe possa alinhar o que vem fazendo e pensar formas de melhorar o processo com agilidade.
 
-Inicialmente, o P.O reuniu a equipe e apresentou o pacote de funcionalidades do projeto (o product backlog). A partir disso, as Sprints (os ciclos) foram definidas para a realização das tarefas. A Daily Scrum do grupo acontecia às 21:30 e, no início de cada sprint, acontecia a Sprint Planning Meeting para o planejamento e priorização dos itens do Product Backlog para aquele período.
+Inicialmente, o P.O reuniu a equipe e apresentou o pacote de funcionalidades do projeto (o product backlog). A partir disso, as Sprints (os ciclos) foram definidas para a realização das tarefas. A Daily Scrum do grupo acontecia às 21:00 e, no início de cada sprint, acontecia a Sprint Planning Meeting para o planejamento e priorização dos itens do Product Backlog para aquele período.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código: Visual Studio Code
-O editor de código escolhido foi o Visual Studio Code porque ele possui uma integração com o sistema de versão e facilidade no manuseio por parte de quem está iniciando na área.
+- Editor de código: Visual Studio
+O editor de código escolhido foi o Visual Studio porque ele possui uma integração com o sistema de versão e facilidade no manuseio por parte de quem está iniciando na área.
 
 - Ferramentas de comunicação: Teams
 A ferramenta de comunicação utilizada entre o grupo é o Microsoft Teams, disponibilizado pela PUC Minas, para reuniões de planejamento do projeto.
