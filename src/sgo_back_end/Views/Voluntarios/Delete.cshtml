@@ -39,6 +39,8 @@
             @Html.DisplayFor(model => model.Disponivel)
         </dd>
     </dl>
+
+    <p class="voluntario__pergunta-excluir">Você tem certeza que deseja excluir o cadastro?</p>
     
     <form asp-action="Delete" class="voluntario__botões-flex">
         <input type="hidden" asp-for="Id" />
