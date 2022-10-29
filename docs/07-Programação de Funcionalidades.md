@@ -264,3 +264,211 @@
 
 - Para acessar a tela de exclusão de cadastro, basta acessar a lista de voluntários e clicar em “Deletar”. 
 
+
+## Cadastro de Doadores
+
+![Cadastro de doadores](img/funcionalidades-cadDoador.png)
+
+## Requisitos Atendidos:
+
+- RF-08: A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-cadastrar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-doador.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- validacoes.css 
+
+- Create.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+- Para acessar a tela de cadastro de doadores, basta clicar em “Cadastrar Doador”. 
+
+## Lista de Doadores
+
+
+![Lista de doadores](img/funcionalidades-listagemDoador.png)
+
+## Requisitos Atendidos:
+
+- RF-09: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.   
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-detalhes-lista.png; 
+
+- botao-editar.png; 
+
+- botao-excluir-lista.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- lista-doadores.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- validacoes.css 
+
+- Index.cshtml 
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/
+
+- Para acessar a tela de listagem de doadores, basta clicar em “Listagem de Doadores” ou acessar a lista pela navbar. 
+
+## Edição de cadastro de doador
+
+
+![Edição no cadastro de doador](img/funcionalidades-editarCadDoador.png)
+
+## Requisitos Atendidos:
+- RF-10: O sistema deve permitir ao gestor alterar os dados cadastrais do doador. 
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-salvar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-doador.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- validacoes.css 
+
+- Edit.cshtml 
+
+## Instruções de acesso:
+
+-Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+- Para acessar a tela de edição, basta acessar a lista de doadores e clicar em “Editar”. 
+
+## Detalhes no Cadastro do Doador
+
+![Detalhes no cadastro de doador](img/funcionalidades-detalhesCadDoador.png)
+
+## Requisitos Atendidos:
+
+- RF-09: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição,exclusão e visualização dos detalhes dos dados cadastrados.   
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-editar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-doador.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- Details.cshtml 
+## Instruções de acesso:
+ 
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+- Para acessar a tela de detalhes, basta acessar a lista de doadores e clicar em “Detalhes”. 
+
+## Excluir cadastro de doador
+
+![Excluir cadastro de doador](img/funcionalidades-detalhesCadDoador.png)
+
+## Requisitos Atendidos:
+
+- RF-11: O sistema deve permitir ao gestor excluir o doador cadastrado. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-excluir.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-doador.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- Delete.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+- Para acessar a tela de exclusão de cadastro, basta acessar a lista de doadores e clicar em “Deletar” 
