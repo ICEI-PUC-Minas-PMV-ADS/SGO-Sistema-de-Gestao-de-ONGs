@@ -24,17 +24,16 @@ Para o projeto da base de dados foram representadas todas as tabelas que serão 
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Para a implementação da solução o grupo fez uso de algumas tecnologias, tal como o Visual Studio, editor de código-fonte - também conhecido como IDE de desenvolvimento. Além disso, a equipe faz uso da ferramenta de comunicação da Microsoft, o Teams, onde acontecem as reuniões com a orientadora do projeto. Para armazenamento dos arquivos do projeto, definimos o OneDrive, serviço de armazenamento em nuvem da Microsoft, como ferramenta a ser utilizada. 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Para a criação dos wireframes e protótipos foi escolhida a plataforma Figma por se tratar de uma ferramenta de design para interfaces com possibilidade de trabalho colaborativo.  
+
+O GitHub também está sendo utilizado por se tratar de um serviço baseado em nuvem e que hospeda um sistema de controle de versão. A plataforma também é utilizada para gerenciamento do projeto. Usamos a aba “projects” para monitorar o andamento do projeto em um quadro modelo Kanban. 
+
+Como serviço de hospedagem e banco de dados da nossa aplicação será utilizado o Azure, plataforma da Microsoft que possui uma série de serviços em nuvem. 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O site do projeto utiliza a plataforma Microsoft Azure como serviço de hospedagem. O site pode ser acessado [aqui] (https://domingosolidario.azurewebsites.net/).
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+

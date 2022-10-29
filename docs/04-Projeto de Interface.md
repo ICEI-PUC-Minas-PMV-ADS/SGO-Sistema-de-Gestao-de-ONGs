@@ -22,6 +22,7 @@ Todas as telas do sistema possuem uma estrutura padrão comum. Nesta estrutura, 
 
 ![Estrutura do Site](img/estrutura-do-site.png)
 
+
 - Login
 
 A tela de login contém, no bloco de Cabeçalho, a logo do sistema e a logo da ONG Domingo Solidário.
@@ -31,6 +32,7 @@ Já no bloco de Conteúdo, ela conta com dois campos onde o gestor informa seu e
 E finalmente, no bloco de Rodapé, possuí o botão “Suporte”.
 
 ![Login](img/wireframes/login.png)
+
 
 - Home
 
@@ -42,6 +44,7 @@ Já no bloco de Rodapé, constam as informações sobre a equipe e a logo da PUC
 
 ![Home](img/wireframes/home.png)
 
+
 - Cadastro de Voluntários
 
 A tela de Cadastro de Voluntários contém, no bloco de Conteúdo, os campos de preenchimento “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”). Após o preenchimento de todas as informações obrigatórias o botão “Cadastrar” ficará ativo.
@@ -50,15 +53,39 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Cadastro de Voluntários](img/wireframes/cadastro-de-voluntario.png)
 
+
 - Lista de Voluntários
 
-A tela da Lista de Voluntários contém, no bloco de Conteúdo, uma tabela com cada um dos voluntários cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone”, “E-mail”, “Função” e “Disponível esse Mês”, separados em colunas. Além disso, cada cadastro terá a opção “Editar”.
-
-Ao clicar em “Editar”, será aberta uma tela que sobrepõe a lista de Voluntários contendo os campos “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”) para serem editadas. Além disso, terá a botão “Salvar”, “Excluir” e o “X” para fechar a tela.
+A tela da Lista de Voluntários contém, no bloco de Conteúdo, uma tabela com cada um dos voluntários cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone”, “E-mail”, “Função” e “Disponível esse Mês”, separados em colunas. Além disso, cada cadastro terá opções para edição, exclusão e visualização de detalhes do cadastro do respectivo voluntário.
 
 Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
-![Cadastro de Voluntários](img/wireframes/listagem-de-voluntario.png)
+![Lista de Voluntários](img/wireframes/wireframe-listagem-de-voluntario.png)
+
+
+- Editar Cadastro de Voluntário:
+
+Ao clicar em “Editar”, será aberta uma tela de edição, contendo os campos “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”) para serem editadas. Além disso, a tela possui os botões “Salvar” e “Voltar”. 
+
+
+![Editar Cadastro de Voluntários](img/wireframes/wireframe-editar-voluntario.png)
+
+
+- Visualizar Detalhes no Cadastro de Voluntário:
+
+Ao clicar em “detalhes”, na  lista de voluntários, o gestor será redirecionado para a tela abaixo, onde poderá visualizar todas as informações de cadastro do respectivo voluntário.  Além disso, a tela possui os botões de “Editar” e “Voltar”. 
+
+
+![Visualizar Detalhes no Cadastro de Voluntários](img/wireframes/wireframe-detalhes-voluntario.png)
+
+
+- Excluir Cadastro do Voluntário:
+
+Ao acionar a opção “excluir” na listagem de voluntários, o gestor será redirecionado para a tela de exclusão de cadastro,  que contém todas as informações do voluntário cadastrado, bem como as opções de “excluir” e “voltar”. 
+
+![Excluir Cadastro de Voluntários](img/wireframes/wireframe-excluir-voluntario.png)
+
+
 
 - Cadastro de Doadores
 
@@ -68,15 +95,36 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Cadastro de Doadores](img/wireframes/cadastro-de-doadores.png)
 
+
 - Lista de Doadores
 
-A tela da Lista de Doadores contém, no bloco de Conteúdo, uma tabela com cada um dos doadores cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone” e “E-mail” separados em colunas. Além disso, cada cadastro terá a opção “Editar”.
+A tela da Lista de Doadores contém, no bloco de Conteúdo, uma tabela com cada um dos doadores cadastrados no sistema separados em linha e seus respectivos dados: “Nome”, “Telefone” e “E-mail” separados em colunas. Além disso, cada cadastro terá opções para edição, exclusão e visualização de detalhes do cadastro do respectivo doador.
 
-Ao clicar em “Editar”, será aberta uma tela que sobrepõe a lista de Doadores contendo os campos “Nome”, “E-mail”, “Telefone”. Além disso, terá a botão “Salvar”, “Excluir” e o “X” para fechar a tela.
 
 Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 ![Lista de Doadores](img/wireframes/listagem-de-doador.png)
+
+
+- Editar Cadastro do Doador:
+
+Ao clicar em “Editar”, será aberta uma tela de edição, contendo os campos “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”) para serem editadas. Além disso, terá a botão “Salvar” e “Voltar”.  
+
+![Editar Cadastro de Doadores](img/wireframes/wireframe-editar-doador.png)
+
+
+- Visualizar detalhes no Cadastro do Doador:
+
+Ao clicar em “detalhes”, na  lista de doadores, o gestor será redirecionado para a tela abaixo, onde poderá visualizar todas as informações de cadastro do respectivo doador.  Além disso, a tela possui os botões de “Editar” e “Voltar”. 
+
+![Visualizar detalhes no Cadastro de Doadores](img/wireframes/wireframe-detalhes-doador.png)
+
+
+- Excluir Cadastro do Doador:
+
+Ao acionar a opção “excluir” na listagem de doadores, o gestor será redirecionado para a tela de exclusão de cadastro,  que contém todas as informações do doador cadastrado, bem como as opções de “excluir” e “voltar”. 
+
+![Excluir Cadastro de Doadores](img/funcionalidades-excluirCadDoador.png)
 
 - Suporte
 
