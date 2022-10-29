@@ -1,28 +1,266 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
-Implementação do sistema descrita por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos com os artefatos criados (código fonte), deverão apresentadas as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+# Home
+![Home](img/funcionalidades-home.png)
+![Home](img/funcionalidades-homeNavbar.png)
 
-Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
+## Requisitos Atendidos: 
 
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
+- RF-02: O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. 
 
-# Instruções de acesso
+- RF-03: A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados. 
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
+- RF-13: O site deve ter em sua home a quantidade de voluntários e doadores cadastrados. 
+## Artefatos da funcionalidade:
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
+- abrir-navbar.png; 
 
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+- fechar-navbar.png; 
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+- home-navbar.png; 
+
+- listas-home.png; 
+
+- listas-navbar.png; 
+
+- logo-navbar-domSolidario.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- total-doadores.png; 
+
+- total-voluntarios.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- home.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- home.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+
+- Você será redirecionado para a Home.
+
+# Cadastro de Voluntários
+
+![Cadastro de voluntários](img/funcionalidades-cadVoluntario.png)
+
+## Requisitos Atendidos:
+
+- RF-04: O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-cadastrar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-voluntario.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- validacoes.css 
+
+- Create.cshtml 
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+
+
+- Para acessar a tela de cadastro de voluntário, basta clicar em “Cadastrar Voluntário”. 
+# Lista de Voluntários
+
+
+![Lista de voluntários](img/funcionalidades-listagemVoluntario.png)
+
+## Requisitos Atendidos:
+
+- RF-05: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-detalhes-lista.png; 
+
+- botao-editar.png; 
+
+- botao-excluir-lista.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- lista-voluntarios.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- Index.cshtml 
+## Instruções de acesso:
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+
+
+- Para acessar a tela de listagem de voluntários, basta clicar em “Listagem de Voluntários” ou acessar a lista pela navbar. 
+
+# Edição de Cadastro de Voluntários
+
+
+![Edição de cadastro de voluntários](img/funcionalidades-editarCadVoluntario.png)
+
+## Requisitos Atendidos:
+
+- RF-06: O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-salvar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-voluntario.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- validacoes.css 
+
+- Edit.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+
+- Para acessar a tela de edição, basta acessar a lista de voluntários e clicar em “Editar”. 
+
+# Detalhes no Cadastro de Voluntários
+
+![Detalhes no cadastro de voluntários](img/funcionalidades-detalhesCadVoluntario.png)
+
+## Requisitos Atendidos:
+
+- RF-05: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
+
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-editar.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-voluntario.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- Details.cshtml 
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+
+- Para acessar a tela de detalhes, basta acessar a lista de voluntários e clicar em “Detalhes”. 
+# Excluir Cadastro de Voluntários
+
+
+![Excluir cadastro de voluntários](img/funcionalidades-excluirCadVoluntario.png)
+
+## Requisitos Atendidos:
+
+- RF-07: O sistema deve permitir ao gestor excluir o voluntário cadastrado. 
+## Artefatos da funcionalidade:
+
+- abrir-navbar.png; 
+
+- botao-excluir.png; 
+
+- logo-puc.png; 
+
+- logo-sgo.png; 
+
+- sair-header.png; 
+
+- cabecalho.css 
+
+- rodape.css 
+
+- cadastro-voluntario.css 
+
+- navbar.css 
+
+- base.css 
+
+- reset.css 
+
+- Delete.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+
+- Para acessar a tela de exclusão de cadastro, basta acessar a lista de voluntários e clicar em “Deletar”. 
+
