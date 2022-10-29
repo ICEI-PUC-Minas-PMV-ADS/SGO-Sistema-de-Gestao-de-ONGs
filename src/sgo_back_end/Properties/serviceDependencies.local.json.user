@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-10-29T17:56:49.787241Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-10-29T17:56:36.6260522Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "4b2ec8e3-7103-46ce-9aa8-08c7093145e8"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "msdocs-core-sql"
+    }
+  }
+}

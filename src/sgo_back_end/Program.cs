@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using sgo_back_end.Models;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +9,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>
     (options => options.UseSqlServer
-    ("Server=(localdb)\\mssqllocaldb;Database=SGO_backend;Trusted_Connection=True;MultipleActiveResultSets=true"));
+    ("Server = tcp:domingosolidario.database.windows.net, 1433; Initial Catalog = coreDb; Persist Security Info=False; User ID = gestorsgo; Password = sgologin,1; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30"));
+    //("Server=(localdb)\\mssqllocaldb;Database=SGO_backend;Trusted_Connection=True;MultipleActiveResultSets=true"));
 
 var app = builder.Build();
 

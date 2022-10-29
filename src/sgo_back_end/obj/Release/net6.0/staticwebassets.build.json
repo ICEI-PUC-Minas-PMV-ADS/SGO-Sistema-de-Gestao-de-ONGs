@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UhgLu8V+yUWWCTA4lHGivhHPAFEegKQEnstC0dwpPTc=",
+  "Hash": "z5ZqSvSIuNGYyIspoopYwmwsKsWdyeLRQ7DF5vWAPiA=",
   "Source": "SGO_Sistema_de_Gestao_ONGs",
   "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SGO_Sistema_de_Gestao_ONGs\\wwwroot",
       "Source": "SGO_Sistema_de_Gestao_ONGs",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\SGO_Sistema_de_Gestao_ONGs.styles.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\SGO_Sistema_de_Gestao_ONGs.styles.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "SGO_Sistema_de_Gestao_ONGs.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\SGO_Sistema_de_Gestao_ONGs.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\bundle\\SGO_Sistema_de_Gestao_ONGs.styles.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "SGO_Sistema_de_Gestao_ONGs.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\base.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\base.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/base.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\base.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\cabecalho.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\cabecalho.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/cabecalho.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cabecalho.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\cadastro-doador.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\cadastro-doador.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/cadastro-doador.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cadastro-doador.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\cadastro-voluntario.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\cadastro-voluntario.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/cadastro-voluntario.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cadastro-voluntario.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\home.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\home.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\lista-doadores.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\lista-doadores.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/lista-doadores.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\lista-doadores.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\lista-voluntarios.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\lista-voluntarios.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/lista-voluntarios.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\lista-voluntarios.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\navbar.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\navbar.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/navbar.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\navbar.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\reset.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\reset.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/reset.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\reset.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\rodape.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\rodape.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/rodape.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\rodape.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\site.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -238,10 +238,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\css\\validacoes.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "css/validacoes.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\validacoes.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\favicon.ico",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\abrir-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\abrir-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/abrir-navbar.png",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\abrir-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\acessar-login.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\acessar-login.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/acessar-login.png",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\acessar-login.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-cadastrar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-cadastrar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-cadastrar.png",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-cadastrar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-detalhes-lista.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-detalhes-lista.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-detalhes-lista.png",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-detalhes-lista.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-editar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-editar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-editar.png",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-editar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-editar-detalhes.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-editar-detalhes.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-editar-detalhes.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-editar-detalhes.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-excluir.png",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-excluir.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir-lista.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir-lista.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-excluir-lista.png",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-excluir-lista.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\botão-salvar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\botão-salvar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/botão-salvar.png",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botão-salvar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-home.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-home.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/cadastro-doador-home.png",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cadastro-doador-home.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/cadastro-doador-navbar.png",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cadastro-doador-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-home.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-home.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/cadastro-voluntário-home.png",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cadastro-voluntário-home.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/cadastro-voluntário-navbar.png",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cadastro-voluntário-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\email-login.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\email-login.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/email-login.png",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\email-login.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\email-suporte.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\email-suporte.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/email-suporte.png",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\email-suporte.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\favicon.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\fechar-edição-cadastro.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\fechar-edição-cadastro.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/fechar-edição-cadastro.png",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fechar-edição-cadastro.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\fechar-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\fechar-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/fechar-navbar.png",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fechar-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\home-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\home-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/home-navbar.png",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\imagem-login.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\imagem-login.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/imagem-login.png",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem-login.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\imagem-suporte.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\imagem-suporte.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/imagem-suporte.png",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem-suporte.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\listas-home.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\listas-home.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/listas-home.png",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\listas-home.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\listas-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\listas-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/listas-navbar.png",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\listas-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\logo-login-domSolidário.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\logo-login-domSolidário.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/logo-login-domSolidário.png",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-login-domSolidário.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\logo-navbar-domSolidário.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\logo-navbar-domSolidário.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/logo-navbar-domSolidário.png",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-navbar-domSolidário.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\logo-puc.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\logo-puc.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/logo-puc.png",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-puc.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\logo-sgo.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\logo-sgo.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/logo-sgo.png",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-sgo.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\pessoa-editar-cadastro.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\pessoa-editar-cadastro.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/pessoa-editar-cadastro.png",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pessoa-editar-cadastro.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\sair-header.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\sair-header.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/sair-header.png",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sair-header.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\sair-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\sair-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/sair-navbar.png",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sair-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\senha-login.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\senha-login.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/senha-login.png",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\senha-login.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\suporte-login.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\suporte-login.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/suporte-login.png",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\suporte-login.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\suporte-navbar.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\suporte-navbar.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/suporte-navbar.png",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\suporte-navbar.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\telefonica-suporte.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\telefonica-suporte.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/telefonica-suporte.png",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\telefonica-suporte.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\total-doadores.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\total-doadores.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/total-doadores.png",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\total-doadores.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\total-voluntários.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\total-voluntários.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/total-voluntários.png",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\total-voluntários.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\img\\whatsapp-suporte.png",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\img\\whatsapp-suporte.png",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "img/whatsapp-suporte.png",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\whatsapp-suporte.png"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\js\\site.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SGO_Sistema_de_Gestao_ONGs",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\wwwroot\\",
       "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

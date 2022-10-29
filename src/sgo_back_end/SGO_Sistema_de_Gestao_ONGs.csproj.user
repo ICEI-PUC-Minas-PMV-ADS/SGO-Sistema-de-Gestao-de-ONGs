@@ -11,6 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>sgo_back_end.Models.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>SGO-SistemadeGestaodeONGs - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\user\Desktop\SGO-Sistema-de-Gestao-de-ONGs\src\sgo_back_end\Properties\PublishProfiles\domingosolidario - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

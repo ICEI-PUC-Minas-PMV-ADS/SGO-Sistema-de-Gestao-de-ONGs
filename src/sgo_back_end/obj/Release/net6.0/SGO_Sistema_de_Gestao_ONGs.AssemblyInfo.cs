@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("8454f711-2e76-4cd7-8303-31a90ab9d356")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SGO_Sistema_de_Gestao_ONGs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

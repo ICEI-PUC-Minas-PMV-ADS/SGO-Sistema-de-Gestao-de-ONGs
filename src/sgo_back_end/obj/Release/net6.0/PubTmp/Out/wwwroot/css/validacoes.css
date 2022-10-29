@@ -1,0 +1,11 @@
+﻿namespace SGO_Sistema_de_Gestao_ONGs.wwwroot.css
+{
+}
+
+.texto-validacao {
+    color: var(--rosa);
+    font-size: 12px;
+    padding-top: 5px;
+    display:flex;
+    align-items: flex-end;
+}

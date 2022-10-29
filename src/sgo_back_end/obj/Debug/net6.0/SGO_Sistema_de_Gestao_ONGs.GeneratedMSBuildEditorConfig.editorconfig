@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SGO_Sistema_de_Gestao_ONGs
 build_property.RootNamespace = SGO_Sistema_de_Gestao_ONGs
-build_property.ProjectDir = D:\Faculdade\2° Semestre\Projeto\Repos Def\src\sgo_back_end\
+build_property.ProjectDir = C:\Users\user\Desktop\SGO-Sistema-de-Gestao-de-ONGs\src\sgo_back_end\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Faculdade\2° Semestre\Projeto\Repos Def\src\sgo_back_end
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\SGO-Sistema-de-Gestao-de-ONGs\src\sgo_back_end
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Doadores/Create.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Doadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Doadores/Delete.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Doadores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Doadores/Details.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Doadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Doadores/Edit.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Doadores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Doadores/Index.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Doadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Shared/Error.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Voluntarios/Create.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Voluntarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Voluntarios/Delete.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Voluntarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Voluntarios/Details.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Voluntarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Voluntarios/Edit.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Voluntarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Voluntarios/Index.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Voluntarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Faculdade/2° Semestre/Projeto/Repos Def/src/sgo_back_end/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/SGO-Sistema-de-Gestao-de-ONGs/src/sgo_back_end/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iheqvl4h4t

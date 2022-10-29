@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="D:\Faculdade\2° Semestre\Projeto\Repos Def\src\sgo_back_end\obj\Release\net6.0\PubTmp\Out\" />
-  <dbfullsql path="D:\Faculdade\2° Semestre\Projeto\Repos Def\src\sgo_back_end\obj\Release\net6.0\PubTmp\EFSQLScripts\sgo_back_end.Models.ApplicationDbContext.sql" />
+  <IisApp path="C:\Users\user\Desktop\SGO-Sistema-de-Gestao-de-ONGs\src\sgo_back_end\obj\Release\net6.0\PubTmp\Out\" />
 </sitemanifest>
