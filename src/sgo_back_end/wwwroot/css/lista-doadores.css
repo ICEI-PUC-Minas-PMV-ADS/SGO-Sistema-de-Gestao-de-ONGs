@@ -1,0 +1,65 @@
+﻿namespace SGO_Sistema_de_Gestao_ONGs.wwwroot.css
+{
+}
+.lista-doador__titulo {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--azulEscuro);
+    padding: 60px 0 45px 0;
+}
+
+.lista-doador-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 80px;
+    border: solid 1px var(--input-borda);
+    padding-bottom: 150px;
+    border-radius: 6px;
+}
+
+.doador__tabela {
+    width: 100%;
+}
+
+.doador-cadastradas {
+    border-bottom: solid 1px var(--input-borda);
+}
+
+.doador__tabela .doador-cadastradas .item {
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--input-borda-focus);
+}
+
+.doador__tabela-header td {
+    padding: 20px;
+    border-bottom: solid 1px var(--input-borda);
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--rosa)
+}
+
+.doador__botao-editar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    background: none;
+    border: none;
+    font-size: 14px;
+    color: var(--input-borda-focus);
+    font-weight: 600;
+    cursor: pointer;
+    padding: 20px 8px;
+}
+
+    .doador__botao-editar:hover {
+        transform: scale(1.06);
+        transition: all 0.5s;
+    }
+
+    .doador__botao-editar img {
+        padding-right: 8px;
+    }

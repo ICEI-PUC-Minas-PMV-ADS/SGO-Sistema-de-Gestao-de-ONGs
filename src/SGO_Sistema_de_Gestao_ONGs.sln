@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGO_Sistema_de_Gestao_ONGs", "sgo_back_end\SGO_Sistema_de_Gestao_ONGs.csproj", "{42DAF08C-42B2-4009-A389-0BA63676465D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DAF08C-42B2-4009-A389-0BA63676465D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DAF08C-42B2-4009-A389-0BA63676465D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DAF08C-42B2-4009-A389-0BA63676465D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DAF08C-42B2-4009-A389-0BA63676465D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656ACA53-A938-4634-BEC7-70602B65097D}
+	EndGlobalSection
+EndGlobal

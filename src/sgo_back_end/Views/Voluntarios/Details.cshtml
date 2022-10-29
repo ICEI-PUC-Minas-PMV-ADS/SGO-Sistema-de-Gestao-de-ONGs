@@ -1,0 +1,52 @@
+﻿@model sgo_back_end.Models.Voluntario
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1 class="cadastro-voluntario__titulo">Detalhes</h1>
+
+<section class="detalhes-voluntario">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Funcao):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Funcao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Disponivel):
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Disponivel)
+        </dd>
+    </dl>
+
+    <div class="voluntario__botões-flex">
+        <a asp-action="Index" class="voluntario__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="voluntario__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-editar-detalhes.png" />
+            Editar
+        </a>
+    </div>
+</section>

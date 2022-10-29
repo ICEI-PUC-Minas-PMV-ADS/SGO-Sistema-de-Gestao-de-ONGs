@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="menu-bg">
+    <div class="menu">
+        <section>
+            <h1 class="titulo-ong">Domingo Solidário</h1>
+            <div class="menu-dashboard">
+                <div class="dashboard">
+                    <img src="/img/total-voluntários.png" />
+                    <div>
+                        <p class="pessoas">Voluntários</p>
+                        <p class="total-pessoas">37</p>
+                    </div>
+                </div>
+                <div class="dashboard">
+                    <img src="/img/total-doadores.png" />
+                    <div>
+                        <p class="pessoas">Doadores</p>
+                        <p class="total-pessoas">26</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="menu-links">
+            <div>
+                <a class="botao-menu cadastrar-menu botão-rosa_hover" asp-controller="Voluntarios" asp-action="Create">
+                    <img src="/img/cadastro-voluntário-home.png" />
+                    Cadastrar Voluntário
+                </a>
+                <a class="botao-menu lista-menu botão-azul_hover" asp-controller="Voluntarios" asp-action="Index">
+                    <img src="/img/listas-home.png" />
+                    Listagem de Voluntários
+                </a>
+            </div>
+            <div>
+                <a class="botao-menu cadastrar-menu botão-rosa_hover" asp-controller="Doadores" asp-action="Create">
+                    <img src="/img/cadastro-doador-home.png" />
+                    Cadastrar Doador
+                </a>
+                <a class="botao-menu lista-menu botão-azul_hover" asp-controller="Doadores" asp-action="Index">
+                    <img src="/img/listas-home.png" />
+                    Listagem de Doadores
+                </a>
+            </div>
+        </section>
+    </div>
+</div>

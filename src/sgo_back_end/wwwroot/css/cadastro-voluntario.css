@@ -1,0 +1,138 @@
+﻿namespace SGO___Sistema_de_Gestão_de_ONGs.wwwroot.css
+{
+}
+
+.cadastro-voluntario__titulo {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--azulEscuro);
+    padding: 60px 0 45px 0;
+}
+
+.formulario-voluntario {
+    display:flex;
+    flex-direction: column;
+    width: 480px;
+    margin: 0 auto
+}
+
+    .formulario-voluntario label {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--azulEscuro);
+        padding-bottom: 8px;
+    }
+
+.voluntario__input-padrao {
+    margin: 0 0 20px;
+    height: 38px;
+    padding-left: 20px;
+    border-radius: 6px;
+    border: solid 1px var(--input-borda);
+}
+
+.voluntario__seletores-div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.voluntario__seletores legend {
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+
+.voluntario__seletor {
+    padding: 10px 25px;
+    border-radius: 6px;
+    border: solid 1px var(--input-borda);
+    width: 230px;
+}
+
+.voluntario__preenchimento-obrigatorio {
+    font-size: 12px;
+    font-weight: 500;
+    padding: 18px 0;
+    align-self:flex-start;
+}
+
+.voluntario__cadastrar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--rosa);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 15px 0
+}
+
+.voluntario__cadastrar img {
+    padding-right: 13px;
+}
+
+.voluntario__botões-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.voluntario__voltar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 15px 0;
+    box-sizing: border-box;
+}
+
+.detalhes-voluntario {
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    margin: 0 auto
+}
+
+    .detalhes-voluntario dl dt {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--azulEscuro);
+        padding-bottom: 7px;
+    }
+
+    .detalhes-voluntario dl dd {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--azulEscuro);
+        padding-bottom: 30px;
+    }
+
+.voluntario__pergunta-excluir {
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    color: var(--azulEscuro)
+}

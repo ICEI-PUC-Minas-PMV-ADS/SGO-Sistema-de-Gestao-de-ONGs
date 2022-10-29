@@ -1,0 +1,55 @@
+﻿@model sgo_back_end.Models.Voluntario
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1 class="cadastro-voluntario__titulo">Editar cadastro</h1>
+
+<form asp-action="Edit" class="formulario-voluntario">
+    <div asp-validation-summary="ModelOnly"></div>
+    <input type="hidden" asp-for="Id" />
+    <label asp-for="Nome">Nome*</label>
+    <input asp-for="Nome" type="text" class="voluntario__input-padrao" required>
+    <span asp-validation-for="Nome"></span>
+
+    <label asp-for="Email">E-mail</label>
+    <input asp-for="Email" type="email" class="voluntario__input-padrao" placeholder="exemplo@gmail.com">
+
+    <label asp-for="Telefone" for="telefone">Telefone *</label>
+    <input asp-for="Telefone" type="tel" class="voluntario__input-padrao" required placeholder="(99) 99999-9999">
+    <span asp-validation-for="Telefone"></span>
+
+    <div class="voluntario__seletores-div">
+        <fieldset class="voluntario__seletores">
+            <legend asp-for="Funcao">Função *</legend>
+            <select asp-for="Funcao" asp-items="Html.GetEnumSelectList<tipoFuncao>()" required class="voluntario__seletor">
+            </select>
+            <span asp-validation-for="Funcao"></span>
+        </fieldset>
+
+
+        <fieldset class="voluntario__seletores">
+            <legend asp-for="Disponivel">Disponível esse mês *</legend>
+            <select asp-for="Disponivel" asp-items="Html.GetEnumSelectList<estaDisponivel>()" required class="voluntario__seletor">
+            </select>
+            <span asp-validation-for="Disponivel"></span>
+        </fieldset>
+    </div>
+
+    <h2 class="voluntario__preenchimento-obrigatorio">* Campos de preenchimento obrigatório</h2>
+
+    <div class="voluntario__botões-flex">
+        <a asp-action="Index" class="voluntario__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <button type="submit" class="voluntario__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-salvar.png"/>
+            Salvar
+        </button>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

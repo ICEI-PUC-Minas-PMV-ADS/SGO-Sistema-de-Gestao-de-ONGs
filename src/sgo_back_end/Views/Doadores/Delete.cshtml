@@ -1,0 +1,44 @@
+﻿@model sgo_back_end.Models.Doador
+
+@{
+    ViewData["Title"] = "Excluir";
+}
+
+<h1 class="cadastro-doador__titulo">Excluir cadastro</h1>
+
+<section class="detalhes-doador">
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+    </dl>
+
+    <p class="voluntario__pergunta-excluir">Você tem certeza que deseja excluir o cadastro?</p>
+
+    <form asp-action="Delete" class="doador__botões-flex">
+        <input type="hidden" asp-for="Id" />
+        <a asp-action="Index" class="doador__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <button type="submit" class="doador__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-excluir.png" />
+            Deletar
+        </button>
+    </form>
+</section>
+

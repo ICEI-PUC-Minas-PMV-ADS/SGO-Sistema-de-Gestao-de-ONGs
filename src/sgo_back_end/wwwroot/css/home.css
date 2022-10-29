@@ -1,0 +1,97 @@
+﻿.menu-bg {
+    background: var(--bg-header);
+    height: 65vh;
+}
+
+.menu {
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    height: 56vh;
+}
+
+.menu-dashboard{
+    display:flex;
+}
+
+.titulo-ong {
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--rosa);
+    padding-bottom: 40px;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    padding-right: 45px;
+}
+
+.dashboard img {
+    padding-right: 12px;
+}
+
+.pessoas {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+}
+
+.total-pessoas {
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--azulEscuro);
+}
+
+.menu-links {
+    display: flex;
+}
+
+.menu-links div {
+    padding-left: 25px;
+}
+
+.menu-links a img {
+    padding-right: 13px;
+}
+
+.botao-menu {
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.cadastrar-menu {
+    background: var(--rosa);
+    color: white;
+    margin-bottom: 18px;
+}
+
+.lista-menu {
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    color: var(--azulEscuro);
+}
+
+.botão-rosa_hover {
+    transition: 0.2s ease-in;
+}
+
+    .botão-rosa_hover:hover {
+        background: var(--rosa-hover);
+    }
+
+.botão-azul_hover {
+    transition: 0.2s ease-in;
+}
+
+    .botão-azul_hover:hover {
+        background: var(--azulEscuro-hover);
+    }
