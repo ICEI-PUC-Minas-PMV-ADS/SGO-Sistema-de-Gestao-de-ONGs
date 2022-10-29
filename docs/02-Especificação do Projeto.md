@@ -60,11 +60,11 @@ Os requisitos funcionais do projeto e seus respectivos níveis de prioridade de 
 |RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. | ALTA |
 |RF-03| A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados.    | ALTA |
 |RF-04| O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
-|RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição dos dados cadastrados.    | MÉDIA |
+|RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.    | MÉDIA |
 |RF-06| O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário.     | BAIXA |
 |RF-07| O sistema deve permitir ao gestor excluir o voluntário cadastrado.     | BAIXA |
 |RF-08| A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail.      | ALTA |
-|RF-09| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição dos dados cadastrados.     | MÉDIA |
+|RF-09| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.     | MÉDIA |
 |RF-10| O sistema deve permitir ao gestor alterar os dados cadastrais do doador.      | BAIXA |
 |RF-11| O sistema deve permitir ao gestor excluir o doador cadastrado.     | BAIXA |
 |RF-12| O sistema deve ter uma tela com opções para contactar o suporte técnico.       | BAIXA |
@@ -94,7 +94,7 @@ A tabela a seguir apresenta as condições que limitam a execução desse projet
 |--|-------------------------------------------------------|
 |RE-01| O projeto deve ser entregue até dia 11/12/2022. |
 |RE-02| A equipe não pode contratar terceiros para o desenvolvimento do projeto.        |
-|RE-03| O site deve ser desenvolvido utilizando linguagens de programação Web para front-end, mais especificamente HTML, CSS e JavaScript. A parte de back-end ficará por conta de PHP.        |
+|RE-03| O site deve ser desenvolvido utilizando linguagens de programação Web para front-end, mais especificamente HTML, CSS e JavaScript e C#, bem como o framework ASP.NET.        |
 
 ## Diagrama de Casos de Uso
 
