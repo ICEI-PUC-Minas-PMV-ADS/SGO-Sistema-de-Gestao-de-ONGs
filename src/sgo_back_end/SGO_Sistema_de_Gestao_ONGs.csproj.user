@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>sgo_back_end.Models.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>SGO-SistemadeGestaodeONGs - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HqXiJB9WBsUd4DQ81470sGZfnNnk9fC5pXq8ICVWLmk=",
+  "Hash": "a7UX7WhDghKlQyngPtF/IrWyISBssGh/s56FvprJSPU=",
   "Source": "SGO_Sistema_de_Gestao_ONGs",
   "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\css\\validacoes.css",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "css/validacoes.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\validacoes.css"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repos Def\\src\\sgo_back_end\\wwwroot\\favicon.ico",

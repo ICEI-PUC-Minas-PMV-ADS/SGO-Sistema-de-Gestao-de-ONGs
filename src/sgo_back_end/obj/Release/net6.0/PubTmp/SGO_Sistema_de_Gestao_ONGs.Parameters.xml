@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SGO-SistemadeGestaodeONGs" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Faculdade\\2°\ Semestre\\Projeto\\Repos\ Def\\src\\sgo_back_end\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="sgo_back_end.Models.ApplicationDbContext" description="" value="Data Source=tcp:sgo-server.database.windows.net,1433;Initial Catalog=SGO_Sistema_de_Gestao_ONGs_db;User Id=SGOServer@sgo-server;Password=projetoSGO2022" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Faculdade\\2°\ Semestre\\Projeto\\Repos\ Def\\src\\sgo_back_end\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\sgo_back_end\.Models\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

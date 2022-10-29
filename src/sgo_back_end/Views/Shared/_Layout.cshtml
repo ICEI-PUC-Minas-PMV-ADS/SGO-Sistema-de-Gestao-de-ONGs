@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -18,62 +18,63 @@
     <link rel="stylesheet" href="~/css/cadastro-doador.css" />
     <link rel="stylesheet" href="~/css/lista-voluntarios.css" />
     <link rel="stylesheet" href="~/css/lista-doadores.css"/>
+    <link rel="stylesheet" href="~/css/validacoes.css" />
+    
 
 </head>
 <body>
     <header class="cabecalho">
         <div class="cabecalho__menu">
             <button class="cabecalho__btn-abrir-navbar">
-                <img src="~/img/abrir-navbar.png" alt="">
+                <img src="~/img/abrir-navbar.png" alt="Botão para abrir barra de Navegação">
             </button>
             <a asp-controller ="Home" asp-action="Index">
-                <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="">
+                <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="Logo do sistema SGO">
             </a>
         </div>
         <button class="cabecalho__btn-sair">
-            <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="">Sair
+            <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="Ícone de deslogar">Sair
         </button>
     </header>
     <dialog id="navbar-modal">
         <nav class="navbar">
             <button class="navbar__btn-fechar-navbar">
-                <img src="~/img/fechar-navbar.png" alt="">
+                <img src="~/img/fechar-navbar.png" alt="Botão para fechar barra de Navegação">
             </button>
             <ul class="navbar__lista">
                 <li>
-                    <img src="~/img/logo-navbar-domSolidário.png" alt="">
+                    <img src="~/img/logo-navbar-domSolidário.png" alt="Logo do ONG Domingo Solidário">
                 </li>
                 <li>
-                    <a asp-controller="Home" asp-action="Index"><img src="~/img/home-navbar.png" alt="">Home</a>
+                    <a asp-controller="Home" asp-action="Index"><img src="~/img/home-navbar.png" alt="Ícone da home-page">Home</a>
                 </li>
                 <li>
-                    <a asp-controller="Voluntarios" asp-action="Create"><img src="~/img/cadastro-voluntário-navbar.png" alt="">Cadastrar Voluntário</a>
+                    <a asp-controller="Voluntarios" asp-action="Create"><img src="~/img/cadastro-voluntário-navbar.png" alt="Ícone de cadastro de voluntário">Cadastrar Voluntário</a>
                 </li>
                 <li>
-                    <a asp-controller="Voluntarios" asp-action="Index"><img src="~/img/listas-navbar.png" alt="">Lista de Voluntários</a>
+                    <a asp-controller="Voluntarios" asp-action="Index"><img src="~/img/listas-navbar.png" alt="Ícone da lista de voluntários">Lista de Voluntários</a>
                 </li>
                 <li>
-                    <a asp-controller="Doadores" asp-action="Create"><img src="~/img/cadastro-doador-navbar.png" alt="">Cadastrar Doadores</a>
+                    <a asp-controller="Doadores" asp-action="Create"><img src="~/img/cadastro-doador-navbar.png" alt="Ícone do cadastro de doador">Cadastrar Doadores</a>
                 </li>
                 <li>
-                    <a asp-controller="Doadores" asp-action="Index"><img src="~/img/listas-navbar.png" alt="">Lista de Doadores</a>
+                    <a asp-controller="Doadores" asp-action="Index"><img src="~/img/listas-navbar.png" alt="Ícone da lista de doadores">Lista de Doadores</a>
                 </li>
                 <li>
-                    <a asp-controller="" asp-action=""><img src="~/img/suporte-navbar.png" alt="">Suporte</a>
+                    <a asp-controller="" asp-action=""><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Suporte</a>
                 </li>
                 <li>
                     <button class="navbar__btn-sair">
-                        <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="">Sair
+                        <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
                     </button>
                 </li>
             </ul>
         </nav>
     </dialog>
-    <div class="container">
-        <main role="main" class="pb-3">
+
+        <main role="main">
             @RenderBody()
         </main>
-    </div>
 
     <footer class="rodape">
         <div>
@@ -81,11 +82,10 @@
                 <strong>Desenvolvido pela Equipe 6</strong><br />
                 Análise e Desenvolvimento de Sistemas - Eixo 2 | PUC Minas
             </p>
-            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="">
+            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="Logo da PUC Minas">
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

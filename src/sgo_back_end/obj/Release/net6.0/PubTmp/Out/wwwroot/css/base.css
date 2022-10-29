@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+
+html {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+:root {
+    --rosa: #F23053;
+    --azulEscuro: #000326;
+    --rosa-hover: #95182E;
+    --azulEscuro-hover: #A2D3DE;
+    --bg-header: #F9F9F9;
+    --input-texto: #292929;
+    --input-placeholder: #A3A3A3;
+    --input-borda: #DBDBDB;
+    --input-borda-focus: #000326;
+}

@@ -1,0 +1,110 @@
+﻿namespace SGO___Sistema_de_Gestão_de_ONGs.wwwroot.css {
+}
+
+.cadastro-doador__titulo {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--azulEscuro);
+    padding: 60px 0 45px 0;
+}
+
+.formulario-doador {
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+    margin: 0 auto
+}
+
+    .formulario-doador label {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--azulEscuro);
+        padding-bottom: 8px;
+    }
+
+.doador__input-padrao {
+    margin: 0 0 20px;
+    height: 38px;
+    padding-left: 20px;
+    border-radius: 6px;
+    border: solid 1px var(--input-borda);
+}
+
+.doador__preenchimento-obrigatorio {
+    font-size: 12px;
+    font-weight: 500;
+    align-self: flex-start;
+}
+
+.doador__cadastrar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--rosa);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    color: #FFFFFF;
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 15px 0
+}
+
+    .doador__cadastrar img {
+        padding-right: 13px;
+    }
+
+.doador__botões-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.doador__voltar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 15px 0;
+    box-sizing: border-box;
+}
+
+.detalhes-doador {
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    margin: 0 auto
+}
+
+    .detalhes-doador dl dt {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--azulEscuro);
+        padding-bottom: 7px;
+    }
+
+    .detalhes-doador dl dd {
+        align-self: flex-start;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--azulEscuro);
+        padding-bottom: 30px;
+    }

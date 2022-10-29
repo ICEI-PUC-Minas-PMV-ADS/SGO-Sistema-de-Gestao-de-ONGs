@@ -9,20 +9,21 @@
 <form asp-action="Create" class="formulario-doador">
     <div asp-validation-summary="ModelOnly"></div>
     <label asp-for="Nome">Nome*</label>
-    <input asp-for="Nome" type="text" class="voluntario__input-padrao" required>
-    <span asp-validation-for="Nome" class="text-danger"></span>
+    <input asp-for="Nome" type="text" class="doador__input-padrao" required>
+    <span asp-validation-for="Nome" class="texto-validacao"></span>
 
-    <label asp-for="Email" for="email">E-mail</label>
-    <input asp-for="Email" type="email" class="voluntario__input-padrao" placeholder="exemplo@gmail.com">
-    <span asp-validation-for="Email" class="text-danger"></span>
+    <label asp-for="Email" for="email">E-mail*</label>
+    <input asp-for="Email" type="email" class="doador__input-padrao" required placeholder="exemplo@gmail.com">
+    <span asp-validation-for="Email" class="texto-validacao"></span>
 
     <label asp-for="Telefone" for="telefone">Telefone *</label>
-    <input asp-for="Telefone" type="tel" class="voluntario__input-padrao" required placeholder="(99) 99999-9999">
+    <input asp-for="Telefone" type="tel" class="doador__input-padrao" required placeholder="(99) 99999-9999">
+    <span asp-validation-for="Telefone" class="texto-validacao"></span>
 
     <h2 class="doador__preenchimento-obrigatorio">* Campos de preenchimento obrigatório</h2>
 
     <button type="submit" class="doador__cadastrar botão-rosa_hover">
-        <img src="~/img/botão-cadastrar.png" />
+        <img src="~/img/botão-cadastrar.png" alt="Ícone de cadastrar" />
         Cadastrar
     </button>
 </form>

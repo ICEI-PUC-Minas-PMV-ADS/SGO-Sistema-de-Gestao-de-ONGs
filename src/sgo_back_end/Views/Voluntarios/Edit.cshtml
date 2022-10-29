@@ -11,21 +11,22 @@
     <input type="hidden" asp-for="Id" />
     <label asp-for="Nome">Nome*</label>
     <input asp-for="Nome" type="text" class="voluntario__input-padrao" required>
-    <span asp-validation-for="Nome"></span>
+    <span asp-validation-for="Nome" class="texto-validacao"></span>
 
-    <label asp-for="Email">E-mail</label>
-    <input asp-for="Email" type="email" class="voluntario__input-padrao" placeholder="exemplo@gmail.com">
+    <label asp-for="Email">E-mail*</label>
+    <input asp-for="Email" type="email" class="voluntario__input-padrao" required placeholder="exemplo@gmail.com">
+    <span asp-validation-for="Email" class="texto-validacao"></span>
 
     <label asp-for="Telefone" for="telefone">Telefone *</label>
     <input asp-for="Telefone" type="tel" class="voluntario__input-padrao" required placeholder="(99) 99999-9999">
-    <span asp-validation-for="Telefone"></span>
+    <span asp-validation-for="Telefone" class="texto-validacao"></span>
 
     <div class="voluntario__seletores-div">
         <fieldset class="voluntario__seletores">
             <legend asp-for="Funcao">Função *</legend>
             <select asp-for="Funcao" asp-items="Html.GetEnumSelectList<tipoFuncao>()" required class="voluntario__seletor">
             </select>
-            <span asp-validation-for="Funcao"></span>
+            <span asp-validation-for="Funcao" class="texto-validacao"></span>
         </fieldset>
 
 
@@ -33,7 +34,7 @@
             <legend asp-for="Disponivel">Disponível esse mês *</legend>
             <select asp-for="Disponivel" asp-items="Html.GetEnumSelectList<estaDisponivel>()" required class="voluntario__seletor">
             </select>
-            <span asp-validation-for="Disponivel"></span>
+            <span asp-validation-for="Disponivel" class="texto-validacao"></span>
         </fieldset>
     </div>
 
@@ -44,7 +45,7 @@
             Voltar
         </a>
         <button type="submit" class="voluntario__cadastrar botão-rosa_hover">
-            <img src="~/img/botão-salvar.png"/>
+            <img src="~/img/botão-salvar.png" alt="Ícone de salvar" />
             Salvar
         </button>
     </div>

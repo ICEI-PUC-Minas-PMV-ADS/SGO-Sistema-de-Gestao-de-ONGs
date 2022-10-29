@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtvie5BRaTEOEs43ax5kWJwAAAAACAAAAAAAQZgAAAAEAACAAAADOGVEDT1mZc+gzIFyP2SnyASHknIhvGjYiSH6YP/8NFQAAAAAOgAAAAAIAACAAAABaFJVf4Mxkqz8BRDZCLLfsvKtaoPtafHhq46ezk2dtr4AAAAAP0lNJpBd8mqTa94HftunwxAm4iGOteyBhgq4LB8LRdw1Ic+4hOCTZ/JM2qfZ02f3Qu9iE2WT2/VWbElOl0IFRKO6YIJaU1N8hlFvW76uC9oyjUkBOaVsbyxdicTx4l53xauUvv33deMs3OkJbYM1TALrcqCnj2zB+me9feLWPVkAAAACPmXK27ARI865y02JS0aWtjoxb54mQMNjieZVSUGJxeMe1G6vdXvBQD3vcE6xNltmco+eSAUZWiIn06tklC0l3</EncryptedPassword>
+    <History>True|2022-10-29T02:08:11.8929531Z;True|2022-10-28T22:45:51.5264052-03:00;True|2022-10-28T22:18:06.6357162-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="sgo_back_end.Models.ApplicationDbContext">
+      <Value>Data Source=tcp:sgo-server.database.windows.net,1433%3bInitial Catalog=SGO_Sistema_de_Gestao_ONGs_db%3bUser Id=SGOServer%40sgo-server%3bPassword=projetoSGO2022</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
