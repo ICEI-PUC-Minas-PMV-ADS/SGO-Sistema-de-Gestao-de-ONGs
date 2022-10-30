@@ -12,10 +12,9 @@ Este projeto é direcionado aos gestores da ONG Domingo Solidário que necessita
 
 ## Integrantes
 
-* Alana Maria Vasconcelos Dantas
+
 * Isabela Oliveira de Castro Silva
 * João Paulo Jorges da Silva
-* Lion Simon Gondim Tavarez
 * Mariano Teixeira Barbosa Contin
 * Thiago Terra da Silva
 
