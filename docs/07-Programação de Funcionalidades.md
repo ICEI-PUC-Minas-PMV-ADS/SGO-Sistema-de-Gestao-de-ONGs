@@ -1,5 +1,6 @@
 # Programação de Funcionalidades
 
+Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma das funcionalidades do sistema.
 
 # Home
 ![Home](img/funcionalidades/print-home.png)
@@ -56,7 +57,7 @@
 
 - Você será redirecionado para a Home.
 
-# Cadastro de Voluntários
+# Cadastro de Voluntário
 
 ![Cadastro de voluntários](img/funcionalidades/print-cadastro-voluntario.png)
 
@@ -265,7 +266,7 @@
 - Para acessar a tela de exclusão de cadastro, basta acessar a lista de voluntários e clicar em “Deletar”. 
 
 
-## Cadastro de Doadores
+## Cadastro de Doador
 
 ![Cadastro de doadores](img/funcionalidades/print-cadastro-doador.png)
 
