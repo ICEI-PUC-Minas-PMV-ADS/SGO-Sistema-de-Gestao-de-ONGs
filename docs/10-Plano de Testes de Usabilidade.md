@@ -11,10 +11,9 @@ Os testes serão realizados de forma online. Os voluntários serão orientados a
 |CASO DE TESTE| CT-01 – Prevenir erros |
 | :--------------------: | :------------------------------------ |
 | Requisitos Associados | RNF-04 - A interface deve ser agradável, intuitiva e de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados.  |
-| Objetivo do Teste | Verificar a existência de caixas de confirmação de ação.  |
-| Passos | Ao clicar em "Excluir” apresentar ao usuário uma mensagem para validar a remoção. |
-| Critérios de Êxito | "Você tem certeza que deseja excluir o cadastro?" com as opções de escolha: “Sim” ou “Não”.  |
-
+| Objetivo do Teste | Verificar a existência de mensagens de confirmação de ação.  |
+| Passos | Apresentar ao usuário uma mensagem para validar a remoção.  |
+| Critérios de Êxito |"Você tem certeza que deseja excluir o cadastro?" com as opções de escolha: “Deletar” ou “Voltar”. |
 |CASO DE TESTE| CT-02 – Fornecer feedbacks informativos e marcar o final dos diálogos |
 | :--------------------: | :------------------------------------ |
 | Requisitos Associados | RNF-06 - O sistema deverá retornar ao usuário mensagem ao término de uma tarefa.  |
