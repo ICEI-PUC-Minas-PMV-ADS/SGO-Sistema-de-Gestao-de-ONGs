@@ -42,14 +42,14 @@ Essa tela permite ao gestor a realização da edição do cadastro de um volunt�
 ![Editar Cadastro de Voluntários](img/templates/template-editar-voluntario.png)
 
 
--Detalhes no Cadastro de Voluntário
+- Detalhes no Cadastro de Voluntário
 
 Essa tela permite ao gestor visualizar todas as informações de cadastro do respectivo voluntário. Além disso, a tela possui os botões de “Editar” e “Voltar”. 
 
 ![Detalhes no Cadastro de Voluntários](img/templates/template-detalhes-voluntario.png)
 
 
--Excluir Cadastro do Voluntário
+- Excluir Cadastro do Voluntário
 
 Essa tela permite que o gestor realize a exclusão de um voluntário da base de dados do sistema. Para isso, ele deverá preencher os campos e clicar em excluir.  Caso queira desistir, basta clicar em “voltar”. 
 
