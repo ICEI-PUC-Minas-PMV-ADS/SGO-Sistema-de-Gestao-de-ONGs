@@ -1,9 +1,18 @@
 # Registro de Testes de Usabilidade
 
-Os testes de usabilidade têm como finalidade avaliar a qualidade da interface, identificar problemas e possíveis melhorias na aplicação, verificando suas funcionalidades através da experiência do usuário. 
 
-O objetivo, portanto, é verificar se o usuário enfrenta dificuldades no fluxo de navegação entre as telas, se há clareza nos textos e nas mensagens e, por fim, apontar a satisfação do usuário ao utilizar o sistema.  
+|Caso de teste | Requisitos Associados | Resultado esperado | Resultado obtido |
+| ------------ | --------------------- | ------------------ | ---------------- |
+|CT-01 - Prevenir Erros | RNF-04 | Apresentar ao usuário uma mensagem para validar a remoção. | Positivo. O sistema mostra a mensagem de confirmação na tela. |
+|CT-03 – Usuário reconhecer, diagnosticar e recuperar seus erros | RNF-03 | Informar ao usuário os campos obrigatórios, apresentar aviso de formulários. | Positivo. O sistema apresenta os símbolos de preenchimento obrigatório nos campos. |
+|CT-04 – Reconhecer, em vez de recordar | RNF-08 | Prover interação por meio da imagem que significa o item que pretende representar. | Positivo. O sistema apresenta imagens como ícone de lápis para a funcionalidade de edição. |
+|CT-05 – Acessibilidade | RNF-09 | Conferir se em todas as imagens, foi atribuído um texto alternativo, para que se por algum motivo a imagem não for carregada ou o usuário esteja utilizando leitor de tela ele consiga entender do que se trata. | Positivo. O sistema apresenta as imagens de texto alternativo. |
 
-Serão selecionados 5 participantes, sendo eles voluntários que se encaixam no perfil de persona apresentados neste documento.
 
-Os testes serão realizados de forma online. Os voluntários serão orientados a acessar a aplicação em um computador ou dispositivo móvel e executar as tarefas descritas a seguir e darão um feedback sobre as dificuldades encontradas e sua satisfação com o produto.
+
+
+
+
+
+
+

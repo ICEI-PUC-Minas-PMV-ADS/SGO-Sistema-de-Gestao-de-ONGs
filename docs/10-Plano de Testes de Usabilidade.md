@@ -14,6 +14,7 @@ Os testes serão realizados de forma online. Os voluntários serão orientados a
 | Objetivo do Teste | Verificar a existência de mensagens de confirmação de ação.  |
 | Passos | Apresentar ao usuário uma mensagem para validar a remoção.  |
 | Critérios de Êxito |"Você tem certeza que deseja excluir o cadastro?" com as opções de escolha: “Deletar” ou “Voltar”. |
+
 |CASO DE TESTE| CT-02 – Fornecer feedbacks informativos e marcar o final dos diálogos |
 | :--------------------: | :------------------------------------ |
 | Requisitos Associados | RNF-06 - O sistema deverá retornar ao usuário mensagem ao término de uma tarefa.  |
