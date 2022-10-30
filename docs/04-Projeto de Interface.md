@@ -103,7 +103,7 @@ A tela da Lista de Doadores contém, no bloco de Conteúdo, uma tabela com cada 
 
 Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
-![Lista de Doadores](img/wireframes/listagem-de-doador.png)
+![Lista de Doadores](img/wireframes/wireframe-listagem-de-doadores.png)
 
 
 - Editar Cadastro do Doador:
@@ -124,7 +124,7 @@ Ao clicar em “detalhes”, na  lista de doadores, o gestor será redirecionado
 
 Ao acionar a opção “excluir” na listagem de doadores, o gestor será redirecionado para a tela de exclusão de cadastro,  que contém todas as informações do doador cadastrado, bem como as opções de “excluir” e “voltar”. 
 
-![Excluir Cadastro de Doadores](img/funcionalidades-excluirCadDoador.png)
+![Excluir Cadastro de Doadores](img/wireframes/wireframe-excluir-doador.png)
 
 - Suporte
 

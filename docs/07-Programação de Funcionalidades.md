@@ -2,8 +2,8 @@
 
 
 # Home
-![Home](img/funcionalidades-home.png)
-![Home](img/funcionalidades-homeNavbar.png)
+![Home](img/funcionalidades/print-home.png)
+![Home](img/funcionalidades/print-navbar.png)
 
 ## Requisitos Atendidos: 
 
@@ -58,7 +58,7 @@
 
 # Cadastro de Voluntários
 
-![Cadastro de voluntários](img/funcionalidades-cadVoluntario.png)
+![Cadastro de voluntários](img/funcionalidades/print-cadastro-voluntario.png)
 
 ## Requisitos Atendidos:
 
@@ -100,7 +100,7 @@
 # Lista de Voluntários
 
 
-![Lista de voluntários](img/funcionalidades-listagemVoluntario.png)
+![Lista de voluntários](img/funcionalidades/print-lista-voluntario.png)
 
 ## Requisitos Atendidos:
 
@@ -144,7 +144,7 @@
 # Edição de Cadastro de Voluntários
 
 
-![Edição de cadastro de voluntários](img/funcionalidades-editarCadVoluntario.png)
+![Edição de cadastro de voluntários](img/funcionalidades/print-editar-voluntario.png)
 
 ## Requisitos Atendidos:
 
@@ -187,7 +187,7 @@
 
 # Detalhes no Cadastro de Voluntários
 
-![Detalhes no cadastro de voluntários](img/funcionalidades-detalhesCadVoluntario.png)
+![Detalhes no cadastro de voluntários](img/funcionalidades/print-detalhes-voluntario.png)
 
 ## Requisitos Atendidos:
 
@@ -227,7 +227,7 @@
 # Excluir Cadastro de Voluntários
 
 
-![Excluir cadastro de voluntários](img/funcionalidades-excluirCadVoluntario.png)
+![Excluir cadastro de voluntários](img/funcionalidades/print-excluir-voluntario.png)
 
 ## Requisitos Atendidos:
 
@@ -267,7 +267,7 @@
 
 ## Cadastro de Doadores
 
-![Cadastro de doadores](img/funcionalidades-cadDoador.png)
+![Cadastro de doadores](img/funcionalidades/print-cadastro-doador.png)
 
 ## Requisitos Atendidos:
 
@@ -310,7 +310,7 @@
 ## Lista de Doadores
 
 
-![Lista de doadores](img/funcionalidades-listagemDoador.png)
+![Lista de doadores](img/funcionalidades/print-lista-doador.png)
 
 ## Requisitos Atendidos:
 
@@ -356,7 +356,7 @@
 ## Edição de cadastro de doador
 
 
-![Edição no cadastro de doador](img/funcionalidades-editarCadDoador.png)
+![Edição no cadastro de doador](img/funcionalidades/print-editar-doador.png)
 
 ## Requisitos Atendidos:
 - RF-10: O sistema deve permitir ao gestor alterar os dados cadastrais do doador. 
@@ -396,7 +396,7 @@
 
 ## Detalhes no Cadastro do Doador
 
-![Detalhes no cadastro de doador](img/funcionalidades-detalhesCadDoador.png)
+![Detalhes no cadastro de doador](img/funcionalidades/print-detalhes-doador.png)
 
 ## Requisitos Atendidos:
 
@@ -435,7 +435,7 @@
 
 ## Excluir cadastro de doador
 
-![Excluir cadastro de doador](img/funcionalidades-detalhesCadDoador.png)
+![Excluir cadastro de doador](img/funcionalidades/print-excluir-doador.png)
 
 ## Requisitos Atendidos:
 
