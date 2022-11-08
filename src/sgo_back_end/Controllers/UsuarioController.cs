@@ -19,6 +19,12 @@ namespace SGO_Sistema_de_Gestao_ONGs.Controllers
             _context = context;
         }
 
+        //
+        public  IActionResult Login()
+        {
+            return View();
+        }
+
         // GET: Usuario
         public async Task<IActionResult> Index()
         {
