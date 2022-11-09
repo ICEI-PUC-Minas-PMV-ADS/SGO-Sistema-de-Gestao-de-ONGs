@@ -35,6 +35,18 @@
         <button class="cabecalho__btn-sair">
             <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="Ícone de deslogar">Sair
         </button>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <li>
+                Olá, @User.Identity.Name <a asp-controller="Usuarios" asp-action="Logout"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Sair</a>
+            </li>
+        }
+        else
+        {
+            <li>
+                <a asp-controller="Usuarios" asp-action="Login"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Login</a>
+            </li>
+        }        
     </header>
     <dialog id="navbar-modal">
         <nav class="navbar">
@@ -65,16 +77,12 @@
                 </li>
                 <li>
                     <a asp-controller="Usuarios" asp-action="Index"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Usuarios</a>
-                </li>
-                <li>
-                    <a asp-controller="Usuarios" asp-action="Login"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Login</a>
-                </li>
-
+                </li>                
                 <li>
                     <button class="navbar__btn-sair">
                         <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
                     </button>
-                </li>
+                </li>               
             </ul>
         </nav>
     </dialog>
@@ -89,7 +97,7 @@
                 <strong>Desenvolvido pela Equipe 6</strong><br />
                 Análise e Desenvolvimento de Sistemas - Eixo 2 | PUC Minas
             </p>
-            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="Logo da PUC Minas">
+            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="Logo da PUC Minas">           
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

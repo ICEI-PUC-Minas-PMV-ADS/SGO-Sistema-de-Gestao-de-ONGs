@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using sgo_back_end.Models;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
@@ -11,6 +12,21 @@ builder.Services.AddDbContext<ApplicationDbContext>
     (options => options.UseSqlServer
     //("Server = tcp:domingosolidario.database.windows.net, 1433; Initial Catalog = coreDb; Persist Security Info=False; User ID = gestorsgo; Password = sgologin,1; MultipleActiveResultSets = False; Encrypt = True; TrustServerCertificate = False; Connection Timeout = 30"));
     ("Server=(localdb)\\mssqllocaldb;Database=SGO_backend;Trusted_Connection=True;MultipleActiveResultSets=true"));
+
+builder.Services.Configure<CookiePolicyOptions>(options =>
+{
+    options.CheckConsentNeeded = Context => true;
+    options.MinimumSameSitePolicy = SameSiteMode.None;
+});
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.AccessDeniedPath = "/Account/AccessDenied/";
+        options.LoginPath = "/Usuarios/Login/";
+    });
+
+
 
 var app = builder.Build();
 
@@ -26,6 +42,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseCookiePolicy();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
