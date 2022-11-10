@@ -1,0 +1,94 @@
+﻿namespace SGO_Sistema_de_Gestao_ONGs.wwwroot.css
+{
+}
+
+.login_bg {
+    background: url("/img/imagem-login.png") center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start
+}
+
+.logo_dom-solidario{
+    margin: 60px 60px
+}
+
+.login__container {
+    background: #F5F5F5;
+    width: 530px;
+    height: 100vh;
+    display: flex;
+    justify-content: center
+}
+
+.login__formulario {
+    padding: 40px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login__input {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    padding-top: 22px;
+}
+
+.login__input label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+
+.login__input label img {
+    padding-right: 12px
+}
+
+.login__input-padrao {
+    height: 38px;
+    padding-left: 20px;
+    border-radius: 6px;
+    background: #F5F5F5;
+    border: solid 1px var(--input-borda);
+}
+
+.login__acessar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--rosa);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 35px auto
+}
+
+.login__acessar img {
+    padding-right: 12px;
+}
+
+.login_suporte {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--azulEscuro);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.login_suporte img {
+    padding-right: 12px;
+}

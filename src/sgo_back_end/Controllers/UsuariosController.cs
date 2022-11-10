@@ -13,7 +13,7 @@ using sgo_back_end.Models;
 
 namespace SGO_Sistema_de_Gestao_ONGs.Controllers
 {
-    [Authorize]
+    // [Authorize]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -66,7 +66,7 @@ namespace SGO_Sistema_de_Gestao_ONGs.Controllers
 
                 await HttpContext.SignInAsync(principal, props);
 
-                return Redirect("/");
+                return RedirectToAction("Index", "Home");
                 
             }
 

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\sgo_back_end",
+    "\\src\\sgo_back_end\\Views",
+    "\\src\\sgo_back_end\\Views\\Usuarios"
   ],
-  "SelectedNode": "\\SGO_Sistema_de_Gestao_ONGs.sln",
+  "SelectedNode": "\\src\\sgo_back_end\\Views\\Usuarios\\Login.cshtml",
   "PreviewInSolutionExplorer": false
 }
