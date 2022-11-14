@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5K1H0PGsVfAStBWKlO8GK19cCOXPAjRY4sEu7rGqMfA=",
+  "Hash": "aIVNVChGW4zSNS0LiTJHB+CV1BTaGd8YneRoo9Ygfzs=",
   "Source": "SGO_Sistema_de_Gestao_ONGs",
   "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\rodape.css"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repositório Foda\\src\\sgo_back_end\\wwwroot\\css\\suporte.css",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repositório Foda\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "css/suporte.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\suporte.css"
     },
     {
       "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repositório Foda\\src\\sgo_back_end\\wwwroot\\css\\validacoes.css",
@@ -1885,6 +1902,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Faculdade\\2° Semestre\\Projeto\\Repositório Foda\\src\\sgo_back_end\\wwwroot\\suporte.html",
+      "SourceId": "SGO_Sistema_de_Gestao_ONGs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Faculdade\\2° Semestre\\Projeto\\Repositório Foda\\src\\sgo_back_end\\wwwroot\\",
+      "BasePath": "_content/SGO_Sistema_de_Gestao_ONGs",
+      "RelativePath": "suporte.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\suporte.html"
     }
   ]
 }

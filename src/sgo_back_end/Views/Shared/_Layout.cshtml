@@ -32,13 +32,9 @@
                 <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="Logo do sistema SGO">
             </a>
         </div>
-        @if (User.Identity.IsAuthenticated)
-        {
-            <p>Olá, @User.Identity.Name</p>
-            <button asp-controller="Usuarios" asp-action="Logout" class="cabecalho__btn-sair">
+            <a asp-controller="Usuarios" asp-action="Logout" class="cabecalho__btn-sair">
                 <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="Ícone de deslogar">Sair
-            </button>
-        }       
+            </a>     
     </header>
     <dialog id="navbar-modal">
         <nav class="navbar">
@@ -65,14 +61,12 @@
                     <a asp-controller="Doadores" asp-action="Index"><img src="~/img/listas-navbar.png" alt="Ícone da lista de doadores">Lista de Doadores</a>
                 </li>
                 <li>
-                    <a asp-controller="" asp-action=""><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Suporte</a>
-                </li>           
-                <li>
-                    <button class="navbar__btn-sair">
-                        <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
-                    </button>
-                </li>               
+                    <a href="/suporte.html" target="_blank"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Suporte</a>
+                </li>
             </ul>
+                <a asp-controller="Usuarios" asp-action="Logout" class="navbar__btn-sair">
+                    <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
+                </a>
         </nav>
     </dialog>
 

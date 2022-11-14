@@ -2,37 +2,35 @@
 
 @{
     Layout = "_LayoutLogin";
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Cadastrar";
 }
 
-<h1>Create</h1>
+<form asp-action="Create">
 
-<h4>Usuario</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Nome" class="control-label"></label>
-                <input asp-for="Nome" class="form-control" />
-                <span asp-validation-for="Nome" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Senha" class="control-label"></label>
-                <input asp-for="Senha" class="form-control" />
-                <span asp-validation-for="Senha" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+    <h1 class="login_titulo">Criar conta</h1>
+
+    <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
+    <div class="login__input">
+        <label asp-for="Nome"><img src="/img/email-login.png" />E-mail</label>
+        <input asp-for="Nome" type="email" class="login__input-padrao" required />
+        <span asp-validation-for="Nome" class="texto-validacao"></span>
     </div>
-</div>
+    <div class="login__input">
+        <label asp-for="Senha"><img src="/img/senha-login.png" />Senha</label>
+        <input asp-for="Senha" type="password" class="login__input-padrao" required />
+        <span asp-validation-for="Senha" class="texto-validacao"></span>
+    </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+    <div class="usuario_botoes">
+        <a asp-action="Login" class="usuario__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <button type="submit" class="usuario__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-cadastrar.png" alt="Ícone de excluir" />
+            Criar
+        </button>
+    </div>
+</form>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

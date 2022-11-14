@@ -14,8 +14,17 @@
     <link rel="stylesheet" href="~/css/login.css"/>
 </head>
 <body>
-        <main role="main">
-            @RenderBody()
+        <main>
+            <section class="login_bg">
+                <img src="/img/logo-login-domSolidário.png" class="logo_dom-solidario" />
+                <div class="login__container">
+                    <div class="login__formulario">
+                        <img src="/img/logo-sgo.png" />
+                        @RenderBody()
+                        <a href="/suporte.html" target="_blank" class="login_suporte"><img src="/img/suporte-login.png" />Suporte</a>
+                    </div>
+                </div>
+            </section>
         </main>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

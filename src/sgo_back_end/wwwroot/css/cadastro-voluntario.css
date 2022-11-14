@@ -31,7 +31,12 @@
     padding-left: 20px;
     border-radius: 6px;
     border: solid 1px var(--input-borda);
+    transition: 0.2s ease-in;
 }
+
+    .voluntario__input-padrao:hover {
+        border-color: var(--input-hover)
+    }
 
 .voluntario__seletores-div {
     display: flex;
@@ -51,7 +56,12 @@
     border-radius: 6px;
     border: solid 1px var(--input-borda);
     width: 230px;
+    transition: 0.2s ease-in;
 }
+
+    .voluntario__seletor:hover {
+        border-color: var(--input-hover)
+    }
 
 .voluntario__preenchimento-obrigatorio {
     font-size: 12px;

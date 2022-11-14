@@ -38,6 +38,7 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Telefone")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -75,6 +76,7 @@ namespace sgo_back_end.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<int>("Disponivel")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -82,6 +84,7 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Funcao")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
@@ -89,6 +92,7 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Telefone")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.HasKey("Id");

@@ -5,40 +5,31 @@
     ViewData["Title"] = "Login";
 }
 
-<section class="login_bg">
-    <img src="/img/logo-login-domSolidário.png" class="logo_dom-solidario"/>
-    <div class="login__container">
-        <div class="login__formulario">
-            <img src="/img/logo-sgo.png" />
-            <form asp-action="Login">
-                <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
-                <div class="login__input">
-                    <label asp-for="Nome"><img src="/img/email-login.png"/>E-mail</label>
-                    <input asp-for="Nome" class="login__input-padrao" />
-                    <span asp-validation-for="Nome" class="texto-validacao"></span>
-                </div>
-                <div class="login__input">
-                    <label asp-for="Senha"><img src="/img/senha-login.png"/>Senha</label>
-                    <input asp-for="Senha" type="password" class="login__input-padrao" />
-                    <span asp-validation-for="Senha" class="texto-validacao"></span>
-                </div>
+    <form asp-action="Login">
 
-                <h3> @ViewBag.Message </h3>
+    <h1 class="login_titulo">Login</h1>
 
-                <button type ="submit" class="login__acessar">
-                    <img src="/img/acessar-login.png" />
-                    Acessar
-                </button>
-
-                <a asp-action="Create">Cadastrar</a>
-            </form>
-
-            <a class="login_suporte"><img src="/img/suporte-login.png"/>Suporte</a>
+        <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
+        <div class="login__input">
+            <label asp-for="Nome"><img src="/img/email-login.png"/>E-mail</label>
+            <input asp-for="Nome" type="email" class="login__input-padrao" required />
+            <span asp-validation-for="Nome" class="texto-validacao"></span>
         </div>
-    </div>
-</section>
+        <div class="login__input">
+            <label asp-for="Senha"><img src="/img/senha-login.png"/>Senha</label>
+        <input asp-for="Senha" type="password" class="login__input-padrao" required />
+            <span asp-validation-for="Senha" class="texto-validacao"></span>
+        </div>
 
+    <p class="texto-validacao"> @ViewBag.Message </p>
 
+        <p class="login_cadastrar">Quero me <a asp-action="Create">Cadastrar</a></p>
+
+        <button type ="submit" class="login__acessar">
+            <img src="/img/acessar-login.png" />
+            Acessar
+        </button>
+    </form>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
