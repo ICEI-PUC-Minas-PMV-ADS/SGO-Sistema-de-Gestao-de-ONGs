@@ -18,7 +18,7 @@
     <span asp-validation-for="Email" class="texto-validacao"></span>
 
     <label asp-for="Telefone" for="telefone">Telefone *</label>
-    <input asp-for="Telefone" type="tel" class="voluntario__input-padrao" required placeholder="(99) 99999-9999">
+    <input asp-for="Telefone" type="text" id="tel" maxlength="15" pattern="\(\d{2}\)\s*\d{5}-\d{4}" class="voluntario__input-padrao" required placeholder="(99) 99999-9999">
     <span asp-validation-for="Telefone" class="texto-validacao"></span>
 
     <div class="voluntario__seletores-div">

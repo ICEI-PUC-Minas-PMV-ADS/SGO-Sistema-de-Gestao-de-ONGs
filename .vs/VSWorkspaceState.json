@@ -3,10 +3,11 @@
     "",
     "\\src",
     "\\src\\sgo_back_end",
+    "\\src\\sgo_back_end\\Controllers",
+    "\\src\\sgo_back_end\\Models",
     "\\src\\sgo_back_end\\Views",
-    "\\src\\sgo_back_end\\Views\\Doadores",
-    "\\src\\sgo_back_end\\Views\\Shared"
+    "\\src\\sgo_back_end\\Views\\Home"
   ],
-  "SelectedNode": "\\src\\sgo_back_end\\Views\\Doadores\\Create.cshtml",
+  "SelectedNode": "\\src\\sgo_back_end\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
