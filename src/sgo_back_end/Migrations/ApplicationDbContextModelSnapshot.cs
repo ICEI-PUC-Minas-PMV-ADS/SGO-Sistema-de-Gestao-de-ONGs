@@ -39,7 +39,7 @@ namespace sgo_back_end.Migrations
 
                     b.Property<int>("Telefone")
                         .IsRequired()
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
@@ -50,7 +50,7 @@ namespace sgo_back_end.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(max)");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
@@ -93,7 +93,7 @@ namespace sgo_back_end.Migrations
 
                     b.Property<int>("Telefone")
                         .IsRequired()
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

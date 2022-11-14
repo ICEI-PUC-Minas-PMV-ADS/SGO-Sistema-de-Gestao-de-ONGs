@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\sgo_back_end",
     "\\src\\sgo_back_end\\Views",
-    "\\src\\sgo_back_end\\Views\\Usuarios"
+    "\\src\\sgo_back_end\\Views\\Doadores",
+    "\\src\\sgo_back_end\\Views\\Shared"
   ],
-  "SelectedNode": "\\src\\sgo_back_end\\Views\\Usuarios\\Create.cshtml",
+  "SelectedNode": "\\src\\sgo_back_end\\Views\\Doadores\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }

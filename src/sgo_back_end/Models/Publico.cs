@@ -10,8 +10,8 @@ namespace sgo_back_end.Models
         public string Nome { get; set; }
 
         [Display(Name = "Telefone")]
-        [Required(ErrorMessage = "Obrigatório informar o telefone corretamente.")]
-        public int Telefone { get; set; }
+        [Required(ErrorMessage = "Obrigatório informar o número de telefone.")]
+        public string Telefone { get; set; }
 
         [Display(Name = "E-mail")]
         [Required(ErrorMessage = "Obrigatório informar o e-mail.")]

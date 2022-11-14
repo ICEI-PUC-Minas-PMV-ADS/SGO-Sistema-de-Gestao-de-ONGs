@@ -8,7 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\lib\NovaPasta\**" />
+    <Content Remove="wwwroot\lib\NovaPasta\**" />
+    <EmbeddedResource Remove="wwwroot\lib\NovaPasta\**" />
+    <None Remove="wwwroot\lib\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\Home\Privacy.cshtml" />
+    <Content Remove="wwwroot\js\jquery.mask.js" />
   </ItemGroup>
 
   <ItemGroup>
