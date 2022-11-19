@@ -3,11 +3,10 @@
     "",
     "\\src",
     "\\src\\sgo_back_end",
-    "\\src\\sgo_back_end\\Controllers",
-    "\\src\\sgo_back_end\\Models",
     "\\src\\sgo_back_end\\Views",
-    "\\src\\sgo_back_end\\Views\\Home"
+    "\\src\\sgo_back_end\\Views\\Home",
+    "\\src\\sgo_back_end\\Views\\Shared"
   ],
-  "SelectedNode": "\\src\\sgo_back_end\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\src\\SGO_Sistema_de_Gestao_ONGs.sln",
   "PreviewInSolutionExplorer": false
 }

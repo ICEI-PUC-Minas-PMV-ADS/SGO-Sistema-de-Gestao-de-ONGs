@@ -97,3 +97,14 @@
         background: var(--azulEscuro-hover);
     }
 
+
+@media (max-width: 480px) {
+    .menu {
+        padding: 0 30px;
+        flex-direction: column;
+    }
+
+    .menu-links{
+        flex-direction: column;
+    }
+}
