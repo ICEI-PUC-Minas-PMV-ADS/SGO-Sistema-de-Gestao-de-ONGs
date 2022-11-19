@@ -2,7 +2,22 @@
 const abrirNavbar = document.querySelector('.cabecalho__btn-abrir-navbar')
 const fecharNavbar = document.querySelector('.navbar__btn-fechar-navbar')
 
+$(document).ready(function () {
+    $('#filtro_pesquisa thead tr')
 
+    var table = $('#filtro_pesquisa').DataTable({
+        orderCellsTop: false,
+        fixedHeader: false,
+        paging: false,
+        select: false,
+        ordering: false,
+        info: false,
+        oLanguage: {
+            sSearch: "Pesquisar"
+        }
+    })
+
+});
 
 abrirNavbar.addEventListener('click', function () {
     navbar.showModal();

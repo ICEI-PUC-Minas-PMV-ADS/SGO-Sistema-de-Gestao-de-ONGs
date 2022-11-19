@@ -34,7 +34,7 @@
     color: var(--input-borda-focus);
 }
 
-.voluntario__tabela-header td {
+.voluntario__tabela-header th {
     padding: 20px;
     border-bottom: solid 1px var(--input-borda);
     font-size: 15px;
