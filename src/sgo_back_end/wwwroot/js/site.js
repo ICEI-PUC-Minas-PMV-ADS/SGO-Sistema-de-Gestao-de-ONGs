@@ -13,7 +13,7 @@ $(document).ready(function () {
         ordering: false,
         info: false,
         oLanguage: {
-            sSearch: "Pesquisar"
+            sSearch: "Pesquisar:   "
         }
     })
 
