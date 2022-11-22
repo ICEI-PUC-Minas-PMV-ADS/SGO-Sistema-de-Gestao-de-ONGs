@@ -37,6 +37,7 @@
     color: var(--azulEscuro);
     cursor: pointer;
     padding: 0;
+    text-decoration: none;
 }
 
     .cabecalho__btn-sair:hover {
@@ -47,4 +48,17 @@
 
 .cabecalho__btn-sair-icone {
     padding-right: 10px;
+}
+
+@media (max-width: 480px) {
+    .cabecalho {
+        padding: 10px 30px;
+    }
+    .cabecalho__btn-abrir-navbar{
+        height: 30px;
+    }
+
+    .cabecalho__logo-sgo {
+        height: 45px;
+    }
 }

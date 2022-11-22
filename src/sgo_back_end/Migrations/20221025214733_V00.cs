@@ -15,7 +15,7 @@ namespace sgo_back_end.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Telefone = table.Column<int>(type: "int", nullable: false),
+                    Telefone = table.Column<int>(type: "nvarchar(max)", nullable: false),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>

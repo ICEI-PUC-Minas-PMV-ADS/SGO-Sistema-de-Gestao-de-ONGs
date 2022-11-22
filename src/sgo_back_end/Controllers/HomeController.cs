@@ -1,21 +1,28 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using sgo_back_end.Models;
+using SGO_Sistema_de_Gestao_ONGs.Models;
 using System.Diagnostics;
 
 namespace sgo_back_end.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ApplicationDbContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            Dashboard dashboard = new Dashboard();
+
+            dashboard.voluntarios_count = _context.Voluntarios.Count();
+            dashboard.doadores_count = _context.Doadores.Count();
+            return View(dashboard);
         }
 
         public IActionResult Privacy()

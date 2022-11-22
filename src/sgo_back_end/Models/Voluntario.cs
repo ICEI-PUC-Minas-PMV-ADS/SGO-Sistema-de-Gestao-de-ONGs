@@ -11,9 +11,11 @@ namespace sgo_back_end.Models
 
 
         [Display(Name = "Função")]
+        [Required(ErrorMessage ="Obrigatório selecionar a função.")]
         public tipoFuncao Funcao { get; set; }
 
         [Display(Name = "Disponível esse Mês")]
+        [Required(ErrorMessage = "Obrigatório informar a disponilidade.")]
         public estaDisponivel Disponivel { get; set; }
 
     }

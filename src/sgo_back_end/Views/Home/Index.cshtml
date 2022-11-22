@@ -1,4 +1,6 @@
-﻿@{
+﻿@model SGO_Sistema_de_Gestao_ONGs.Models.Dashboard
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -11,14 +13,14 @@
                     <img src="/img/total-voluntários.png" alt="Ícone do total de voluntários" />
                     <div>
                         <p class="pessoas">Voluntários</p>
-                        <p class="total-pessoas">37</p>
+                        <p class="total-pessoas">@Html.DisplayFor(model => model.voluntarios_count)</p>
                     </div>
                 </div>
                 <div class="dashboard">
                     <img src="/img/total-doadores.png" alt="Ícone do total de doadores" />
                     <div>
                         <p class="pessoas">Doadores</p>
-                        <p class="total-pessoas">26</p>
+                        <p class="total-pessoas">@Html.DisplayFor(model => model.doadores_count)</p>
                     </div>
                 </div>
             </div>

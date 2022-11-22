@@ -7,52 +7,59 @@
 <h1 class="lista-doador__titulo">Listagem de Doadores</h1>
 
 <section class="lista-doador-container">
-    <table class="doador__tabela">
-        <tr class="doador__tabela-header">
-            <td>
-                @Html.DisplayNameFor(model => model.Nome)
-            </td>
-            <td>
-                @Html.DisplayNameFor(model => model.Telefone)
-            </td>
-            <td>
-                @Html.DisplayNameFor(model => model.Email)
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-@foreach (var item in Model) {
-        <tr class="doador-cadastradas">
-            <td class="item">
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td class="item">
-                @Html.DisplayFor(modelItem => item.Telefone)
-            </td>
-            <td class="item">
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id" class="doador__botao-editar">
-                    <img src="~/img/botão-editar.png" alt="Ícone de editar" />
-                    Editar
-                </a>
-            </td>
-            <td>
-                <a asp-action="Details" asp-route-id="@item.Id" class="doador__botao-editar">
-                    <img src="~/img/botão-detalhes-lista.png"  alt="Ícone de detalhes" />
-                    Detalhes
-                </a>
-            </td>
-            <td>
-                <a asp-action="Delete" asp-route-id="@item.Id" class="doador__botao-editar">
-                    <img src="~/img/botão-excluir-lista.png" alt="Ícone de deletar" />
-                    Deletar
-                </a>
-            </td>
+    <table class="doador__tabela" id="filtro_pesquisa">
+        <thead>
+            <tr class="doador__tabela-header">
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Telefone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
 
-        </tr>
-        }
+<tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="doador-cadastradas">
+                    <td class="item">
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td class="item">
+                        @Html.DisplayFor(modelItem => item.Telefone)
+                    </td>
+                    <td class="item">
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td class="item">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="doador__botao-editar">
+                            <img src="~/img/botão-editar.png" alt="Ícone de editar" />
+                            Editar
+                        </a>
+                    </td>
+                    <td class="item">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="doador__botao-editar">
+                            <img src="~/img/botão-detalhes-lista.png" alt="Ícone de detalhes" />
+                            Detalhes
+                        </a>
+                    </td>
+                    <td class="item">
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="doador__botao-editar">
+                            <img src="~/img/botão-excluir-lista.png" alt="Ícone de deletar" />
+                            Deletar
+                        </a>
+                    </td>
+
+                </tr>
+            }
+</tbody>
+
     </table>
 </section>

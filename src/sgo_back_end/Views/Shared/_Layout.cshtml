@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="~/css/lista-voluntarios.css" />
     <link rel="stylesheet" href="~/css/lista-doadores.css"/>
     <link rel="stylesheet" href="~/css/validacoes.css" />
-    
 
 </head>
 <body>
@@ -32,9 +31,9 @@
                 <img class="cabecalho__logo-sgo" src="~/img/logo-sgo.png" alt="Logo do sistema SGO">
             </a>
         </div>
-        <button class="cabecalho__btn-sair">
-            <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="Ícone de deslogar">Sair
-        </button>
+            <a asp-controller="Usuarios" asp-action="Logout" class="cabecalho__btn-sair">
+                <img class="cabecalho__btn-sair-icone" src="~/img/sair-header.png" alt="Ícone de deslogar">Sair
+            </a>     
     </header>
     <dialog id="navbar-modal">
         <nav class="navbar">
@@ -61,14 +60,12 @@
                     <a asp-controller="Doadores" asp-action="Index"><img src="~/img/listas-navbar.png" alt="Ícone da lista de doadores">Lista de Doadores</a>
                 </li>
                 <li>
-                    <a asp-controller="" asp-action=""><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Suporte</a>
-                </li>
-                <li>
-                    <button class="navbar__btn-sair">
-                        <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
-                    </button>
+                    <a href="/suporte.html" target="_blank"><img src="~/img/suporte-navbar.png" alt="Ícone do suporte">Suporte</a>
                 </li>
             </ul>
+                <a asp-controller="Usuarios" asp-action="Logout" class="navbar__btn-sair">
+                    <img class="navbar__btn-sair-icone" src="~/img/sair-navbar.png" alt="Ícone de deslogar">Sair
+                </a>
         </nav>
     </dialog>
 
@@ -82,11 +79,12 @@
                 <strong>Desenvolvido pela Equipe 6</strong><br />
                 Análise e Desenvolvimento de Sistemas - Eixo 2 | PUC Minas
             </p>
-            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="Logo da PUC Minas">
+            <img class="rodape__logo-puc" src="/img/logo-puc.png" alt="Logo da PUC Minas">           
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bm/dt-1.13.1/sp-2.1.0/datatables.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

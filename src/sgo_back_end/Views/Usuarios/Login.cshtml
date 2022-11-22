@@ -1,0 +1,36 @@
+﻿@model sgo_back_end.Models.Usuario
+
+@{
+    Layout = "_LayoutLogin";
+    ViewData["Title"] = "Login";
+}
+
+    <form asp-action="Login">
+
+    <h1 class="login_titulo">Login</h1>
+
+        <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
+        <div class="login__input">
+            <label asp-for="Nome"><img src="/img/email-login.png"/>E-mail</label>
+            <input asp-for="Nome" type="email" class="login__input-padrao" required />
+            <span asp-validation-for="Nome" class="texto-validacao"></span>
+        </div>
+        <div class="login__input">
+            <label asp-for="Senha"><img src="/img/senha-login.png"/>Senha</label>
+        <input asp-for="Senha" type="password" class="login__input-padrao" required />
+            <span asp-validation-for="Senha" class="texto-validacao"></span>
+        </div>
+
+    <p class="texto-validacao"> @ViewBag.Message </p>
+
+        <p class="login_cadastrar">Quero me <a asp-action="Create">Cadastrar</a></p>
+
+        <button type ="submit" class="login__acessar">
+            <img src="/img/acessar-login.png" />
+            Acessar
+        </button>
+    </form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

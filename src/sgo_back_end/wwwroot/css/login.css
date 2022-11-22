@@ -1,0 +1,196 @@
+﻿namespace SGO_Sistema_de_Gestao_ONGs.wwwroot.css
+{
+}
+
+.login_bg {
+    background: url("/img/imagem-login.png") center center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start
+}
+
+.logo_dom-solidario{
+    margin: 60px 60px
+}
+
+.login__container {
+    background: #F5F5F5;
+    width: 530px;
+    height: 100vh;
+    display: flex;
+    justify-content: center
+}
+
+.login__formulario {
+    padding: 40px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login_titulo {
+    font-size: 28px;
+    color: var(--rosa);
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: solid 2px var(--rosa)
+}
+
+.login__input {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    padding-top: 22px;
+}
+
+    .login__input label {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        font-weight: 700;
+        padding-bottom: 8px;
+    }
+
+.login__input label img {
+    padding-right: 12px
+}
+
+.login__input-padrao {
+    height: 38px;
+    padding-left: 20px;
+    border-radius: 6px;
+    background: #F5F5F5;
+    border: solid 1px var(--input-borda);
+    transition: 0.2s ease-in;
+}
+
+    .login__input-padrao:hover {
+        border-color: var(--input-hover)
+    }
+
+.login__acessar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--rosa);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 207px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 35px auto;
+    transition: 0.2s ease-in;
+}
+
+    .login__acessar:hover {
+        background: var(--rosa-hover);
+    }
+
+.login__acessar img {
+    padding-right: 12px;
+}
+
+.login_suporte {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--azulEscuro);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.login_suporte img {
+    padding-right: 12px;
+}
+
+    .login_suporte:hover {
+        transform: scale(1.06);
+        transition: all 0.5s;
+        opacity: 0.9
+    }
+
+.login_cadastrar {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--azulEscuro);
+    display:flex;
+    justify-content:center;
+    margin: 10px 0;
+}
+
+    .login_cadastrar a {
+        text-decoration: none;
+        padding-left: 4px;
+        font-weight: 700;
+        color: var(--rosa);
+        transition: 0.2s ease-in;
+    }
+
+    .login_cadastrar a:hover{
+        color: var(--rosa-hover);
+    }
+
+.usuario__voltar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: none;
+    border: solid 2px var(--azulEscuro);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--azulEscuro);
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 15px 0;
+    box-sizing: border-box;
+    transition: 0.2s ease-in;
+}
+
+.usuario__voltar:hover {
+    background: var(--azulEscuro-hover);
+}
+
+.usuario__cadastrar {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background: var(--rosa);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+    .usuario__cadastrar:hover {
+        background: var(--rosa-hover);
+    }
+
+    .usuario__cadastrar img {
+        padding-right: 12px;
+    }
+
+.usuario_botoes {
+    display:flex;
+    justify-content: space-between;
+    margin: 35px 0;
+}

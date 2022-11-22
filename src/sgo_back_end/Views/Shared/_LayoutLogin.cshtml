@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SGO</title>
+    <link rel="shortcut icon" href=/img/favicon.png />
+
+    <link rel="stylesheet" href="~/sgo_back_end.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/reset.css">
+    <link rel="stylesheet" href="~/css/base.css">
+    <link rel="stylesheet" href="~/css/validacoes.css"/>
+    <link rel="stylesheet" href="~/css/login.css"/>
+</head>
+<body>
+        <main>
+            <section class="login_bg">
+                <img src="/img/logo-login-domSolidário.png" class="logo_dom-solidario" />
+                <div class="login__container">
+                    <div class="login__formulario">
+                        <img src="/img/logo-sgo.png" />
+                        @RenderBody()
+                        <a href="/suporte.html" target="_blank" class="login_suporte"><img src="/img/suporte-login.png" />Suporte</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

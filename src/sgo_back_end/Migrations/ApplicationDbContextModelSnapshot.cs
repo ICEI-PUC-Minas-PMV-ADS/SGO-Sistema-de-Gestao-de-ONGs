@@ -38,11 +38,33 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Telefone")
-                        .HasColumnType("int");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.ToTable("Doadores");
+                });
+
+            modelBuilder.Entity("sgo_back_end.Models.Usuario", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("nvarchar(max)");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Senha")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Usuários");
                 });
 
             modelBuilder.Entity("sgo_back_end.Models.Voluntario", b =>
@@ -54,6 +76,7 @@ namespace sgo_back_end.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<int>("Disponivel")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -61,6 +84,7 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Funcao")
+                        .IsRequired()
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
@@ -68,7 +92,8 @@ namespace sgo_back_end.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Telefone")
-                        .HasColumnType("int");
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

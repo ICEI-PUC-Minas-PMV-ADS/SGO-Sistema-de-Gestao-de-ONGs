@@ -1,0 +1,37 @@
+﻿@model sgo_back_end.Models.Usuario
+
+@{
+    Layout = "_LayoutLogin";
+    ViewData["Title"] = "Cadastrar";
+}
+
+<form asp-action="Create">
+
+    <h1 class="login_titulo">Criar conta</h1>
+
+    <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
+    <div class="login__input">
+        <label asp-for="Nome"><img src="/img/email-login.png" />E-mail</label>
+        <input asp-for="Nome" type="email" class="login__input-padrao" required />
+        <span asp-validation-for="Nome" class="texto-validacao"></span>
+    </div>
+    <div class="login__input">
+        <label asp-for="Senha"><img src="/img/senha-login.png" />Senha</label>
+        <input asp-for="Senha" type="password" class="login__input-padrao" required />
+        <span asp-validation-for="Senha" class="texto-validacao"></span>
+    </div>
+
+    <div class="usuario_botoes">
+        <a asp-action="Login" class="usuario__voltar botão-azul_hover">
+            Voltar
+        </a>
+        <button type="submit" class="usuario__cadastrar botão-rosa_hover">
+            <img src="~/img/botão-cadastrar.png" alt="Ícone de excluir" />
+            Criar
+        </button>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

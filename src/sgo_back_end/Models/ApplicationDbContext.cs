@@ -9,5 +9,6 @@ namespace sgo_back_end.Models
         }
         public DbSet<Doador> Doadores { get; set; }
         public DbSet<Voluntario> Voluntarios { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }

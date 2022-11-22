@@ -6,12 +6,15 @@ namespace sgo_back_end.Models
     public class Publico
     {
         [Display(Name = "Nome")]
-        public string Nome { get; set; }
+        [Required(ErrorMessage = "Obrigatório informar o nome.")]
+        public string? Nome { get; set; }
 
         [Display(Name = "Telefone")]
-        public int Telefone { get; set; }
+        [Required(ErrorMessage = "Obrigatório informar o número de telefone.")]
+        public string? Telefone { get; set; }
 
         [Display(Name = "E-mail")]
-        public string Email { get; set; }
+        [Required(ErrorMessage = "Obrigatório informar o e-mail.")]
+        public string? Email { get; set; }
     }
 }
