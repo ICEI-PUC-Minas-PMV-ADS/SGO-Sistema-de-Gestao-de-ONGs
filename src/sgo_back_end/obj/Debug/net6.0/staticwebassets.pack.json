@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SGO_Sistema_de_Gestao_ONGs.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\cabecalho.css",
+      "PackagePath": "staticwebassets\\css\\cabecalho.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\cadastro-doador.css",
+      "PackagePath": "staticwebassets\\css\\cadastro-doador.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\cadastro-voluntario.css",
+      "PackagePath": "staticwebassets\\css\\cadastro-voluntario.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\lista-doadores.css",
+      "PackagePath": "staticwebassets\\css\\lista-doadores.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\lista-voluntarios.css",
+      "PackagePath": "staticwebassets\\css\\lista-voluntarios.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\rodape.css",
+      "PackagePath": "staticwebassets\\css\\rodape.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\suporte.css",
+      "PackagePath": "staticwebassets\\css\\suporte.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\css\\validacoes.css",
+      "PackagePath": "staticwebassets\\css\\validacoes.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\abrir-navbar.png",
+      "PackagePath": "staticwebassets\\img\\abrir-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\acessar-login.png",
+      "PackagePath": "staticwebassets\\img\\acessar-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-cadastrar.png",
+      "PackagePath": "staticwebassets\\img\\botão-cadastrar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-detalhes-lista.png",
+      "PackagePath": "staticwebassets\\img\\botão-detalhes-lista.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-editar-detalhes.png",
+      "PackagePath": "staticwebassets\\img\\botão-editar-detalhes.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-editar.png",
+      "PackagePath": "staticwebassets\\img\\botão-editar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir-lista.png",
+      "PackagePath": "staticwebassets\\img\\botão-excluir-lista.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-excluir.png",
+      "PackagePath": "staticwebassets\\img\\botão-excluir.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\botão-salvar.png",
+      "PackagePath": "staticwebassets\\img\\botão-salvar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-home.png",
+      "PackagePath": "staticwebassets\\img\\cadastro-doador-home.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\cadastro-doador-navbar.png",
+      "PackagePath": "staticwebassets\\img\\cadastro-doador-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-home.png",
+      "PackagePath": "staticwebassets\\img\\cadastro-voluntário-home.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\cadastro-voluntário-navbar.png",
+      "PackagePath": "staticwebassets\\img\\cadastro-voluntário-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\email-login.png",
+      "PackagePath": "staticwebassets\\img\\email-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\email-suporte.png",
+      "PackagePath": "staticwebassets\\img\\email-suporte.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\fechar-edição-cadastro.png",
+      "PackagePath": "staticwebassets\\img\\fechar-edição-cadastro.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\fechar-navbar.png",
+      "PackagePath": "staticwebassets\\img\\fechar-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\home-navbar.png",
+      "PackagePath": "staticwebassets\\img\\home-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\imagem-login.png",
+      "PackagePath": "staticwebassets\\img\\imagem-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\imagem-suporte.png",
+      "PackagePath": "staticwebassets\\img\\imagem-suporte.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\listas-home.png",
+      "PackagePath": "staticwebassets\\img\\listas-home.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\listas-navbar.png",
+      "PackagePath": "staticwebassets\\img\\listas-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\logo-login-domSolidário.png",
+      "PackagePath": "staticwebassets\\img\\logo-login-domSolidário.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\logo-navbar-domSolidário.png",
+      "PackagePath": "staticwebassets\\img\\logo-navbar-domSolidário.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\logo-puc.png",
+      "PackagePath": "staticwebassets\\img\\logo-puc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\logo-sgo.png",
+      "PackagePath": "staticwebassets\\img\\logo-sgo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\pessoa-editar-cadastro.png",
+      "PackagePath": "staticwebassets\\img\\pessoa-editar-cadastro.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\sair-header.png",
+      "PackagePath": "staticwebassets\\img\\sair-header.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\sair-navbar.png",
+      "PackagePath": "staticwebassets\\img\\sair-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\senha-login.png",
+      "PackagePath": "staticwebassets\\img\\senha-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\suporte-login.png",
+      "PackagePath": "staticwebassets\\img\\suporte-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\suporte-navbar.png",
+      "PackagePath": "staticwebassets\\img\\suporte-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\telefonica-suporte.png",
+      "PackagePath": "staticwebassets\\img\\telefonica-suporte.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\total-doadores.png",
+      "PackagePath": "staticwebassets\\img\\total-doadores.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\total-voluntários.png",
+      "PackagePath": "staticwebassets\\img\\total-voluntários.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\img\\whatsapp-suporte.png",
+      "PackagePath": "staticwebassets\\img\\whatsapp-suporte.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.ruby-version",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.ruby-version"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\Dockerfile",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\component.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\composer.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\deploy.rb",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\deploy.rb"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\dist\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\docker-compose.yml",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\docker-compose.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\src\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\jquery.mask.test.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.css",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-1.10.3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit-1.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\sinon-qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.11.1.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.7.2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.8.3.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-1.9.1.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-2.1.1.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-jquery-3.0.0.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\test-for-zepto.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-Mask-Plugin-master\\test\\zepto\\zepto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\22311\\src\\sgo_back_end\\wwwroot\\suporte.html",
+      "PackagePath": "staticwebassets\\suporte.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SGO_Sistema_de_Gestao_ONGs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SGO_Sistema_de_Gestao_ONGs.props",
+      "PackagePath": "build\\SGO_Sistema_de_Gestao_ONGs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SGO_Sistema_de_Gestao_ONGs.props",
+      "PackagePath": "buildMultiTargeting\\SGO_Sistema_de_Gestao_ONGs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SGO_Sistema_de_Gestao_ONGs.props",
+      "PackagePath": "buildTransitive\\SGO_Sistema_de_Gestao_ONGs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

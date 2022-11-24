@@ -12,35 +12,40 @@
 
 .lista-voluntario-container {
     display: flex;
-    justify-content: center;
-    margin: 0 80px;
-    border: solid 1px var(--input-borda);
-    padding-bottom: 150px;
-    border-radius: 6px;
+    justify-content: center
 }
 
 .voluntario__tabela {
     width: 100%;
+    border: solid 1px var(--input-borda);
+    padding: 0 0 150px 0;
+    border-radius: 8px;
+    border-collapse: separate;
+    margin-bottom: 50px;
 }
 
 .voluntarios-cadastradas {
     border-bottom: solid 1px var(--input-borda);
 }
 
-.voluntario__tabela .voluntarios-cadastradas .item {
-    padding: 20px;
+.item {
+    padding: 20px 30px;
     font-size: 14px;
     font-weight: 500;
     color: var(--input-borda-focus);
+    white-space: nowrap;
+    border-bottom: solid 1px var(--input-borda);
 }
 
-.voluntario__tabela-header td {
-    padding: 20px;
-    border-bottom: solid 1px var(--input-borda);
-    font-size: 15px;
-    font-weight: 700;
-    color: var(--rosa)
-}
+    .voluntario__tabela-header th {
+        padding: 20px 30px;
+        border-bottom: solid 1px var(--input-borda);
+        font-size: 15px;
+        font-weight: 700;
+        color: var(--rosa);
+        text-align: left;
+        white-space: nowrap;
+    }
 
 .voluntario__botao-editar {
     display: flex;
@@ -53,7 +58,7 @@
     color: var(--input-borda-focus);
     font-weight: 600;
     cursor: pointer;
-    padding: 20px 8px;
+
 }
 
     .voluntario__botao-editar:hover {
@@ -63,4 +68,37 @@
 
 .voluntario__botao-editar img {
     padding-right: 8px;
+}
+
+.dataTables_filter {
+    text-align: center;
+}
+
+.dataTables_filter label input {
+    width: 50%;
+    margin: 10px 0 20px 10px;
+    justify-content: center;
+    padding: 10px;
+    border: solid 1px var(--input-borda);
+    border-radius: 8px;
+}
+
+    .dataTables_filter label input:hover {
+        border-color: var(--input-hover)
+    }
+
+    .dataTables_filter label input:focus {
+        border-color: var(--input-borda-focus);
+        border: solid 1px
+    }
+
+.dataTables_filter label {
+    color: var(--rosa);
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.dataTables_empty {
+    text-align: center;
+    padding: 50px;
 }

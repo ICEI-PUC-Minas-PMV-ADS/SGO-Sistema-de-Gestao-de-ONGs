@@ -11,7 +11,7 @@
     <WebStackScaffolding_DbContextTypeFullName>sgo_back_end.Models.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\user\Desktop\SGO-Sistema-de-Gestao-de-ONGs\src\sgo_back_end\Properties\PublishProfiles\domingosolidario - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\user\Desktop\22311\src\sgo_back_end\Properties\PublishProfiles\sgoproject - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <View_SelectedScaffolderID>RazorViewScaffolder</View_SelectedScaffolderID>
     <View_SelectedScaffolderCategoryPath>root/Common/MVC/View</View_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ViewDialogWidth>650</WebStackScaffolding_ViewDialogWidth>

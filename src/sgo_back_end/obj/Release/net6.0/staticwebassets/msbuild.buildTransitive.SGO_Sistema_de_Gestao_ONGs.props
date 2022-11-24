@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SGO_Sistema_de_Gestao_ONGs.props" />
+</Project>
