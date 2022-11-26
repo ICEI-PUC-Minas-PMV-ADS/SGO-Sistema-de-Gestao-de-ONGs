@@ -12,7 +12,7 @@
 
 .lista-voluntario-container {
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
 
 .voluntario__tabela {

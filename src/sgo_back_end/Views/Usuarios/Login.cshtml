@@ -11,13 +11,13 @@
 
         <div asp-validation-summary="ModelOnly" class="texto-validacao"></div>
         <div class="login__input">
-            <label asp-for="Nome"><img src="/img/email-login.png"/>E-mail</label>
+            <label asp-for="Nome"><img src="/img/email-login.png" alt="Ícone do E-mail" />E-mail</label>
             <input asp-for="Nome" type="email" class="login__input-padrao" required />
             <span asp-validation-for="Nome" class="texto-validacao"></span>
         </div>
         <div class="login__input">
-            <label asp-for="Senha"><img src="/img/senha-login.png"/>Senha</label>
-        <input asp-for="Senha" type="password" class="login__input-padrao" required />
+            <label asp-for="Senha"><img src="/img/senha-login.png" alt="Ícone da Senha" />Senha</label>
+            <input asp-for="Senha" type="password" class="login__input-padrao" required />
             <span asp-validation-for="Senha" class="texto-validacao"></span>
         </div>
 
@@ -26,7 +26,7 @@
         <p class="login_cadastrar">Quero me <a asp-action="Create">Cadastrar</a></p>
 
         <button type ="submit" class="login__acessar">
-            <img src="/img/acessar-login.png" />
+            <img src="/img/acessar-login.png" alt="Ícone do botão acessar" />
             Acessar
         </button>
     </form>
