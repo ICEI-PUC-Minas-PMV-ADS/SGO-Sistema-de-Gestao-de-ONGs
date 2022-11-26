@@ -3,6 +3,11 @@
 O template padrão do site vai seguir a estrutura do Wireframe elaborado na seção anterior, sendo composto pelas seguintes telas: 
 
 
+- Cadastro
+
+A tela a seguir tem como objetivo permitir ao gestor a realização do seu cadastro para acesso ao sistema, além de proporcionar acesso à tela de suporte. Para isso, deverá informar e-mail e senha, em seguida, deverá clicar em “criar”.  Ao realizar o cadastro, será redirecionado para a tela de login. 
+
+![Tela de Cadastro](img/templates/template-cadastro-usuario.png)
 
 - Login 
 
@@ -30,9 +35,9 @@ Essa tela permite ao gestor realizar o cadastro de um voluntário. Para isso, el
 
 - Lista de Voluntários
 
-Feito o cadastro, o gestor poderá visualizar o voluntário e suas informações (como telefone, e-mail, função e disponibilidade) em uma lista. Esse é o objetivo da tela abaixo, que também conta com botões para edição, exclusão e visualização de detalhes do cadastro do respectivo voluntário. 
+Feito o cadastro, o gestor poderá visualizar o voluntário e suas informações (como telefone, e-mail, função e disponibilidade) em uma lista. Esse é o objetivo da tela abaixo, que também conta com botões para edição, exclusão e visualização de detalhes do cadastro do respectivo voluntário, além de barra de pesquisa.
 
-![Lista de Voluntários](img/templates/template-listagem-de-voluntarios.png)
+![Lista de Voluntários](img/templates/template-listagem-de-voluntario.png)
 
 
 - Editar cadastro do Voluntário
@@ -65,7 +70,7 @@ A tela seguinte permite ao gestor realizar o cadastro de um doador. Para isso, e
 
 - Lista de Doadores
 
-Realizado o cadastro do doador, o gestor poderá visualizar  suas informações (como nome, telefone e e-mail) em uma lista. Esse é o objetivo da tela abaixo, que também conta com botões para edição, exclusão e visualização de detalhes do cadastro do respectivo doador.
+Realizado o cadastro do doador, o gestor poderá visualizar  suas informações (como nome, telefone e e-mail) em uma lista. Esse é o objetivo da tela abaixo, que também conta com botões para edição, exclusão e visualização de detalhes do cadastro do respectivo doador, além de barra de pesquisa.
 
 ![Listagem de Doadores](img/templates/template-listagem-de-doadores.png)
 

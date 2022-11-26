@@ -34,6 +34,6 @@ Como serviço de hospedagem e banco de dados da nossa aplicação será utilizad
 
 ## Hospedagem
 
-O site do projeto utiliza a plataforma Microsoft Azure como serviço de hospedagem. O site pode ser acessado [aqui](https://domingosolidario.azurewebsites.net/).
+O site do projeto utiliza a plataforma Microsoft Azure como serviço de hospedagem. O site pode ser acessado [aqui](https://sgoproject.azurewebsites.net).
 
 

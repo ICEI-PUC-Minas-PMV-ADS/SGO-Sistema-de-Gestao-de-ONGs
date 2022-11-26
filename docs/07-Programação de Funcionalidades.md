@@ -2,17 +2,100 @@
 
 Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma das funcionalidades do sistema.
 
+# Login
+
+![Login](img/funcionalidades/print-login.png)
+
+## Requisitos Atendidos:
+
+- RF-02: O sistema deve ter uma tela para o gestor realizar login, com os seguintes campos de preenchimento: E-mail e senha. 
+
+## Artefatos da funcionalidade:
+
+- logo-sgo.png; 
+
+- logo-login-domSolidário.png 
+
+- imagem-login.png 
+
+- email-login.png 
+
+- senha-login.png 
+
+- acessar-login.png 
+
+- suporte-login.png 
+
+- base.css 
+
+- reset.css 
+
+- login.css 
+
+- validacoes.css 
+
+- Login.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
+
+
+- A primeira página exibida é a tela de login.  
+
+# Cadastro de usuário
+
+![Login](img/funcionalidades/print-cadastro-usuario.png)
+
+## Requisitos Atendidos:
+
+- RF-01: O sistema deve ter uma tela para o gestor realizar o seu cadastro, com os seguintes campos de preenchimento: E-mail e senha. 
+
+## Artefatos da funcionalidade:
+
+- logo-sgo.png; 
+
+- logo-login-domSolidário.png 
+
+- email-login.png 
+
+- senha-login.png 
+
+- acessar-login.png 
+
+- suporte-login.png 
+
+- base.css 
+
+- reset.css 
+
+- login.css 
+
+- validacoes.css 
+
+- Create.cshtml 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
+
+
+- A primeira página exibida é a tela de login;
+
+- Clique em “quero me cadastrar” para ser redirecionado para a tela de cadastro. 
+
 # Home
 ![Home](img/funcionalidades/print-home.png)
 ![Home](img/funcionalidades/print-navbar.png)
 
 ## Requisitos Atendidos: 
 
-- RF-02: O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. 
+- RF-03: O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. 
 
-- RF-03: A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados. 
+- RF-04: A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados. 
 
-- RF-13: O site deve ter em sua home a quantidade de voluntários e doadores cadastrados. 
+- RF-16: O site deve ter em sua home a quantidade de voluntários e doadores cadastrados. 
+
 ## Artefatos da funcionalidade:
 
 - abrir-navbar.png; 
@@ -53,9 +136,11 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
 
-- Você será redirecionado para a Home.
+- Realize o login com seu E-mail e Senha; 
+
+- Após realizar o login, você será redirecionado para a Home. 
 
 # Cadastro de Voluntário
 
@@ -63,7 +148,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-04: O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição. 
+- RF-05: O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição. 
 
 ## Artefatos da funcionalidade:
 
@@ -94,18 +179,21 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - Create.cshtml 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 
 - Para acessar a tela de cadastro de voluntário, basta clicar em “Cadastrar Voluntário”. 
+
 # Lista de Voluntários
 
 
-![Lista de voluntários](img/funcionalidades/print-lista-voluntario.png)
+![Lista de voluntários](img/funcionalidades/print-lista-voluntarios.png)
 
 ## Requisitos Atendidos:
 
-- RF-05: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
+- RF-06: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
 
 ## Artefatos da funcionalidade:
 
@@ -136,8 +224,11 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - reset.css 
 
 - Index.cshtml 
+
 ## Instruções de acesso:
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/;
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 
 - Para acessar a tela de listagem de voluntários, basta clicar em “Listagem de Voluntários” ou acessar a lista pela navbar. 
@@ -149,7 +240,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-06: O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário. 
+- RF-07: O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário. 
 
 ## Artefatos da funcionalidade:
 
@@ -181,7 +272,9 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 
 - Para acessar a tela de edição, basta acessar a lista de voluntários e clicar em “Editar”. 
@@ -192,7 +285,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-05: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
+- RF-06: A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados. 
 
 ## Artefatos da funcionalidade:
 
@@ -219,9 +312,12 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - reset.css 
 
 - Details.cshtml 
+
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 
 - Para acessar a tela de detalhes, basta acessar a lista de voluntários e clicar em “Detalhes”. 
@@ -232,7 +328,8 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-07: O sistema deve permitir ao gestor excluir o voluntário cadastrado. 
+- RF-08: O sistema deve permitir ao gestor excluir o voluntário cadastrado.
+
 ## Artefatos da funcionalidade:
 
 - abrir-navbar.png; 
@@ -261,7 +358,9 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login;  
 
 - Para acessar a tela de exclusão de cadastro, basta acessar a lista de voluntários e clicar em “Deletar”. 
 
@@ -272,7 +371,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-08: A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail. 
+- RF-10: A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail. 
 
 ## Artefatos da funcionalidade:
 
@@ -304,18 +403,20 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 - Para acessar a tela de cadastro de doadores, basta clicar em “Cadastrar Doador”. 
 
 ## Lista de Doadores
 
 
-![Lista de doadores](img/funcionalidades/print-lista-doador.png)
+![Lista de doadores](img/funcionalidades/print-lista-doadores.png)
 
 ## Requisitos Atendidos:
 
-- RF-09: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.   
+- RF-11: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.   
 
 ## Artefatos da funcionalidade:
 
@@ -350,7 +451,9 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - Index.cshtml 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 - Para acessar a tela de listagem de doadores, basta clicar em “Listagem de Doadores” ou acessar a lista pela navbar. 
 
@@ -360,7 +463,8 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 ![Edição no cadastro de doador](img/funcionalidades/print-editar-doador.png)
 
 ## Requisitos Atendidos:
-- RF-10: O sistema deve permitir ao gestor alterar os dados cadastrais do doador. 
+- RF-12: O sistema deve permitir ao gestor alterar os dados cadastrais do doador. 
+
 ## Artefatos da funcionalidade:
 
 - abrir-navbar.png; 
@@ -391,7 +495,9 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
--Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 - Para acessar a tela de edição, basta acessar a lista de doadores e clicar em “Editar”. 
 
@@ -401,7 +507,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-09: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição,exclusão e visualização dos detalhes dos dados cadastrados.   
+- RF-11: A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição,exclusão e visualização dos detalhes dos dados cadastrados.   
 
 ## Artefatos da funcionalidade:
 
@@ -428,9 +534,12 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - reset.css 
 
 - Details.cshtml 
+
 ## Instruções de acesso:
  
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
 
 - Para acessar a tela de detalhes, basta acessar a lista de doadores e clicar em “Detalhes”. 
 
@@ -440,7 +549,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Requisitos Atendidos:
 
-- RF-11: O sistema deve permitir ao gestor excluir o doador cadastrado. 
+- RF-13: O sistema deve permitir ao gestor excluir o doador cadastrado. 
 
 ## Artefatos da funcionalidade:
 
@@ -470,6 +579,47 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://domingosolidario.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login;  
 
 - Para acessar a tela de exclusão de cadastro, basta acessar a lista de doadores e clicar em “Deletar” 
+
+## Suporte
+
+![Suporte](img/funcionalidades/print-suporte.png)
+
+## Requisitos Atendidos:
+
+- RF-15: O sistema deve ter uma tela com opções para contactar o suporte técnico.   
+## Artefatos da funcionalidade:
+
+- logo-sgo.png 
+
+- imagem-suporte.png 
+
+- telefonica-suporte.png 
+
+- whatsapp-suporte.png 
+
+- email-suporte.png 
+
+- logo-puc.png 
+
+- rodape.css 
+
+- base.css 
+
+- reset.css 
+
+- suporte.css 
+
+- suporte.html 
+
+## Instruções de acesso:
+
+- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+
+- A primeira página exibida é a tela de login; 
+
+- Para acessar a tela de suporte, basta clicar na opção “suporte” exibida na tela de login ou na navbar. 

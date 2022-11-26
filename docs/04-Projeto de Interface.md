@@ -40,7 +40,7 @@ Já no bloco de Conteúdo, ela conta com dois campos onde o gestor informa seu e
 
 E finalmente, no bloco de Rodapé, possuí o botão “Suporte”.
 
-![Login](img/wireframes/login.png)
+![Login](img/wireframes/wireframe-login.png)
 
 
 - Home
@@ -119,7 +119,7 @@ Os blocos de Cabeçalho e Rodapé possuem os mesmos elementos da Home.
 
 Ao clicar em “Editar”, será aberta uma tela de edição, contendo os campos “Nome”, “E-mail”, “Telefone” e as caixas de seleção “Função” (com as opções “Montagem” e “Distribuição”) e “Disponível esse Mês” (com as opções “Sim” e “Não”) para serem editadas. Além disso, terá a botão “Salvar” e “Voltar”.  
 
-![Editar Cadastro de Doadores](img/wireframes/wireframe-editar-doadores.png)
+![Editar Cadastro de Doadores](img/wireframes/wireframe-editar-doador.png)
 
 
 - Visualizar detalhes no Cadastro do Doador:
