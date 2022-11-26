@@ -16,11 +16,14 @@ Gerir, através de um sistema interno, o cadastro de voluntários e doadores da 
 
 #### Como objetivos específicos, podemos ressaltar:
 
+- Desenvolver a funcionalidade de cadastro, por parte do gestor, no sistema interno; 
 - Desenvolver a funcionalidade de Login, por parte do Gestor, no sistema interno;
 - Desenvolver a funcionalidade de cadastro de voluntários;
 - Desenvolver a funcionalidade de listagem dos voluntários cadastrados;
+- Desenvolver a funcionalidade de pesquisa dos voluntários cadastrados; 
 - Desenvolver a funcionalidade de cadastro de doadores;
 - Desenvolver a funcionalidade de listagem dos doadores;
+- Desenvolver a funcionalidade de pesquisa dos doadores cadastrados; 
 - Desenvolver a funcionalidade de edição, exclusão e visualização dos detalhes do cadastro de voluntários e doadores;
 - Visualizar a quantidade de voluntários e de doadores cadastrados no sistema.
 

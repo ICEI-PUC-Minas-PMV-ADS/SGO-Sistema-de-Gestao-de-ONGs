@@ -30,16 +30,19 @@ Com a observação do cotidiano das personas e a compreensão de suas necessidad
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|José                | Realizar o seu cadastro e login no sistema | Conseguir acessar o sistema.  |
 |José                | Cadastrar os voluntários no sistema| Ter uma melhor organização no dia da ação. |
 |Maria               | Ter a opção de colocar a função do voluntário na hora do cadastro| facilitar a gestão dos voluntários no planejamento das ações da ONG. |
 |José                | Cadastrar os doadores no sistema | Fazer contato com os doadores antes da ação.  |
 |Maria               | Visualizar, em forma de lista, os voluntários com as suas respectivas informações de contato | Facilitar a gestão dos voluntários no planejamento das ações da ONG. |
+|Maria               | Pesquisar determinado voluntário na listagem através da barra de pesquisa.  | Conseguir encontrar o voluntário com mais facilidade. .  |
 |José                | Ter uma opção de contato com o suporte | Poder entrar em contato no caso de algum problema com o sistema. |
 |José                | Editar a função do voluntário | Para caso alguém queira trocar de função. |
 |Maria               | Editar a disponibilidade do voluntário de acordo com o mês vigente.   | Nem todos voluntários tem disponibilidade todos os meses. |
 |José                | Editar as informações de cadastro de doadores e voluntários |  Caso a pessoa mude de telefone ou E-mail, por exemplo. |
 |Maria               | Excluir voluntários ou doadores do sistema  |  Caso a pessoa não queira mais contribuir com a ONG.  |
 |José                | Visualizar, em forma de lista, os doadores com as suas respectivas informações de contato  | fazer contato com os doadores antes da ação.  |
+|Maria               | Pesquisar determinado doador na listagem através da barra de pesquisa. | Conseguir encontrar o doador com mais facilidade.   |
 |José                | Visualizar a quantidade de voluntários e doadores cadastrados na home | Melhorar a gestão da ONG. |
 
 ## Requisitos do Projeto
@@ -56,19 +59,22 @@ Os requisitos funcionais do projeto e seus respectivos níveis de prioridade de 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve ter uma tela para o gestor realizar login, com os seguintes campos de preenchimento: E-mail e senha.  | ALTA |
-|RF-02| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. | ALTA |
-|RF-03| A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados.    | ALTA |
-|RF-04| O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
-|RF-05| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.    | MÉDIA |
-|RF-06| O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário.     | BAIXA |
-|RF-07| O sistema deve permitir ao gestor excluir o voluntário cadastrado.     | BAIXA |
-|RF-08| A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail.      | ALTA |
-|RF-09| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.     | MÉDIA |
-|RF-10| O sistema deve permitir ao gestor alterar os dados cadastrais do doador.      | BAIXA |
-|RF-11| O sistema deve permitir ao gestor excluir o doador cadastrado.     | BAIXA |
-|RF-12| O sistema deve ter uma tela com opções para contactar o suporte técnico.       | BAIXA |
-|RF-13| O site deve ter em sua home a quantidade de voluntários e doadores cadastrados.     | MÉDIA |
+|RF-01| O sistema deve ter uma tela para o gestor realizar o seu cadastro, com os seguintes campos de preenchimento: E-mail e senha.  | ALTA |
+|RF-02| O sistema deve ter uma tela para o gestor realizar login, com os seguintes campos de preenchimento: E-mail e senha.  | ALTA |
+|RF-03| O sistema deve ter uma tela de home com a opção de cadastro de voluntários e doadores. | ALTA |
+|RF-04| A tela de home deve ter um botão para acessar a lista de voluntários e a lista de doadores cadastrados.    | ALTA |
+|RF-05| O site deve conter, no momento do cadastro dos voluntários, os campos para preenchimento: Nome, Telefone, E-mail, disponibilidade para atuação no mês e função a qual o voluntário deseja no dia da ação: montagem ou distribuição.   | ALTA |
+|RF-06| A lista de voluntários é formada pelos campos preenchidos no cadastro dos voluntários e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.    | MÉDIA |
+|RF-07| O sistema deve permitir ao gestor alterar os dados cadastrais do voluntário.     | BAIXA |
+|RF-08| O sistema deve permitir ao gestor excluir o voluntário cadastrado.     | BAIXA |
+|RF-09| A tela de listagem terá uma barra de pesquisa, onde o gestor poderá buscar por um determinado voluntário.      | ALTA |
+|RF-10| A tela de cadastro de doadores deve conter os seguintes campos para preenchimento: Nome, Telefone e E-mail.      | ALTA |
+|RF-11| A lista de doadores é formada pelos campos preenchidos no cadastro dos doadores e conterá um botão para edição, exclusão e visualização dos detalhes dos dados cadastrados.     | MÉDIA |
+|RF-12| O sistema deve permitir ao gestor alterar os dados cadastrais do doador.      | BAIXA |
+|RF-13| O sistema deve permitir ao gestor excluir o doador cadastrado.     | BAIXA |
+|RF-14| A tela de listagem terá uma barra de pesquisa, onde o gestor poderá buscar por um determinado doador.      | ALTA |
+|RF-15| O sistema deve ter uma tela com opções para contactar o suporte técnico.       | BAIXA |
+|RF-16| O site deve ter em sua home a quantidade de voluntários e doadores cadastrados.     | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -76,15 +82,13 @@ Os requisitos não funcionais que a equipe deverá seguir durante o desenvolvime
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01| O site será responsivo, permitindo seu acesso e visualização em desktop e celulares. | ALTA |
-|RNF-02| O site deverá ter uma disponibilidade 24/7. | ALTA |
-|RNF-03| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Opera). | ALTA |
-|RNF-04| A interface deve ser agradável, intuitiva, de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados. | MÉDIA |
-|RNF-05| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages). | ALTA |
-|RNF-06| O sistema deverá retornar ao usuário mensagem ao término de uma tarefa. | MÉDIA |
-|RNF-07| Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  | MÉDIA |
-|RNF-08| Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.  | MÉDIA |
-|RNF-09| A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.  | ALTA |
+|RNF-01| O site deverá ter uma disponibilidade 24/7. | ALTA |
+|RNF-02| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Opera). | ALTA |
+|RNF-03| A interface deve ser agradável, intuitiva, de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados. | MÉDIA |
+|RNF-04| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages). | ALTA |
+|RNF-05| Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  | MÉDIA |
+|RNF-06| Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.  | MÉDIA |
+|RNF-07| A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.  | ALTA |
 
 ## Restrições
 
@@ -104,4 +108,4 @@ Em linhas gerais, o diagrama de casos de uso documenta o que o sistema deve faze
 
 O diagrama a seguir diz respeito ao projeto em questão:
 
-![Diagrama de Caso de Uso](img/diagrama-casos-de-uso.png)
+![Diagrama de Caso de Uso](img/diagrama-casos-de-uso.drawio.png)

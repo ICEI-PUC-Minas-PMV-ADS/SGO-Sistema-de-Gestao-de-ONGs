@@ -9896,24 +9896,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thiago Terra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago Terra\\source\\repos\\SGO\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
       "projectName": "SGO_Sistema_de_Gestao_ONGs",
-      "projectPath": "C:\\Users\\Thiago Terra\\source\\repos\\SGO\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
-      "packagesPath": "C:\\Users\\Thiago Terra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago Terra\\source\\repos\\SGO\\src\\sgo_back_end\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Thiago Terra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9921,7 +9916,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

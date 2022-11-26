@@ -5,105 +5,88 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SGO_Sistema_de_Gestao_ONGs
 build_property.RootNamespace = SGO_Sistema_de_Gestao_ONGs
-build_property.ProjectDir = C:\Users\user\Desktop\22311\src\sgo_back_end\
+build_property.ProjectDir = C:\Users\Asus\Desktop\repo-etapa4\src\sgo_back_end\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\22311\src\sgo_back_end
+build_property.MSBuildProjectDirectory = C:\Users\Asus\Desktop\repo-etapa4\src\sgo_back_end
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Doadores/Create.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Doadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Doadores/Delete.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Doadores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Doadores/Details.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Doadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Doadores/Edit.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Doadores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Doadores/Index.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Doadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Home/Index.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Shared/Error.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Create.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Usuarios/Login.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Usuarios/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Voluntarios/Create.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Voluntarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Voluntarios/Delete.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Voluntarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Voluntarios/Details.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Voluntarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Voluntarios/Edit.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Voluntarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Voluntarios/Index.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Voluntarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/_ViewImports.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/_ViewStart.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-iheqvl4h4t
 
-[C:/Users/user/Desktop/22311/src/sgo_back_end/Views/Shared/_LayoutLogin.cshtml]
+[C:/Users/Asus/Desktop/repo-etapa4/src/sgo_back_end/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-a3ubt9zjxm
