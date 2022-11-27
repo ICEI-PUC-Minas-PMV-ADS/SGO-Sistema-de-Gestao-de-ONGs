@@ -85,7 +85,7 @@ Os requisitos não funcionais que a equipe deverá seguir durante o desenvolvime
 |RNF-01| O site deverá ter uma disponibilidade 24/7. | ALTA |
 |RNF-02| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Opera). | ALTA |
 |RNF-03| A interface deve ser agradável, intuitiva, de fácil utilização para o usuário e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados. | MÉDIA |
-|RNF-04| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub Pages). | ALTA |
+|RNF-04| O site deve ser publicado em um ambiente acessível publicamente na Internet. | ALTA |
 |RNF-05| Os formulários devem informar ao usuário quais são os campos de preenchimento obrigatório.  | MÉDIA |
 |RNF-06| Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.  | MÉDIA |
 |RNF-07| A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.  | ALTA |
