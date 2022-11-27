@@ -23,7 +23,7 @@ Nesta seção constam os registros fotográficos dos testes descritos nos casos 
 ## CT-03 – Cadastro de voluntários 
 - Nessa tela, preenchemos os campos para realização do cadastro e clicamos na opção “cadastrar”; 
 
-![ct-03](img/reg-testes/ct-03-parte3.png)
+![ct-03](img/reg-testes/ct-03-parte1.png)
 
 - Feito o cadastro, o usuário foi redirecionado para Listagem de Voluntários e os voluntários cadastrados constm na lista; 
 
