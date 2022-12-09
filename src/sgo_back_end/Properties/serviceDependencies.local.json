@@ -3,12 +3,11 @@
     "secrets1": {
       "type": "secrets.user"
     },
-    "mssql1": {
+    "mssql2": {
       "secretStore": "LocalSecretsFile",
-      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/domingosolidario/databases/coreDb",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/coredbserver321/databases/coreDb",
       "type": "mssql.azure",
-      "connectionId": "SGOServerOnline",
-      "dynamicId": null
+      "connectionId": "coredbserver321.database.windows.net"
     }
   }
 }

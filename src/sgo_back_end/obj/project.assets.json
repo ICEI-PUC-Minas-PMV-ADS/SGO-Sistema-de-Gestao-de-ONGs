@@ -9896,19 +9896,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
       "projectName": "SGO_Sistema_de_Gestao_ONGs",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\repo-etapa4\\src\\sgo_back_end\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9982,7 +9982,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
