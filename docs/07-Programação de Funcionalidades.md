@@ -38,7 +38,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 
 - A primeira página exibida é a tela de login.  
@@ -77,8 +77,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
-
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login;
 
@@ -136,7 +135,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/;
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - Realize o login com seu E-mail e Senha; 
 
@@ -179,7 +178,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - Create.cshtml 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -226,7 +225,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - Index.cshtml 
 
 ## Instruções de acesso:
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -272,7 +271,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -315,7 +314,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -358,7 +357,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login;  
 
@@ -403,7 +402,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -451,7 +450,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 - Index.cshtml 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -495,7 +494,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -537,7 +536,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
  
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 
@@ -579,7 +578,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login;  
 
@@ -618,7 +617,7 @@ Nesta seção são apresentadas as telas desenvolvidas pelo grupo para cada uma 
 
 ## Instruções de acesso:
 
-- Abra o navegador de internet e acesse o site: https://sgoproject.azurewebsites.net/ 
+- Abra o navegador de internet e acesse o site: https://sgodomingosolidario.azurewebsites.net/
 
 - A primeira página exibida é a tela de login; 
 

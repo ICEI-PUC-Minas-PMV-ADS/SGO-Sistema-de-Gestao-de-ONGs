@@ -8,7 +8,7 @@ O sistema foi desenvolvido utilizando o framework ASP.NET, então para executar 
 3) Após clonar, abra a pasta "src" e em seguida de um clique duplo sobre o arquivo "SGO_Sistema_de_Gestao_ONGs.sln";
 4) Logo depois o Visual Studio irá abrir a aplicação com todo o código, então basta iniciar a depuração para ver o sistema desenvolvido.
 
-Também poderá acessar o sistema pelo link: https://sgoproject.azurewebsites.net/
+Também poderá acessar o sistema pelo link: https://sgodomingosolidario.azurewebsites.net/
 
 ## Histórico de versões
 

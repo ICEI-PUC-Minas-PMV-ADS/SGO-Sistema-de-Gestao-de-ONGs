@@ -9901,11 +9901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
       "projectName": "SGO_Sistema_de_Gestao_ONGs",
-      "projectPath": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

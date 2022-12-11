@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4bSjGl3vlKJ6dR6uD1jG0gAHwQlIxbcuce54ZQ86DK6ShNC87TElYQ62rHznduEWVwrpLA5sGSMUgRTFt8z1+g==",
+  "dgSpecHash": "1nsNu3UaW6xzRROzK/TccD/LzLrmMcWV9ZorNzAwn3Gs+WlywvEAmuM9RcAVclcIu2VwpWMSB8WiYrmRVfafVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\0912.2\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\SGO-Sistema-de-Gestao-de-ONGs\\src\\sgo_back_end\\SGO_Sistema_de_Gestao_ONGs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
