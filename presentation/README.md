@@ -4,18 +4,18 @@
 
 - PDF da apresentação
 
-[Apresentação SGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t9-sgo-sistema-de-gestao-de-ongs/blob/main/presentation/sgo_etapa1_apresentacao.pdf)
+[Apresentação SGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/SGO-Sistema-de-Gestao-de-ONGs/blob/main/presentation/Apresenta%C3%A7%C3%A3o%20Etapa%201%20-%20SGO%20Sistema%20de%20gest%C3%A3o%20de%20ONGs.pdf)
 
 - Vídeo da apresentação
 
-https://user-images.githubusercontent.com/92655524/189532082-0445918a-fa7d-4b1a-b42f-72c9f4eafdf9.mp4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/SGO-Sistema-de-Gestao-de-ONGs/blob/main/presentation/Video%20Etapa%201%20-%20SGO%20Sistema%20de%20gest%C3%A3o%20de%20ONGs.pdf.mp4
 
 ## Apresentação da 5º Etapa
 
 - PDF da apresentação
 
-[Apresentação SGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t9-sgo-sistema-de-gestao-de-ongs/blob/main/presentation/sgo_etapa1_apresentacao.pdf)
+[Apresentação SGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/SGO-Sistema-de-Gestao-de-ONGs/blob/main/presentation/Apresenta%C3%A7%C3%A3o%20Etapa%205%20-%20SGO%20Sistema%20de%20gest%C3%A3o%20de%20ONGs.pdf)
 
 - Vídeo da apresentação
 
-https://user-images.githubusercontent.com/92655524/189532082-0445918a-fa7d-4b1a-b42f-72c9f4eafdf9.mp4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/SGO-Sistema-de-Gestao-de-ONGs/blob/main/presentation/Video%20Etapa%205%20-%20SGO%20Sistema%20de%20gest%C3%A3o%20de%20ONGs.pdf.mp4
