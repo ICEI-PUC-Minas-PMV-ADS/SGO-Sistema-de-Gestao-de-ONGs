@@ -1,0 +1,22 @@
+message: Please cite this software using these metadata.
+title: SGO - Sistema de Gestão de ONGs
+authors:
+  - family-names: Oliveira de Castro Silva
+    given-names: Isabela
+  - family-names: Jorges da Silva
+    given-names: João Paulo
+  - family-names: Teixeira Barbosa Contin
+    given-names: Mariano
+  - family-names: Terra da Silva
+    given-names: Thiago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Cristina Dias
+    given-names: Viviane
+keywords:
+  - ONG
+  - Gestão
+  - Social
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/SGO-Sistema-de-Gestao-de-ONGs.git
+version: 1.0.0
+date-released: 2022-11-27
